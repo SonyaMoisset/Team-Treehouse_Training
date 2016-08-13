@@ -3,3 +3,4 @@
 - HTML First
 - Creating HTML Content
 - CSS: Cascading Style Sheets
+- Customizing Colors and Fonts
