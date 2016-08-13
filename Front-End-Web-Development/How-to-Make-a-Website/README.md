@@ -5,3 +5,4 @@
 - CSS: Cascading Style Sheets
 - Customizing Colors and Fonts
 - Styling Web Pages and Navigation
+- Adding Pages to a Website
