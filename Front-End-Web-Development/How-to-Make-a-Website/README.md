@@ -11,3 +11,4 @@
 - Debugging HTML and CSS Problems
 
 # COMPLETED | 14/08/2016
+# 658 points
