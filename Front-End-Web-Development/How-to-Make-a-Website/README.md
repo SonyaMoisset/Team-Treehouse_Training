@@ -6,3 +6,4 @@
 - Customizing Colors and Fonts
 - Styling Web Pages and Navigation
 - Adding Pages to a Website
+- Responsive Web Design and Testing
