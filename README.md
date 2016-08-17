@@ -10,4 +10,4 @@
 
 # Workshops
 ## CSS
-- Introduction to postCSS | COMPLETED | 9 points
+- Introduction to postCSS => COMPLETED | 9 points
