@@ -1,1 +1,2 @@
 # Responsive Layouts
+- Responsive Theory
