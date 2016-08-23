@@ -1,5 +1,5 @@
 # Treehouse
-### Total Points | 3622
+### Total Points | 3639
 ### Achievements | 43 badges
 
 # Paths
