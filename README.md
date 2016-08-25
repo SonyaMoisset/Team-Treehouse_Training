@@ -1,10 +1,11 @@
 # Treehouse
-### Total Points | 4177
-### Achievements | 49 badges
+### Total Points | 4405
+### Total Achievements | 53 badges
 
 # Paths
 ## Front End Web Development
-### Points | 4137
+### Points | 4375
+### Badges | 52
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - CSS Basics => COMPLETED | 15/08/2016 | 540 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
@@ -15,6 +16,7 @@
 - JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
 - CSS Selectors => COMPLETED | 23/08/2016 | 269 points
 - jQuery Basics => COMPLETED | 25/08/2016 | 555 points
+- Bootstrap 4 Basics => COMPLETED | 25/08/2016 | 228 points
 
 # Workshops
 ## CSS
