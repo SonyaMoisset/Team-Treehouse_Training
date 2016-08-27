@@ -1,10 +1,10 @@
 # Treehouse
-### Total Points | 4872
-### Total Achievements | 58 badges
+### Total Points | 5100
+### Total Achievements | 61 badges
 
 # Paths
 ## Front End Web Development Path
-### Points | 4842
+### Points | 5070
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - CSS Basics => COMPLETED | 15/08/2016 | 540 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
@@ -18,6 +18,7 @@
 - Bootstrap 4 Basics => COMPLETED | 25/08/2016 | 228 points
 - HTML Tables => COMPLETED | 26/08/2016 | 193 points
 - Interactive Web Pages with JavaScript => COMPLETED | 27/08/2016 | 274 points
+- HTML Video and AUdio => COMPLETED | 27/08/2016 | 228 points
 
 ## Web Design Path
 ### Points | 2670
