@@ -1,10 +1,13 @@
 # Treehouse
-### Total Points | 5100
-### Total Achievements | 61 badges
+### Total Points | 5609
+### HTML | 124 points
+### CSS | 1877 points
+### JavaScript | 2324 points
+### Total Achievements | 65 badges
 
 # Paths
 ## Front End Web Development Path
-### Points | 5070
+### Points | 5579
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - CSS Basics => COMPLETED | 15/08/2016 | 540 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
@@ -18,7 +21,8 @@
 - Bootstrap 4 Basics => COMPLETED | 25/08/2016 | 228 points
 - HTML Tables => COMPLETED | 26/08/2016 | 193 points
 - Interactive Web Pages with JavaScript => COMPLETED | 27/08/2016 | 274 points
-- HTML Video and AUdio => COMPLETED | 27/08/2016 | 228 points
+- HTML Video and Audio => COMPLETED | 27/08/2016 | 228 points
+- AJAX Basics => COMPLETED | 28/08/2016 | 509 points
 
 ## Web Design Path
 ### Points | 2670
@@ -32,12 +36,12 @@
  - HTML Tables => COMPLETED | 26/08/2016 | 193 points
  
 ## Full Stack JavaScript Path
-### Points | 1935
+### Points | 2444
  - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
  - JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
  - jQuery Basics => COMPLETED | 25/08/2016 | 555 points
  - Interactive Web Pages with JavaScript => COMPLETED | 27/08/2016 | 274 points
- 
+ - AJAX Basics => COMPLETED | 28/08/2016 | 509 points
 
 # Workshops
 ## CSS
