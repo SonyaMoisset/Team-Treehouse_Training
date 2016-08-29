@@ -23,7 +23,7 @@
 - Interactive Web Pages with JavaScript => COMPLETED | 27/08/2016 | 274 points
 - HTML Video and Audio => COMPLETED | 27/08/2016 | 228 points
 - AJAX Basics => COMPLETED | 28/08/2016 | 509 points
- - Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
+- Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
 
 ## Web Design Path
 ### Points | 2670
