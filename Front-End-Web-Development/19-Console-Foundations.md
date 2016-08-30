@@ -2,3 +2,4 @@
 - Getting Started with the Console
 - Users and Permissions
 - Processes
+- Environment and Redirection
