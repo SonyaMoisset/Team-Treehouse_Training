@@ -2,12 +2,12 @@
 ### HTML | 1388 points
 ### CSS | 1877 points
 ### JavaScript | 2626 points
-### Development Tools | 167 points
-### Total Points | 6292 <=> Total Achievements | 72 badges
+### Development Tools | 503 points
+### Total Points | 6628 <=> Total Achievements | 78 badges
 
 # Paths
 ## Front End Web Development Path
-### Points | 6262
+### Points | 6598
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - CSS Basics => COMPLETED | 15/08/2016 | 540 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
@@ -26,6 +26,7 @@
 - Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
 - Accessibility => COMPLETED | 29/08/2016 | 184 points
 - Website Optimization => COMPLETED | 29/08/2016 | 167 points 
+- Console Foundations => COMPLETED | 30/08/2016 | 336 points
 
 ## Web Design Path
 ### Points | 2670
