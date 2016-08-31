@@ -2,3 +2,4 @@
 - Why Version Control Matters
 - Getting Started With Git
 - Branches
+- Merging
