@@ -7,7 +7,7 @@
 
 # Paths
 ## Front End Web Development Path
-### Points | 7259
+### Points | 6050
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - CSS Basics => COMPLETED | 15/08/2016 | 540 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
@@ -36,10 +36,10 @@
  - CSS Basics => COMPLETED | 15/08/2016 | 540 points
  - CSS Selectors => COMPLETED | 23/08/2016 | 269 points
  - HTML Forms => COMPLETED | 19/08/2016 | 275 points
+ - HTML Tables => COMPLETED | 26/08/2016 | 193 points
  - CSS Layout Basics => COMPLETED | 18/08/2016 | 315 points
  - Responsive Layouts => COMPLETED | 18/08/2016 | 188 points
  - CSS Flexbox Layout => COMPLETED | 19/08/2016 | 232 points
- - HTML Tables => COMPLETED | 26/08/2016 | 193 points
  
 ## Full Stack JavaScript Path
 ### Points | 2776
