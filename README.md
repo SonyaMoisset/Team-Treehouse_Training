@@ -3,7 +3,8 @@
 ### CSS | 1877 points
 ### JavaScript | 2626 points
 ### Development Tools | 1164 points
-### Total Points |7439 <=> Total Achievements | 88 badges
+### Design | 294 points
+### Total Points | 7733 <=> Total Achievements | 92 badges
 
 # Paths
 ## Front End Web Development Path
@@ -31,7 +32,7 @@
 - Font End Performance Optimization => COMPLETED | 31/08/2016 | 250 points
 
 ## Web Design Path
-### Points | 2670
+### Points | 2964
  - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
  - CSS Basics => COMPLETED | 15/08/2016 | 540 points
  - CSS Selectors => COMPLETED | 23/08/2016 | 269 points
@@ -40,6 +41,7 @@
  - CSS Layout Basics => COMPLETED | 18/08/2016 | 315 points
  - Responsive Layouts => COMPLETED | 18/08/2016 | 188 points
  - CSS Flexbox Layout => COMPLETED | 19/08/2016 | 232 points
+ - Design Foundations => COMPLETED | 01/09/2016 | 294 points
  
 ## Full Stack JavaScript Path
 ### Points | 2776
