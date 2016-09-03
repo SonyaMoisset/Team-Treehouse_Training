@@ -4,3 +4,4 @@
 - Masks Basics
 - Type Tools
 - Vector Shapes
+- Slices & Save for Web
