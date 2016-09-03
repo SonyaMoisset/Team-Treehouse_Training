@@ -3,8 +3,8 @@
 ### CSS | 1877 points
 ### JavaScript | 2626 points
 ### Development Tools | 1164 points
-### Design | 740 points
-### Total Points | 8179 <=> Total Achievements | 99 badges
+### Design | 1046 points
+### Total Points | 8485 <=> Total Achievements | 104 badges
 
 # Paths
 ## Front End Web Development Path
@@ -43,6 +43,7 @@
  - CSS Flexbox Layout => COMPLETED | 19/08/2016 | 232 points
  - Design Foundations => COMPLETED | 01/09/2016 | 294 points
  - Photoshop Foundations => COMPLETED | 03/09/2016 | 446 points
+ - Adobe Illustrator for Web Design => COMPLETED | 03/09/2016 | 306 points
  
 ## Full Stack JavaScript Path
 ### Points | 2776
