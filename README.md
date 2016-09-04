@@ -1,10 +1,10 @@
 # Treehouse
-### HTML | 1388 points
+### HTML | 1555 points
 ### CSS | 2212 points
 ### JavaScript | 2626 points
 ### Development Tools | 1164 points
 ### Design | 1046 points
-### Total Points | 8775 <=> Total Achievements | 108 badges
+### Total Points | 8942 <=> Total Achievements | 110 badges
 
 # Paths
 ## Front End Web Development Path
@@ -45,6 +45,7 @@
  - Photoshop Foundations => COMPLETED | 03/09/2016 | 446 points
  - Adobe Illustrator for Web Design => COMPLETED | 03/09/2016 | 306 points
  - CSS Transitions and Transforms => COMPLETED | 04/09/2016 | 290 points
+ - SVG Basics => COMPLETED | 04/09/2016 | 167 points
  
 ## Full Stack JavaScript Path
 ### Points | 2776
