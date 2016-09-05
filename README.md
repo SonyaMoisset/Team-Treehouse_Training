@@ -3,8 +3,8 @@
 ### CSS | 2369 points
 ### JavaScript | 2626 points
 ### Development Tools | 1164 points
-### Design | 1189 points
-### Total Points | 9242 <=> Total Achievements | 114 badges
+### Design | 1411 points
+### Total Points | 9464 <=> Total Achievements | 118 badges
 
 # Paths
 ## Front End Web Development Path
@@ -48,6 +48,7 @@
  - SVG Basics => COMPLETED | 04/09/2016 | 167 points
  - Animating SVG with CSS => COMPLETED | 04/09/2016 | 157 points
  - Logo Design Basics => COMPLETED | 04/09/2016 | 143 points
+ - Brand Identity Basics => COMPLETED | 05/09/2016 | 222 points
  
 ## Full Stack JavaScript Path
 ### Points | 2776
