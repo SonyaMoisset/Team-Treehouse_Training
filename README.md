@@ -52,13 +52,14 @@
  - CSS to Sass => COMPLETED | 05/09/2016 | 186 points
  
 ## Full Stack JavaScript Path
-### Points | 2776
+### Points | 
  - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
  - JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
  - jQuery Basics => COMPLETED | 25/08/2016 | 555 points
  - Interactive Web Pages with JavaScript => COMPLETED | 27/08/2016 | 274 points
  - AJAX Basics => COMPLETED | 28/08/2016 | 509 points
  - Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
+ - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
 # Workshops
 ## CSS
