@@ -1,10 +1,10 @@
 # Treehouse
 ### HTML | 1555 points
-### CSS | 2369 points
+### CSS | 2555 points
 ### JavaScript | 2626 points
 ### Development Tools | 1164 points
 ### Design | 1411 points
-### Total Points | 9464 <=> Total Achievements | 118 badges
+### Total Points | 9800 <=> Total Achievements | 121 badges
 
 # Paths
 ## Front End Web Development Path
@@ -32,7 +32,7 @@
 - Font End Performance Optimization => COMPLETED | 31/08/2016 | 250 points
 
 ## Web Design Path
-### Points | 
+### Points | 3921
  - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
  - CSS Basics => COMPLETED | 15/08/2016 | 540 points
  - CSS Selectors => COMPLETED | 23/08/2016 | 269 points
@@ -49,6 +49,7 @@
  - Animating SVG with CSS => COMPLETED | 04/09/2016 | 157 points
  - Logo Design Basics => COMPLETED | 04/09/2016 | 143 points
  - Brand Identity Basics => COMPLETED | 05/09/2016 | 222 points
+ - CSS to Sass => COMPLETED | 05/09/2016 | 186 points
  
 ## Full Stack JavaScript Path
 ### Points | 2776
