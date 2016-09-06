@@ -59,6 +59,7 @@
  - Using jQuery Plugins => COMPLETED | 06/09/2016 | 185 points
  - Interactive Web Pages with JavaScript => COMPLETED | 27/08/2016 | 274 points
  - AJAX Basics => COMPLETED | 28/08/2016 | 509 points
+ - Understanding "this" in JavaScript => VIEWED | 06/09/2016
  - Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
  - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
