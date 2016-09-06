@@ -1,10 +1,10 @@
 # Treehouse
 ### HTML | 1555 points
 ### CSS | 2555 points
-### JavaScript | 2626 points
+### JavaScript | 2811 points
 ### Development Tools | 1164 points
 ### Design | 1411 points
-### Total Points | 9800 <=> Total Achievements | 121 badges
+### Total Points | 9985 <=> Total Achievements | 124 badges
 
 # Paths
 ## Front End Web Development Path
@@ -56,6 +56,7 @@
  - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
  - JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
  - jQuery Basics => COMPLETED | 25/08/2016 | 555 points
+ - Using jQuery Plugins => COMPLETED | 06/09/2016 | 185 points
  - Interactive Web Pages with JavaScript => COMPLETED | 27/08/2016 | 274 points
  - AJAX Basics => COMPLETED | 28/08/2016 | 509 points
  - Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
