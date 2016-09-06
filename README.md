@@ -4,7 +4,7 @@
 ### JavaScript | 2811 points
 ### Development Tools | 1164 points
 ### Design | 1411 points
-### Total Points | 9985 <=> Total Achievements | 124 badges
+### Total Points | 9987 <=> Total Achievements | 124 badges
 
 # Paths
 ## Front End Web Development Path
