@@ -1,10 +1,10 @@
 # Treehouse
 ### HTML | 1555 points
 ### CSS | 2555 points
-### JavaScript | 3040 points
+### JavaScript | 3276 points
 ### Development Tools | 1164 points
 ### Design | 1411 points
-### Total Points | 10216 <=> Total Achievements | 126 badges
+### Total Points | 10452 <=> Total Achievements | 130 badges
 
 # Paths
 ## Front End Web Development Path
@@ -62,6 +62,7 @@
  - Understanding "this" in JavaScript => VIEWED | 06/09/2016
  - Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
  - Node.js Basics => COMPLETED | 07/09/2016 | 229 points
+ - Build a Simple Dynamic Site with Node.js => COMPLETED | 07/09/2016 | 236 points
  - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
 # Workshops
