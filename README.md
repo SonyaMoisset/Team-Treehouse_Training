@@ -4,7 +4,7 @@
 ### JavaScript | 3517 points
 ### Development Tools | 1164 points
 ### Design | 1411 points
-### Total Points | 10693 <=> Total Achievements | 133 badges
+### Total Points | 10696 <=> Total Achievements | 133 badges
 
 # Paths
 ## Front End Web Development Path
@@ -64,6 +64,7 @@
  - Node.js Basics => COMPLETED | 07/09/2016 | 229 points
  - Build a Simple Dynamic Site with Node.js => COMPLETED | 07/09/2016 | 241 points
  - npm Basics => COMPLETED | 08/09/2016 | 236 points
+ - Using npm as a Task Runner VIEWED | 08/09/2016
  - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
 # Workshops
