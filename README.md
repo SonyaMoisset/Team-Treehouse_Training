@@ -1,10 +1,10 @@
 # Treehouse
 ### HTML | 1555 points
 ### CSS | 2555 points
-### JavaScript | 3517 points
+### JavaScript | 3928 points
 ### Development Tools | 1164 points
 ### Design | 1411 points
-### Total Points | 10696 <=> Total Achievements | 133 badges
+### Total Points | 11107 <=> Total Achievements | 139 badges
 
 # Paths
 ## Front End Web Development Path
@@ -66,6 +66,7 @@
  - npm Basics => COMPLETED | 08/09/2016 | 236 points
  - Using npm as a Task Runner VIEWED | 08/09/2016
  - Gits Basics => COMPLETED | 31/08/2016 | 411 points
+ - Express Basics => COMPLETED | 10/09/2016 | 411 points
 
 # Workshops
 ## CSS
