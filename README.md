@@ -3,8 +3,9 @@
 ### CSS | 2555 points
 ### JavaScript | 4552 points
 ### Development Tools | 1164 points
+### Databases | 244 points
 ### Design | 1411 points
-### Total Points | 11731 <=> Total Achievements | 148 badges
+### Total Points | 11975 <=> Total Achievements | 152 badges
 
 # Paths
 ## Front End Web Development Path
@@ -69,6 +70,7 @@
  - Express Basics => COMPLETED | 10/09/2016 | 411 points
  - Gulp Basics => COMPLETED | 10/09/2016 | 272 points
  - Angular Basics => COMPLETED | 12/09/2016 | 352 points
+ - Mongo Basics => COMPLETED | 13/09/2016 | 244 points
 
 # Workshops
 ## CSS
