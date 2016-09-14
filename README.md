@@ -76,7 +76,8 @@
  
 ## PHP Development
 ### Points |
-
+- Console Foundations => COMPLETED | 30/08/2016 | 336 points
+- Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
 # Workshops
 ## CSS
