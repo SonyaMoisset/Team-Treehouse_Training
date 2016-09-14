@@ -1,11 +1,11 @@
 # Treehouse
-### HTML | 1555 points
+### HTML | 1784 points
 ### CSS | 2555 points
 ### JavaScript | 5123 points
 ### Development Tools | 1164 points
 ### Databases | 244 points
 ### Design | 1411 points
-### Total Points | 12756 <=> Total Achievements | 162 badges
+### Total Points | 13065 <=> Total Achievements | 166 badges
 
 # Paths
 ## Front End Web Development Path
@@ -76,6 +76,7 @@
  
 ## PHP Development
 ### Points |
+- Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
