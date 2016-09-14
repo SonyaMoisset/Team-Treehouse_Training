@@ -1,11 +1,11 @@
 # Treehouse
 ### HTML | 1555 points
 ### CSS | 2555 points
-### JavaScript | 4871 points
+### JavaScript | 5123 points
 ### Development Tools | 1164 points
 ### Databases | 244 points
 ### Design | 1411 points
-### Total Points | 12294 <=> Total Achievements | 158 badges
+### Total Points | 12756 <=> Total Achievements | 162 badges
 
 # Paths
 ## Front End Web Development Path
@@ -53,7 +53,7 @@
  - CSS to Sass => COMPLETED | 05/09/2016 | 186 points
  
 ## Full Stack JavaScript Path
-### Points | 
+### Points | 5028
  - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
  - JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
  - jQuery Basics => COMPLETED | 25/08/2016 | 555 points
@@ -72,6 +72,7 @@
  - Angular Basics => COMPLETED | 12/09/2016 | 352 points
  - Mongo Basics => COMPLETED | 13/09/2016 | 244 points
  - Building a MEAN Application => COMPLETED | 13/09/2016 | 319 points
+ - JavaScript Unit Testing => COMPLETED | 14/09/2016 | 312 points
 
 # Workshops
 ## CSS
