@@ -4,5 +4,5 @@
 - Daily Exercise Program
 - PHP on the Web
 
-# COMPLETED | 15/08/2016
+# COMPLETED | 15/09/2016
 # 332 points
