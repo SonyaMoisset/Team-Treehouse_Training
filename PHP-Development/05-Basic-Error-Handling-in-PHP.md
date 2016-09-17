@@ -1,0 +1,1 @@
+# Basic Error Handling in PHP
