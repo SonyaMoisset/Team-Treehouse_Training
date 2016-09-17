@@ -5,5 +5,6 @@
 - The .htaccess File
 - Your Own PHP File
 - Error Handling
+- Logging
  
 VIEWED | 17/09/2016

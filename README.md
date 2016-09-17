@@ -82,6 +82,7 @@
 - PHP Basics => COMPLETED | 15/09/2016 | 332 points
 - PHP Arrays and Control Structures => COMPLETED | 17/09/2016 | 287 points
 - PHP Functions => COMPLETED | 17/09/2016 | 287 points
+- Basic Error Handling in PHP VIEWED | 17/09/2016
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
