@@ -2,12 +2,12 @@
 ### HTML | 1784 points
 ### CSS | 2555 points
 ### JavaScript | 5123 points
-### PHP | 619 points
+### PHP | 797 points
 ### Development Tools | 1164 points
 ### Digital Literacy | 40 points
 ### Databases | 244 points
 ### Design | 1411 points
-### Total Points | 13684 <=> Total Achievements | 173 badges
+### Total Points | 13862 <=> Total Achievements | 176 badges
 
 # Paths
 ## Front End Web Development Path
@@ -80,7 +80,8 @@
 ### Points |
 - Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
 - PHP Basics => COMPLETED | 15/09/2016 | 332 points
-- PHP Arrays and Control Structures => COMPLETED | 16/09/2016 | 287 points
+- PHP Arrays and Control Structures => COMPLETED | 17/09/2016 | 287 points
+- PHP Functions => COMPLETED | 17/09/2016 | 287 points
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
