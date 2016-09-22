@@ -7,7 +7,7 @@
 ### Digital Literacy | 40 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 15389 <=> Total Achievements | 192 badges <=> Courses Completed | 53
+### Total Points | 15395 <=> Total Achievements | 192 badges <=> Courses Completed | 54
 
 # Paths
 ## Front End Web Development Path
@@ -67,7 +67,7 @@
  - Node.js Basics => COMPLETED | 07/09/2016 | 229 points
  - Build a Simple Dynamic Site with Node.js => COMPLETED | 07/09/2016 | 241 points
  - npm Basics => COMPLETED | 08/09/2016 | 236 points
- - Using npm as a Task Runner VIEWED | 08/09/2016
+ - Using npm as a Task Runner => VIEWED | 08/09/2016
  - Gits Basics => COMPLETED | 31/08/2016 | 411 points
  - Express Basics => COMPLETED | 10/09/2016 | 411 points
  - Gulp Basics => COMPLETED | 10/09/2016 | 272 points
@@ -82,11 +82,12 @@
 - PHP Basics => COMPLETED | 15/09/2016 | 332 points
 - PHP Arrays and Control Structures => COMPLETED | 17/09/2016 | 287 points
 - PHP Functions => COMPLETED | 17/09/2016 | 287 points
-- Basic Error Handling in PHP VIEWED | 17/09/2016
+- Basic Error Handling in PHP => VIEWED | 17/09/2016
 - Build a Basic PHP Website => COMPLETED | 19/09/2016 | 440 points
 - SQL Basics => COMPLETED | 19/09/2016 | 319 points
 - Integrating PHP with Databases => COMPLETED | 21/09/2016 | 419 points
 - Object-Oriented PHP Basics => COMPLETED | 21/09/2016 | 342 points
+- Introduction to PHP7 => VIEWED | 22/09/2016
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
