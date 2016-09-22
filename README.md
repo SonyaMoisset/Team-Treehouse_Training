@@ -94,6 +94,10 @@
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
+## Learn WordPress
+### Points | 
+- Getting Started with WordPress => COMPLETED | 22/09/2016 | 101 points
+
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
