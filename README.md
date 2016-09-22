@@ -2,12 +2,12 @@
 ### HTML | 1784 points
 ### CSS | 2555 points
 ### JavaScript | 5123 points
-### PHP | 1968 points
+### PHP | 2154 points
 ### Development Tools | 1164 points
 ### Digital Literacy | 40 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 15395 <=> Total Achievements | 192 badges <=> Courses Completed | 54
+### Total Points | 15611 <=> Total Achievements | 195 badges <=> Courses Completed | 55
 
 # Paths
 ## Front End Web Development Path
@@ -88,6 +88,7 @@
 - Integrating PHP with Databases => COMPLETED | 21/09/2016 | 419 points
 - Object-Oriented PHP Basics => COMPLETED | 21/09/2016 | 342 points
 - Introduction to PHP7 => VIEWED | 22/09/2016
+- Building Websites with PHP => COMPLETED | 22/09/2016 | 216 points
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
