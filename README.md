@@ -7,7 +7,7 @@
 ### Digital Literacy | 40 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 15611 <=> Total Achievements | 195 badges <=> Courses Completed | 55
+### Total Points | 15612 <=> Total Achievements | 195 badges <=> Courses Completed | 56
 
 # Paths
 ## Front End Web Development Path
@@ -89,6 +89,7 @@
 - Object-Oriented PHP Basics => COMPLETED | 21/09/2016 | 342 points
 - Introduction to PHP7 => VIEWED | 22/09/2016
 - Building Websites with PHP => COMPLETED | 22/09/2016 | 216 points
+- Flash Messages Using Slim => VIEWED | 22/09/2016
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
