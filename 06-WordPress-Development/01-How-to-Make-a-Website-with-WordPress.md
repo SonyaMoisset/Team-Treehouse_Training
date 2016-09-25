@@ -3,3 +3,4 @@
 - WordPress Themes 
 - Customizing WordPress Themes 
 - Custom Post Types and Fields in WordPress 
+- WordPress Widgets and Custom Menus 
