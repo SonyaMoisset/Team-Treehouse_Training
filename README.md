@@ -3,12 +3,12 @@
 ### CSS | 2555 points
 ### JavaScript | 5123 points
 ### PHP | 2462 points
-### WordPress | 1017 points
+### WordPress | 1119 points
 ### Development Tools | 1164 points
 ### Digital Literacy | 40 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 17237 <=> Total Achievements | 216 badges <=> Courses Completed | 62
+### Total Points | 17339 <=> Total Achievements | 217 badges <=> Courses Completed | 64
 
 # Paths
 ## Front End Web Development Path
@@ -106,6 +106,7 @@
 ## WordPress Development
 ### Points | 
 - How to Make a Website with WordPress => COMPLETED | 25/09/2016 | 303 points 
+- Local WordPress Development => COMPLETED | 25/09/2016 | 102 points
 
 # Workshops
 ## CSS
