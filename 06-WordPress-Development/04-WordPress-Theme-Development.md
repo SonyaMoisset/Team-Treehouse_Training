@@ -3,3 +3,4 @@
 - Working with CSS and JS in WordPress Themes 
 - WordPress Header and Footer Templates 
 - The WordPress Loop 
+- Building Page Templates in WordPress 
