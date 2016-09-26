@@ -4,3 +4,4 @@
 - WordPress Header and Footer Templates 
 - The WordPress Loop 
 - Building Page Templates in WordPress 
+- Building Out WordPress Navigation 
