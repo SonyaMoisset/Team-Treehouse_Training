@@ -5,3 +5,4 @@
 - The WordPress Loop 
 - Building Page Templates in WordPress 
 - Building Out WordPress Navigation 
+- Custom Post Type Templates in WordPress
