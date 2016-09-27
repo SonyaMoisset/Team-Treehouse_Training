@@ -7,3 +7,4 @@
 - Building Out WordPress Navigation 
 - Custom Post Type Templates in WordPress
 - Adding a Blog to a WordPress Theme
+- Custom Homepage Templates in WordPress
