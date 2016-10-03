@@ -3,12 +3,12 @@
 ### CSS | 2555 points
 ### JavaScript | 5123 points
 ### PHP | 2462 points
-### WordPress | 2130 points
+### WordPress | 2333 points
 ### Development Tools | 1164 points
 ### Digital Literacy | 40 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 18350 <=> Total Achievements | 238 badges <=> Courses Completed | 67
+### Total Points | 18553 <=> Total Achievements | 241 badges <=> Courses Completed | 68
 
 # Paths
 ## Front End Web Development Path
@@ -110,6 +110,7 @@
 - PHP for WordPress => COMPLETED | 26/09/2016 | 185 points
 - WordPress Theme Development => COMPLETED | 27/09/2016 | 452 points
 - The WordPress Template Hierarchy => COMPLETED | 28/09/2016 | 374 points
+- From Bootstrap to WordPress => COMPLETED | 03/10/2016 | 203 points
 
 # Workshops
 ## CSS
