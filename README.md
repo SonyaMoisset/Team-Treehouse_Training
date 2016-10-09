@@ -118,6 +118,9 @@
 - WooCommerce Theme Development => COMPLETED | 08/10/2016 | 342 points
 - How to Build a WordPress Plugin => COMPLETED | 09/10/2016 | 472 points
 
+## Digital Literacy
+### Points | 
+
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
