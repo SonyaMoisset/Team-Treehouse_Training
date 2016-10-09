@@ -2,3 +2,4 @@
 - How WordPress Plugins Work 
 - Building a WordPress Plugin Settings Page 
 - Connecting WordPress Plugins with 3rd Party APIs 
+- Building WordPress Widgets, and Shortcodes 
