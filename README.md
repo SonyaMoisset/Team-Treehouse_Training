@@ -5,10 +5,10 @@
 ### PHP | 2462 points
 ### WordPress | 3981 points
 ### Development Tools | 1164 points
-### Digital Literacy | 40 points
+### Digital Literacy | 239 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 20351 <=> Total Achievements | 265 badges <=> Courses Completed | 74
+### Total Points | 20550 <=> Total Achievements | 267 badges <=> Courses Completed | 75
 
 # Paths
 ## Front End Web Development Path
@@ -120,6 +120,7 @@
 
 ## Digital Literacy
 ### Points | 
+- Computer Basics => COMPLETED | 10/10/2016 | 199 points
 
 # Workshops
 ## CSS
