@@ -1,6 +1,6 @@
 # Treehouse
-### HTML | 1934 points
-### CSS | 2555 points
+### HTML | 1949 points
+### CSS | 2742 points
 ### JavaScript | 5123 points
 ### PHP | 2462 points
 ### WordPress | 3981 points
@@ -8,7 +8,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 20963 <=> Total Achievements | 270 badges <=> Courses Completed | 78
+### Total Points | 21125 <=> Total Achievements | 271 badges <=> Courses Completed | 79
 
 # Paths
 ## Front End Web Development Path
@@ -124,6 +124,7 @@
 - How the Internet Works => COMPLETED | 10/10/2016 | 132 points
 - How the Web Works => COMPLETED | 10/10/2016 | 131 points
 - Treehouse Club: HTML => COMPLETED | 10/10/2016 | 150 points
+- Treehouse Club: CSS => COMPLETED | 10/10/2016 | 162 points
 
 # Workshops
 ## CSS
