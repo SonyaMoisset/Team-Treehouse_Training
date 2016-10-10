@@ -128,6 +128,9 @@
 - Treehouse Club: JavaScript => COMPLETED | 10/10/2016 | 157 points
 - Treehouse Club - MASH => COMPLETED | 10/10/2016 | 337 points
 
+## Learn Python
+### Points |
+
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
