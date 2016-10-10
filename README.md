@@ -1,14 +1,14 @@
 # Treehouse
-### HTML | 1959 points
-### CSS | 2752 points
-### JavaScript | 5260 points
+### HTML | 1989 points
+### CSS | 2782 points
+### JavaScript | 5537 points
 ### PHP | 2462 points
 ### WordPress | 3981 points
 ### Development Tools | 1164 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 21282 <=> Total Achievements | 272 badges <=> Courses Completed | 80
+### Total Points | 21769 <=> Total Achievements | 275 badges <=> Courses Completed | 81
 
 # Paths
 ## Front End Web Development Path
@@ -119,13 +119,14 @@
 - How to Build a WordPress Plugin => COMPLETED | 09/10/2016 | 472 points
 
 ## Digital Literacy
-### Points | 
+### Points | 908 points
 - Computer Basics => COMPLETED | 10/10/2016 | 199 points
 - How the Internet Works => COMPLETED | 10/10/2016 | 132 points
 - How the Web Works => COMPLETED | 10/10/2016 | 131 points
 - Treehouse Club: HTML => COMPLETED | 10/10/2016 | 150 points
 - Treehouse Club: CSS => COMPLETED | 10/10/2016 | 162 points
 - Treehouse Club: JavaScript => COMPLETED | 10/10/2016 | 157 points
+- Treehouse Club - MASH => COMPLETED | 10/10/2016 | 337 points
 
 # Workshops
 ## CSS
