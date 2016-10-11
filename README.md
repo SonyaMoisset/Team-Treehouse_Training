@@ -4,11 +4,12 @@
 ### JavaScript | 5537 points
 ### PHP | 2462 points
 ### WordPress | 3981 points
+### Python | 656 points
 ### Development Tools | 1164 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 21769 <=> Total Achievements | 275 badges <=> Courses Completed | 81
+### Total Points | 22425 <=> Total Achievements | 281 badges <=> Courses Completed | 82
 
 # Paths
 ## Front End Web Development Path
@@ -130,6 +131,7 @@
 
 ## Learn Python
 ### Points |
+- Python Basics => COMPLETED | 11/10/2016 | 656 points
 
 # Workshops
 ## CSS
