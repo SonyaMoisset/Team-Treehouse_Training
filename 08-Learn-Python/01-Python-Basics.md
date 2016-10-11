@@ -3,3 +3,4 @@
 - Python Data Types
 - Logic in Python 
 - Shopping List App 
+- Number Game App 
