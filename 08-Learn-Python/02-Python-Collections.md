@@ -2,3 +2,4 @@
 - Lists Redux
 - Slices 
 - Dictionaries 
+- Tuples 
