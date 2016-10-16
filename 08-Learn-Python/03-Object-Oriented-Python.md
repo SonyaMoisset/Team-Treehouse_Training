@@ -3,5 +3,5 @@
 - Inheritance
 - Hack-n-Slash 
 
-# COMPLETED | 1/10/2016
+# COMPLETED | 15/10/2016
 # 290 points
