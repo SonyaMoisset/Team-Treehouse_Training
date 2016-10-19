@@ -140,6 +140,13 @@
 - Using Databases in Python => COMPLETED | 18/10/2016 | 268 points
 - Python Testing => COMPLETED | 19/10/2016 | 224 points
 
+## Learn Flask
+### Points |
+- Python Basics => COMPLETED | 11/10/2016 | 656 points
+- Python Collections => COMPLETED | 13/10/2016 | 423 points
+- Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
+- Using Databases in Python => COMPLETED | 18/10/2016 | 268 points
+
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
