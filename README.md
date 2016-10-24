@@ -5,11 +5,11 @@
 ### PHP | 2462 points
 ### WordPress | 3981 points
 ### Python | 3420 points
-### Development Tools | 1412 points
+### Development Tools | 1513 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 25567 <=> Total Achievements | 311 badges <=> Courses Completed | 92
+### Total Points | 25668 <=> Total Achievements | 312 badges <=> Courses Completed | 93
 
 # Paths
 ## Front End Web Development Path
@@ -149,6 +149,7 @@
 - Using Databases in Python => COMPLETED | 18/10/2016 | 268 points
 - Build a Social Network with Flask => COMPLETED | 24/10/2016 | 485 points
 - HTTP Basics => COMPLETED | 24/10/2016 | 188 points
+- REST API Basics => COMPLETED | 24/10/2016 | 101 points
 
 # Workshops
 ## CSS
