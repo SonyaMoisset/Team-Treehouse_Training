@@ -1,0 +1,30 @@
+{% extends 'layout.html' %}
+
+{% from 'macros.html' import render_field %}
+
+{% block content %}
+
+<form method='POST' action=''>
+  {{ form.hidden_tag() }}
+  <div class="row">
+    <div class="six columns">
+      {{ render_field(form.protein) }}
+    </div>
+    <div class="six columns">
+      {{ render_field(form.shell) }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">
+      {{ render_field(form.cheese) }}
+    </div>
+    <div class="six columns">
+      {{ render_field(form.extras) }}
+    </div>
+  </div>
+  <div class="u-full-width">
+    <input type="submit" class="button-primary" value="Create">
+  </div>
+</form>
+
+{% endblock %}
