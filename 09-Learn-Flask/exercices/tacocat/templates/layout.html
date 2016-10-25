@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Tacocat</title>
+    <link rel="stylesheet" href="/static/css/normalize.css">
+    <link rel="stylesheet" href="/static/css/skeleton.css">
+    <link rel="stylesheet" href="/static/css/tacocat.css">
+  </head>
+  <body>
+    {% with messages=get_flashed_messages() %}
+    {% if messages %}
+        <div class="messages">
+          {% for message in messages %}
+          <div class="message">
+            {{ message }}
+          </div>
+          {% endfor %}
+        </div>
+    {% endif %}
+    {% endwith %}
+
+    <div class="container">
+      <div class="row">
+        <div class="u-full-width">
+          <nav class="menu">
+          {% if current_user.is_authenticated() %}
+                <a href="{{ url_for('taco') }}">add a new taco</a>
+                <a href="{{ url_for('logout') }}">Log Out</a>
+                {% else %}
+                <a href="{{ url_for('login') }}">Log In</a>
+                <a href="{{ url_for('register') }}">Sign Up</a>
+                {% endif %}
+          </nav>
+          {% block content %}{% endblock %}
+        </div>
+      </div>
+      <footer>
+        <p>An MVP web app made with Flask on <a href="http://teamtreehouse.com">Treehouse</a>.</p>
+      </footer>
+    </div>
+  </body>
+</html>
