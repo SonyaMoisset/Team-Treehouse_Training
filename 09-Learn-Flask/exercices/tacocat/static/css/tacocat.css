@@ -1,0 +1,81 @@
+body {
+    margin: 1em;
+}
+
+.menu {
+    margin: 0 auto 5rem;
+    text-align: center;
+    width: 50%;
+}
+.menu a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #999;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s color;
+}
+
+.menu a:hover {
+    background: #33C3F0;
+    border-color: #33C3F0;
+    color: #fff;
+}
+
+footer p {
+    font-size: 0.75rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.field-errors {
+    background: rgb(242, 46, 46);
+    border-radius: 4px;
+    color: white;
+}
+
+.field-errors ul {
+    margin-bottom: 0;
+    padding-left: 0.5rem;
+}
+
+.field-errors li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.taco dt,
+.taco dd {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: 49%;
+}
+.taco dt {
+    clear: left;
+    font-weight: bold;
+    text-align: right;
+}
+.taco dd {
+    clear: right;
+}
+
+.messages {
+    clear:both;
+    margin-bottom: 1rem;
+}
+.message {
+    background: #33C3F0;
+    border: 1px solid;
+    border-radius: 4px;
+    color: #fff;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    width: 75%;
+}
