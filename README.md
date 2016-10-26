@@ -4,12 +4,12 @@
 ### JavaScript | 5537 points
 ### PHP | 2462 points
 ### WordPress | 3981 points
-### Python | 3420 points
+### Python | 3642 points
 ### Development Tools | 1513 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 25668 <=> Total Achievements | 312 badges <=> Courses Completed | 93
+### Total Points | 26040 <=> Total Achievements | 314 badges <=> Courses Completed | 94
 
 # Paths
 ## Front End Web Development Path
@@ -141,7 +141,7 @@
 - Python Testing => COMPLETED | 19/10/2016 | 224 points
 
 ## Learn Flask
-### Points |
+### Points | 2504
 - Python Basics => COMPLETED | 11/10/2016 | 656 points
 - Python Collections => COMPLETED | 13/10/2016 | 423 points
 - Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
@@ -150,6 +150,7 @@
 - Build a Social Network with Flask => COMPLETED | 24/10/2016 | 485 points
 - HTTP Basics => COMPLETED | 24/10/2016 | 188 points
 - REST API Basics => COMPLETED | 24/10/2016 | 101 points
+- Flask REST API => COMPLETED | 26/10/2016 | 222 points
 
 # Workshops
 ## CSS
