@@ -152,6 +152,9 @@
 - REST API Basics => COMPLETED | 24/10/2016 | 101 points
 - Flask REST API => COMPLETED | 26/10/2016 | 222 points
 
+## Learn Django
+### Points
+
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
