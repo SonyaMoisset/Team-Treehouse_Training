@@ -1,2 +1,3 @@
 # Django Basics
-- Say Hello to Django 
+- Say Hello to Django
+- What a View! 
