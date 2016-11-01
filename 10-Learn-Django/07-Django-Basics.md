@@ -3,3 +3,4 @@
 - What a View! 
 - Model Administration 
 - Django Templates 
+- Final Details 
