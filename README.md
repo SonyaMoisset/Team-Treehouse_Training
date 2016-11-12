@@ -4,12 +4,12 @@
 ### JavaScript | 5537 points
 ### PHP | 2462 points
 ### WordPress | 3981 points
-### Python | 5366 points
+### Python | 5597 points
 ### Development Tools | 1513 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 27,809 <=> Total Achievements | 333 badges <=> Courses Completed | 99
+### Total Points | 28,040 <=> Total Achievements | 335 badges <=> Courses Completed | 100
 
 # Paths
 ## Front End Web Development Path
@@ -165,6 +165,7 @@
 - Django Forms => COMPLETED | 07/11/2016 | 386 points
 - Django ORM => COMPLETED | 08/11/2016 | 319 points
 - Customizing the Django Admin => COMPLETED | 10/11/2016 | 291 points
+- Django Class-based Views => COMPLETED | 12/11/2016 | 231 points
 - REST API Basics => COMPLETED | 24/10/2016 | 101 points
 
 # Workshops
