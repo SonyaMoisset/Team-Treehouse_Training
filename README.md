@@ -9,7 +9,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 28,622 <=> Total Achievements | 340 badges <=> Courses Completed | 103
+### Total Points | 28,772 <=> Total Achievements | 340 badges <=> Courses Completed | 103
 
 # Paths
 ## Front End Web Development Path
@@ -153,7 +153,7 @@
 - Flask REST API => COMPLETED | 26/10/2016 | 222 points
 
 ## Learn Django
-### Points
+### Points | 3924
 - Python Basics => COMPLETED | 11/10/2016 | 656 points
 - Python Collections => COMPLETED | 13/10/2016 | 423 points
 - Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
@@ -170,6 +170,9 @@
 - Django REST Framework => COMPLETED | 13/11/2016 | 346 points
 - Django Authentication => COMPLETED | 13/11/2016 | 233 points
 - Django Social Authentication => VIEWED | 13/11/2016
+
+## Learn Ruby
+### Points
 
 # Workshops
 ## CSS
