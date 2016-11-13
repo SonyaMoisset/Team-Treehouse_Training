@@ -1,2 +1,3 @@
 # Ruby Basics
-- How Ruby Works 
+- How Ruby Works
+- Ruby Strings
