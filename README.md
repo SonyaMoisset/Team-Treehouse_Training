@@ -9,7 +9,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 28,619 <=> Total Achievements | 340 badges <=> Courses Completed | 102
+### Total Points | 28,622 <=> Total Achievements | 340 badges <=> Courses Completed | 103
 
 # Paths
 ## Front End Web Development Path
@@ -169,6 +169,7 @@
 - REST API Basics => COMPLETED | 24/10/2016 | 101 points
 - Django REST Framework => COMPLETED | 13/11/2016 | 346 points
 - Django Authentication => COMPLETED | 13/11/2016 | 233 points
+- Django Social Authentication => VIEWED | 13/11/2016
 
 # Workshops
 ## CSS
