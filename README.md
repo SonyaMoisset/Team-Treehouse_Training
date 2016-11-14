@@ -178,6 +178,7 @@
 - Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
 - Ruby Collections => COMPLETED | 14/11/2016 | 312 points
 - Ruby Loops => COMPLETED | 14/11/2016 | 293 points
+- Ruby Objects and Classes => COMPLETED | 14/11/2016 | 293 points
 
 # Workshops
 ## CSS
