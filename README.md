@@ -5,12 +5,12 @@
 ### PHP | 2462 points
 ### WordPress | 3981 points
 ### Python | 6176 points
-### Ruby | 351 points
+### Ruby | 669 points
 ### Development Tools | 1513 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 29,123 <=> Total Achievements | 344 badges <=> Courses Completed | 104
+### Total Points | 29,441 <=> Total Achievements | 347 badges <=> Courses Completed | 105
 
 # Paths
 ## Front End Web Development Path
@@ -175,6 +175,7 @@
 ## Learn Ruby
 ### Points
 - Ruby Basics => COMPLETED | 13/11/2016 | 351 points
+- Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
 
 # Workshops
 ## CSS
