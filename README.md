@@ -1,20 +1,20 @@
 # Treehouse
-### HTML | 1989 points
-### CSS | 2782 points
-### JavaScript | 5537 points
-### PHP | 2462 points
-### WordPress | 3981 points
-### Python | 6176 points
-### Ruby | 1274 points
-### Development Tools | 1513 points
+### HTML | 1,989 points
+### CSS | 2,782 points
+### JavaScript | 5,537 points
+### PHP | 2,462 points
+### WordPress | 3,981 points
+### Python | 6,176 points
+### Ruby | 1,594 points
+### Development Tools | 1,513 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 30,046 <=> Total Achievements | 353 badges <=> Courses Completed | 107
+### Total Points | 30,366 <=> Total Achievements | 356 badges <=> Courses Completed | 108
 
 # Paths
 ## Front End Web Development Path
-### Points | 6050
+### Points | 6,050
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - CSS Basics => COMPLETED | 15/08/2016 | 540 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
@@ -38,7 +38,7 @@
 - Font End Performance Optimization => COMPLETED | 31/08/2016 | 250 points
 
 ## Web Design Path
-### Points | 3921
+### Points | 3,921
  - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
  - CSS Basics => COMPLETED | 15/08/2016 | 540 points
  - CSS Selectors => COMPLETED | 23/08/2016 | 269 points
@@ -58,7 +58,7 @@
  - CSS to Sass => COMPLETED | 05/09/2016 | 186 points
  
 ## Full Stack JavaScript Path
-### Points | 5028
+### Points | 5,028
  - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
  - JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
  - jQuery Basics => COMPLETED | 25/08/2016 | 555 points
@@ -80,7 +80,7 @@
  - JavaScript Unit Testing => COMPLETED | 14/09/2016 | 312 points
  
 ## PHP Development
-### Points | 3237
+### Points | 3,237
 - Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
 - PHP Basics => COMPLETED | 15/09/2016 | 332 points
 - PHP Arrays and Control Structures => COMPLETED | 17/09/2016 | 287 points
@@ -106,7 +106,7 @@
 - WordPress Admin Settings => COMPLETED | 24/09/2016 | 118 points 
 
 ## WordPress Development
-### Points | 2607
+### Points | 2,607
 - How to Make a Website with WordPress => COMPLETED | 25/09/2016 | 303 points 
 - Local WordPress Development => COMPLETED | 25/09/2016 | 102 points
 - PHP for WordPress => COMPLETED | 26/09/2016 | 185 points
@@ -131,7 +131,7 @@
 - Treehouse Club - MASH => COMPLETED | 10/10/2016 | 337 points
 
 ## Learn Python
-### Points | 2204
+### Points | 2,204
 - Python Basics => COMPLETED | 11/10/2016 | 656 points
 - Python Collections => COMPLETED | 13/10/2016 | 423 points
 - Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
@@ -142,7 +142,7 @@
 - Python Testing => COMPLETED | 19/10/2016 | 224 points
 
 ## Learn Flask
-### Points | 2504
+### Points | 2,504
 - Python Basics => COMPLETED | 11/10/2016 | 656 points
 - Python Collections => COMPLETED | 13/10/2016 | 423 points
 - Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
@@ -154,7 +154,7 @@
 - Flask REST API => COMPLETED | 26/10/2016 | 222 points
 
 ## Learn Django
-### Points | 3924
+### Points | 3,924
 - Python Basics => COMPLETED | 11/10/2016 | 656 points
 - Python Collections => COMPLETED | 13/10/2016 | 423 points
 - Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
@@ -178,7 +178,7 @@
 - Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
 - Ruby Collections => COMPLETED | 14/11/2016 | 312 points
 - Ruby Loops => COMPLETED | 14/11/2016 | 293 points
-- Ruby Objects and Classes => COMPLETED | 14/11/2016 | 293 points
+- Ruby Objects and Classes => COMPLETED | 14/11/2016 | 320 points
 
 # Workshops
 ## CSS
