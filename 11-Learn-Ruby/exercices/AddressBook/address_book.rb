@@ -22,7 +22,7 @@ class AddressBook
         end
     end
 
-    def find_by_phone_number(_number)
+    def find_by_phone_number(number)
         results = []
         search = number.gsub("-", "")
         contacts.each do |contact|
@@ -33,6 +33,19 @@ class AddressBook
             end
         end
         print_results("Phone search results (#{search})", results)
+    end
+
+    def find_by_address(query)
+        results = []
+        search = query.downcase
+        contacts.each do |contact|
+            contact.addresses.each do |address|
+                if phone_number.number.gsub("-", "").include?(search)
+                    results.push(contact) unless results.include?(contact)
+                end
+            end
+        end
+        print_results("Address search results (#{search})", results)
     end
 
     def print_contact_list
@@ -75,3 +88,4 @@ address_book.print_contact_list
 
 address_book.find_by_name('e')
 address_book.find_by_phone_number("2")
+address_book.find_by_address("two")
