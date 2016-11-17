@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block content %}
+<!--Enter Name -->
+<div class="enter-name">
+    <div class="grid-100">
+        <img src="/static/img/bear_avatar.svg" class="bear-avatar" />
+    </div>
+    <div class="grid-100">
+        <form action="{{ url_for('save') }}" method="POST">
+            <label>Name your bear</label>
+            <input type="text" name="name" value="{{ saves.get('name', '') }}" autofocus>
+            <input type="submit" value="Let's build it!">
+        </form>
+    </div>
+</div>
+{% endblock %}
