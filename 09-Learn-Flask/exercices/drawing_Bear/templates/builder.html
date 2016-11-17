@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<!--Build Area -->
+<form action="{{ url_for('save') }}" method="POST" class="wrap no-top">
+    <div class="grid-100 row">
+        <div class="grid-30">
+            <div class="title">
+                <input type="text" name="name" value="{{ saves.get('name', '') }}">
+            </div>
+        </div>
+        <div class="grid-70">
+            <div class="colors">
+                {% for color in options['colors'] %}
+                    <input type="radio" id="{{ color }}" name="colors" value="{{ color }}"
+                        {% if saves.get('colors') == color %}checked{% endif %}>
+                    <label for="{{ color }}"></label>
+                {% endfor %}
+                <button class="btn">Update</button>
+            </div>
+        </div>
+        <div id="bear" class="grid-100 bg-{{ saves.get('colors') }}">
+            <div class="bear-body"><img src="/static/img/bear_body.svg" /></div>
+            <div class="head"><img src="/static/img/bear_face.svg" /></div>
+            <div class="nose"><img src="/static/img/bear_nose.svg" /></div>
+        </div>
+        <div class="items">
+            {% for category, choices in options.items() %}
+            {% if category != 'colors' %}
+            <div class="grid-100 row">
+                <div class="grid-20">
+                    <p class="category-title">{{ category.title() }}</p>
+                </div>
+                <div class="grid-80">
+                    <input type="radio" id="no_{{ category }}_icon" name="{{ category }}" value='' {% if not saves.get(category) %}checked{% endif %}>
+                    <label for="no_{{ category }}_icon"><img src="/static/img/no-selection.svg"></label>
+                    {% for choice in choices %}
+                    <input type="radio" id="{{ category }}-{{ choice }}_icon" name="{{ category }}" value="{{ choice }}" {% if saves.get(category) == choice %}checked{% endif %}>
+                    <label for="{{ category }}-{{ choice }}_icon"><img src="/static/img/{{ category }} -{{ choice }}.svg"></label>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</form>
+
+{% endblock %}
