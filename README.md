@@ -10,7 +10,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 31,582 <=> Total Achievements | 368 badges <=> Courses Completed | 112
+### Total Points | 31,583 <=> Total Achievements | 368 badges <=> Courses Completed | 113
 
 # Paths
 ## Front End Web Development Path
@@ -183,6 +183,7 @@
 - Ruby Blocks => COMPLETED | 16/11/2016 | 306 points
 - Build an Address Book in Ruby => COMPLETED | 17/11/2016 | 290 points
 - Ruby Modules => COMPLETED | 20/11/2016 | 356 points
+- Ruby Enumerable => VIEWED | 20/11/2016
 
 # Workshops
 ## CSS
