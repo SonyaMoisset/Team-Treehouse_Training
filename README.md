@@ -5,12 +5,12 @@
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
 ### Python | 6,176 points
-### Ruby | 2,810 points
+### Ruby | 3,111 points
 ### Development Tools | 1,513 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 31,583 <=> Total Achievements | 368 badges <=> Courses Completed | 113
+### Total Points | 31,884 <=> Total Achievements | 371 badges <=> Courses Completed | 114
 
 # Paths
 ## Front End Web Development Path
@@ -184,6 +184,7 @@
 - Build an Address Book in Ruby => COMPLETED | 17/11/2016 | 290 points
 - Ruby Modules => COMPLETED | 20/11/2016 | 356 points
 - Ruby Enumerable => VIEWED | 20/11/2016
+- Ruby Core and Standard Library => COMPLETED | 22/11/2016 | 301 points
 
 # Workshops
 ## CSS
