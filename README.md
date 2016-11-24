@@ -187,6 +187,17 @@
 - Ruby Core and Standard Library => COMPLETED | 22/11/2016 | 301 points
 - Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
 
+## Rais Development
+### Points | 
+- How to Make a Website => COMPLETED | 14/08/2016 | 658 points
+- Ruby Basics => COMPLETED | 13/11/2016 | 351 points
+- Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
+- Ruby Collections => COMPLETED | 14/11/2016 | 312 points
+- Ruby Loops => COMPLETED | 14/11/2016 | 293 points
+- Ruby Objects and Classes => COMPLETED | 14/11/2016 | 320 points
+- Console Foundations => COMPLETED | 30/08/2016 | 336 points
+- Gits Basics => COMPLETED | 31/08/2016 | 411 points
+
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
