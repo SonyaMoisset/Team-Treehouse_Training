@@ -6,11 +6,11 @@
 ### WordPress | 3,981 points
 ### Python | 6,176 points
 ### Ruby | 3,304 points
-### Development Tools | 1,513 points
+### Development Tools | 2,131 points
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 32,227 <=> Total Achievements | 373 badges <=> Courses Completed | 115
+### Total Points | 32,845 <=> Total Achievements | 381 badges <=> Courses Completed | 116
 
 # Paths
 ## Front End Web Development Path
@@ -187,7 +187,7 @@
 - Ruby Core and Standard Library => COMPLETED | 22/11/2016 | 301 points
 - Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
 
-## Rais Development
+## Rails Development
 ### Points | 
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - Ruby Basics => COMPLETED | 13/11/2016 | 351 points
@@ -197,6 +197,7 @@
 - Ruby Objects and Classes => COMPLETED | 14/11/2016 | 320 points
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
+- Database Foundations => COMPLETED | 25/11/2016 | 618 points
 
 # Workshops
 ## CSS
