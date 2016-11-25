@@ -5,3 +5,4 @@
 - Creating Tables and Manipulating Data with SQL 
 - Manipulating Schema with SQL 
 - Joining Relational Data Between Tables in SQL 
+- SQL Calculating, Aggregating and Other Functions 
