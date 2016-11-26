@@ -10,7 +10,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 473 points
 ### Design | 1411 points
-### Total Points | 33,707 <=> Total Achievements | 390 badges <=> Courses Completed | 118
+### Total Points | 33,867 <=> Total Achievements | 390 badges <=> Courses Completed | 119
 
 # Paths
 ## Front End Web Development Path
@@ -188,7 +188,7 @@
 - Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
 
 ## Rails Development
-### Points | 
+### Points | 4,822 
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - Ruby Basics => COMPLETED | 13/11/2016 | 351 points
 - Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
@@ -203,6 +203,7 @@
 - Rails Routes and Resources => COMPLETED | 26/11/2016 | 485 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
 - Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
+- Troubleshooting a Rails Application => VIEWED | 26/11/2016
 
 # Workshops
 ## CSS
