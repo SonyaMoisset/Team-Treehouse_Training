@@ -201,6 +201,8 @@
 - Ruby on Rails 5 Basics => COMPLETED | 26/11/2016 | 377 points
 - HTML Forms => COMPLETED | 19/08/2016 | 275 points
 - Rails Routes and Resources => COMPLETED | 26/11/2016 | 485 points
+- JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
+- Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
 
 # Workshops
 ## CSS
