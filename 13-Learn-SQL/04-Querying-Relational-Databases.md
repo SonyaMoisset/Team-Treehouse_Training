@@ -2,3 +2,4 @@
 - Database Normalization 
 - Database Keys 
 - Table Relationships 
+- Joining Table Data with SQL 
