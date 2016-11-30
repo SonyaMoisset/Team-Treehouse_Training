@@ -8,9 +8,9 @@
 ### Ruby | 4,166 points
 ### Development Tools | 2,131 points
 ### Digital Literacy | 502 points
-### Databases | 1,104 points
+### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 34,558 <=> Total Achievements | 398 badges <=> Courses Completed | 121
+### Total Points | 35,059 <=> Total Achievements | 398 badges <=> Courses Completed | 122
 
 # Paths
 ## Front End Web Development Path
@@ -206,10 +206,11 @@
 - Troubleshooting a Rails Application => VIEWED | 26/11/2016
 
 ## Learn SQL
-### Points | 
+### Points | 1,181
 - SQL Basics => COMPLETED | 19/09/2016 | 319 points
 - Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
 - Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
+- Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
 
 # Workshops
 ## CSS
