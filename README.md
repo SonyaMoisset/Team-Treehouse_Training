@@ -6,11 +6,12 @@
 ### WordPress | 3,981 points
 ### Python | 6,176 points
 ### Ruby | 4,166 points
+### C# | 413 points
 ### Development Tools | 2,131 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 35,059 <=> Total Achievements | 404 badges <=> Courses Completed | 122
+### Total Points | 35,472 <=> Total Achievements | 408 badges <=> Courses Completed | 123
 
 # Paths
 ## Front End Web Development Path
@@ -211,6 +212,10 @@
 - Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
 - Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
 - Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
+
+## Learn C#
+### Points |
+- C# Basics => COMPLETED | 03/12/2016 | 413 points
 
 # Workshops
 ## CSS
