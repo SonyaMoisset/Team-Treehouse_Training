@@ -2,3 +2,4 @@
 - Object-Oriented Programming 
 - Methods 
 - Inheritance 
+- Encapsulation and Arrays 
