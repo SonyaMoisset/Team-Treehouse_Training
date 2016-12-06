@@ -3,3 +3,4 @@
 - Methods 
 - Inheritance 
 - Encapsulation and Arrays 
+- Encapsulation with Properties 
