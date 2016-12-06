@@ -6,12 +6,12 @@
 ### WordPress | 3,981 points
 ### Python | 6,176 points
 ### Ruby | 4,166 points
-### C# | 1,030 points
+### C# | 1,333 points
 ### Development Tools | 2,131 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 36,089 <=> Total Achievements | 414 badges <=> Courses Completed | 124
+### Total Points | 36,392 <=> Total Achievements | 417 badges <=> Courses Completed | 125
 
 # Paths
 ## Front End Web Development Path
@@ -217,6 +217,7 @@
 ### Points |
 - C# Basics => COMPLETED | 03/12/2016 | 413 points
 - C# Objects => COMPLETED | 06/12/2016 | 617 points
+- Intermediate CSharp => COMPLETED | 06/12/2016 | 303 points
 
 # Workshops
 ## CSS
