@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 36,392 <=> Total Achievements | 417 badges <=> Courses Completed | 125
+### Total Points | 36,402 <=> Total Achievements | 417 badges <=> Courses Completed | 126
 
 # Paths
 ## Front End Web Development Path
@@ -218,6 +218,7 @@
 - C# Basics => COMPLETED | 03/12/2016 | 413 points
 - C# Objects => COMPLETED | 06/12/2016 | 617 points
 - Intermediate CSharp => COMPLETED | 06/12/2016 | 303 points
+- Introduction to Visual Studio => VIEWED | 07/12/2016
 
 # Workshops
 ## CSS
