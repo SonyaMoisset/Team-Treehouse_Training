@@ -1,2 +1,3 @@
 # CSharp Collections
 - Arrays 
+- Lists 
