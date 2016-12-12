@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 37,468 <=> Total Achievements | 428 badges <=> Courses Completed | 129
+### Total Points | 37,628 <=> Total Achievements | 428 badges <=> Courses Completed | 130
 
 # Paths
 ## Front End Web Development Path
@@ -214,7 +214,7 @@
 - Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
 
 ## Learn C#
-### Points |
+### Points | 2,094
 - C# Basics => COMPLETED | 03/12/2016 | 413 points
 - C# Objects => COMPLETED | 06/12/2016 | 617 points
 - Intermediate CSharp => COMPLETED | 06/12/2016 | 303 points
@@ -223,6 +223,7 @@
 - C# Streams and Data Processing => COMPLETED | 10/12/2016 | 386 points
 - C# Collections => COMPLETED | 11/12/2016 | 271 points
 - Querying With LINQ => COMPLETED | 12/12/2016 | 404 points
+- Package Management with Nuget => VIEWED | 12/12/2016
 
 # Workshops
 ## CSS
