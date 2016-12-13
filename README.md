@@ -6,12 +6,12 @@
 ### WordPress | 3,981 points
 ### Python | 6,176 points
 ### Ruby | 4,166 points
-### C# | 2,394 points
+### C# | 2,832 points
 ### Development Tools | 2,131 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 37,628 <=> Total Achievements | 428 badges <=> Courses Completed | 130
+### Total Points | 38,066 <=> Total Achievements | 433 badges <=> Courses Completed | 131
 
 # Paths
 ## Front End Web Development Path
@@ -233,6 +233,7 @@
 - Using Github with Visual Studio => VIEWED | 07/12/2016
 - Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
 - HTTP Basics => COMPLETED | 24/10/2016 | 188 points
+- ASP.NET MVC Basics => COMPLETED | 13/12/2016 | 438 points
 - C# Collections => COMPLETED | 11/12/2016 | 271 points
 - Querying With LINQ => COMPLETED | 12/12/2016 | 404 points
 - Package Management with Nuget => VIEWED | 12/12/2016
