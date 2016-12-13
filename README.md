@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 38,066 <=> Total Achievements | 433 badges <=> Courses Completed | 131
+### Total Points | 38,074 <=> Total Achievements | 433 badges <=> Courses Completed | 132
 
 # Paths
 ## Front End Web Development Path
@@ -236,6 +236,7 @@
 - ASP.NET MVC Basics => COMPLETED | 13/12/2016 | 438 points
 - C# Collections => COMPLETED | 11/12/2016 | 271 points
 - Querying With LINQ => COMPLETED | 12/12/2016 | 404 points
+- Debugging in Visual Studio => VIEWED | 13/12/2016
 - Package Management with Nuget => VIEWED | 12/12/2016
 
 # Workshops
