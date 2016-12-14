@@ -217,7 +217,7 @@
 ### Points | 2,094
 - C# Basics => COMPLETED | 03/12/2016 | 413 points
 - C# Objects => COMPLETED | 06/12/2016 | 617 points
-- Intermediate CS# => COMPLETED | 06/12/2016 | 303 points
+- Intermediate C# => COMPLETED | 06/12/2016 | 303 points
 - Introduction to Visual Studio => VIEWED | 07/12/2016
 - Using Github with Visual Studio => VIEWED | 07/12/2016
 - C# Streams and Data Processing => COMPLETED | 10/12/2016 | 386 points
