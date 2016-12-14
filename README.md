@@ -245,4 +245,5 @@
 - Introduction to postCSS => COMPLETED | 9 points
 
 # Courses
+## Digital Literacy COMPLETED 3/3
 ## Databases COMPLETED 5/5
