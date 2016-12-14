@@ -243,3 +243,6 @@
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
+
+# Courses
+## Databases COMPLETED 5/5
