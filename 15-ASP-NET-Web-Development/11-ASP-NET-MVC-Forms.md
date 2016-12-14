@@ -2,3 +2,4 @@
 - Introducing CRUD Applications 
 - Creating a Basic Form 
 - Improving Our Form 
+- Adding Form Validation 
