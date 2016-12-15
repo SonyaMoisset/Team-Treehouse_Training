@@ -1,6 +1,6 @@
 # Treehouse
 ### HTML | 1,989 points
-### CSS | 2,782 points
+### CSS | 2,832 points
 ### JavaScript | 5,537 points
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 39,001 <=> Total Achievements | 442 badges <=> Courses Completed | 136
+### Total Points | 39,175 <=> Total Achievements | 444 badges <=> Courses Completed | 137
 
 # Paths
 ## Front End Web Development Path
@@ -250,4 +250,6 @@
 ## Development Tools
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
 - Technology Foundations => COMPLETED | 15/12/2016 | 149 points 
-- MailChimp API => COMPLETED | 15/12/2016 | 112 points 
+- MailChimp API => COMPLETED | 15/12/2016 | 112 points     
+## CSS
+- Responsive Images => COMPLETED | 15/12/2016 | 174 points 
