@@ -248,4 +248,5 @@
 ## Digital Literacy COMPLETED 3/3
 ## Development Tools
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
+- Technology Foundations => COMPLETED | 15/12/2016 | 149 points   
 ## Databases COMPLETED 5/5
