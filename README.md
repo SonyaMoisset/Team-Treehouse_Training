@@ -7,11 +7,11 @@
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
-### Development Tools | 2,202 points
+### Development Tools | 2,321 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 38,740 <=> Total Achievements | 439 badges <=> Courses Completed | 134
+### Total Points | 38,889 <=> Total Achievements | 441 badges <=> Courses Completed | 135
 
 # Paths
 ## Front End Web Development Path
@@ -246,7 +246,7 @@
 
 # Courses
 ## Digital Literacy COMPLETED 3/3
+## Databases COMPLETED 5/5
 ## Development Tools
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
 - Technology Foundations => COMPLETED | 15/12/2016 | 149 points   
-## Databases COMPLETED 5/5
