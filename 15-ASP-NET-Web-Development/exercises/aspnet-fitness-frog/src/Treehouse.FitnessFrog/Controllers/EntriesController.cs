@@ -22,12 +22,10 @@ namespace Treehouse.FitnessFrog.Controllers
     {
       List<Entry> entries = _entriesRepository.GetEntries();
 
-      // Calculate the total activity.
       double totalActivity = entries
           .Where(e => e.Exclude == false)
           .Sum(e => e.Duration);
 
-      // Determine the number of days that have entries.
       int numberOfActiveDays = entries
           .Select(e => e.Date)
           .Distinct()
