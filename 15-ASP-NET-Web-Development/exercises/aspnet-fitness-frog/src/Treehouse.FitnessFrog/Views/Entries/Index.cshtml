@@ -1,0 +1,59 @@
+@model List<Treehouse.FitnessFrog.Models.Entry>
+
+  @{
+    ViewBag.Title = "Entries";
+  }
+
+  @if (TempData["Message"] != null)
+  {
+    <div class="alert alert-success alert-dismissible" role="alerrt">
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      @TempData["message"]
+    </div>
+  }
+
+  <div class="stats">
+    <h2 class="stats-header h3">Minutes of Activity</h2>
+    <div class="stats-left">
+      <span class="stats-number">@ViewBag.AverageDailyActivity.ToString("n1")</span> daily average
+    </div>
+    <div class="stats-right">
+      <span class="stats-number">@ViewBag.TotalActivity.ToString("n1")</span> total
+    </div>
+  </div>
+
+  <h3>@ViewBag.Title</h3>
+
+  <table class="table">
+    <tr>
+      <th>Date</th>
+      <th>Activity</th>
+      <th>Duration</th>
+      <th class="hidden-xs">Intensity</th>
+      <th>&nbsp;</th>
+    </tr>
+    @foreach (var entry in Model)
+    {
+      <tr>
+        <td>
+          <span class="hidden-xs">@entry.Date.ToString("MM/dd/yyy")</span>
+          <span class="hidden-sm hidden-md hidden-lg">@entry.Date.ToString("MM/dd")</span>
+        </td>
+        <td>@entry.Activity.Name</td>
+        <td>@entry.Duration.ToString("0.0#")</td>
+        <td class="hidden-xs">@entry.Intensity</td>
+        <td>
+          <div class="pull-right">
+            <a href="@Url.Action("Edit", new { id = entry.Id })" class="btn btn-warning btn-sm margin-right">
+              <span class="glyphicon glyphicon-edit"></span><span class="hidden-xs"> Edit</span>
+            </a>
+            <a href="@Url.Action("Delete", new { id = entry.Id })" class="btn btn-danger btn-sm">
+              <span class="glyphicon glyphicon-trash"></span><span class="hidden-xs"> Delete</span>
+            </a>
+          </div>
+        </td>
+      </tr>
+    }
+  </table>
