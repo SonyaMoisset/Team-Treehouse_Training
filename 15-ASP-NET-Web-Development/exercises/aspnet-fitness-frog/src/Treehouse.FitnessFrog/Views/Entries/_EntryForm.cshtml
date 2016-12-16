@@ -1,0 +1,77 @@
+@model Treehouse.FitnessFrog.Models.Entry
+@using Treehouse.FitnessFrog.Models
+
+@using (Html.BeginForm())
+{
+  @Html.ValidationSummary("The following errors were found:", new { @class = "alert alert-danger" })
+
+  <div class="row">
+
+    <div class="col-md-6">
+
+      <div class="form-group">
+        @Html.LabelFor(m => m.Date, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.Date, "{0:d}", new { @class = "form-control datepicker" })
+      </div>
+
+      <div class="form-group">
+        @Html.LabelFor(m => m.ActivityId, new { @class = "control-label" })
+        @Html.DropDownListFor(m => m.ActivityId, 
+            (SelectList)ViewBag.ActivitiesSelectListItems, "", new { @class = "form-control" })
+      </div>
+
+      <div class="form-group">
+        @Html.LabelFor(m => m.Duration, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.Duration, new { @class = "form-control" })
+      </div>
+
+      <div class="form-group">
+        @Html.LabelFor(m => m.Intensity, new { @class = "control-label" })
+        <div>
+          <label class="radio-inline">
+            @Html.RadioButtonFor(m => m.Intensity,
+                Entry.IntensityLevel.Low) @Entry.IntensityLevel.Low
+          </label>
+          <label class="radio-inline">
+            @Html.RadioButtonFor(m => m.Intensity,
+                Entry.IntensityLevel.Medium) @Entry.IntensityLevel.Medium
+          </label>
+          <label class="radio-inline">
+            @Html.RadioButtonFor(m => m.Intensity,
+                Entry.IntensityLevel.High) @Entry.IntensityLevel.High
+          </label>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="checkbox">
+          <label>
+            @Html.CheckBoxFor(m => m.Exclude) @Html.DisplayNameFor(m => m.Exclude)
+          </label>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="col-md-6">
+
+      <div class="form-group">
+        @Html.LabelFor(m => m.Notes, new { @class = "control-label" })
+        @Html.TextAreaFor(m => m.Notes, 14, 20, new { @class = "form-control" })
+      </div>
+
+    </div>
+
+    <div class="col-md-12">
+      <div class="pad-top">
+          <button type="submit" class="btn btn-success btn-lg margin-right">
+            <span class="glyphicon glyphicon-save"></span> Save
+          </button>
+          <a href="@Url.Action("Index")" class="btn btn-warning btn-lg">
+            <span class="glyphicon glyphicon-remove"></span> Cancel
+          </a>
+      </div>
+    </div>
+
+  </div>
+}
