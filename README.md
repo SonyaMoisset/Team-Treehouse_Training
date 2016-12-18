@@ -1,6 +1,6 @@
 # Treehouse
 ### HTML | 1,989 points
-### CSS | 3,132 points
+### CSS | 3,311 points
 ### JavaScript | 5,537 points
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 39,475 <=> Total Achievements | 449 badges <=> Courses Completed | 138
+### Total Points | 39,657 <=> Total Achievements | 449 badges <=> Courses Completed | 139
 
 # Paths
 ## Front End Web Development Path
@@ -243,6 +243,9 @@
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
+-------
+## JavaScript
+- Introducing Arrow Function Syntax => VIEWED | 18/12/2016
 
 # Courses
 ## Digital Literacy COMPLETED 3/3
@@ -256,4 +259,5 @@
 -------
 ## CSS
 - Responsive Images => COMPLETED | 15/12/2016 | 174 points
-- CSS Layout Techniques => COMPLETED | 15/12/2016 | 300 points
+- CSS Layout Techniques => COMPLETED | 15/12/2016 | 300 points    
+-------
