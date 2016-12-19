@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 40,232 <=> Total Achievements | 460 badges <=> Courses Completed | 141
+### Total Points | 40,238 <=> Total Achievements | 460 badges <=> Courses Completed | 142
 
 # Paths
 ## Front End Web Development Path
@@ -243,6 +243,7 @@
 ## Learn React
 ### Points |
 - React Basics => COMPLETED | 19/12/2016 | 292 points
+- Getting Started with Webpack => VIEWED | 19/12/2016
 
 # Workshops
 ## CSS
