@@ -1,6 +1,6 @@
 # Treehouse
 ### HTML | 1,989 points
-### CSS | 3,311 points
+### CSS | 3,579 points
 ### JavaScript | 5,537 points
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 39,657 <=> Total Achievements | 449 badges <=> Courses Completed | 139
+### Total Points | 39,940 <=> Total Achievements | 455 badges <=> Courses Completed | 140
 
 # Paths
 ## Front End Web Development Path
@@ -259,5 +259,6 @@
 -------
 ## CSS
 - Responsive Images => COMPLETED | 15/12/2016 | 174 points
-- CSS Layout Techniques => COMPLETED | 15/12/2016 | 300 points    
+- CSS Layout Techniques => COMPLETED | 15/12/2016 | 300 points  
+- Framework Basics => COMPLETED | 19/12/2016 | 462 points 
 -------
