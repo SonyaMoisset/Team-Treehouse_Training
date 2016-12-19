@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 1,989 points
 ### CSS | 3,579 points
-### JavaScript | 5,537 points
+### JavaScript | 5,829 points
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
 ### Python | 6,176 points
@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 39,940 <=> Total Achievements | 455 badges <=> Courses Completed | 140
+### Total Points | 40,232 <=> Total Achievements | 460 badges <=> Courses Completed | 141
 
 # Paths
 ## Front End Web Development Path
@@ -239,6 +239,10 @@
 - Debugging in Visual Studio => VIEWED | 13/12/2016
 - ASP.NET MVC Forms => COMPLETED | 14/12/2016 | 415 points
 - Package Management with Nuget => VIEWED | 12/12/2016
+
+## Learn React
+### Points |
+- React Basics => COMPLETED | 19/12/2016 | 292 points
 
 # Workshops
 ## CSS
