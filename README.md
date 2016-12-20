@@ -244,6 +244,7 @@
 ### Points |
 - React Basics => COMPLETED | 19/12/2016 | 292 points
 - Getting Started with Webpack => VIEWED | 19/12/2016
+- Setting up Webpack for React => VIEWED | 20/12/2016
 
 # Workshops
 ## CSS
@@ -253,10 +254,6 @@
 - Introducing Arrow Function Syntax => VIEWED | 18/12/2016
 
 # Courses
-## Digital Literacy COMPLETED 3/3
--------
-## Databases COMPLETED 5/5
--------
 ## Development Tools
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
 - Technology Foundations => COMPLETED | 15/12/2016 | 149 points 
