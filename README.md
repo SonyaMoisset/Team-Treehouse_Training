@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 1,989 points
 ### CSS | 3,579 points
-### JavaScript | 5,829 points
+### JavaScript | 6,025 points
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
 ### Python | 6,176 points
@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 40,244 <=> Total Achievements | 460 badges <=> Courses Completed | 143
+### Total Points | 40,440 <=> Total Achievements | 463 badges <=> Courses Completed | 144
 
 # Paths
 ## Front End Web Development Path
@@ -245,6 +245,7 @@
 - React Basics => COMPLETED | 19/12/2016 | 292 points
 - Getting Started with Webpack => VIEWED | 19/12/2016
 - Setting up Webpack for React => VIEWED | 20/12/2016
+- React Router Basics => COMPLETED | 20/12/2016 | 196 points
 
 # Workshops
 ## CSS
