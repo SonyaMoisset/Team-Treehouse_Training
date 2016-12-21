@@ -1,0 +1,7 @@
+{
+  "presets": [
+    "react",
+    "es21015",
+    "stage-0"
+  ]
+}
