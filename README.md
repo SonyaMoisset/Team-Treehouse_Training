@@ -11,7 +11,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 40,832 <=> Total Achievements | 467 badges <=> Courses Completed | 145
+### Total Points | 40,838 <=> Total Achievements | 467 badges <=> Courses Completed | 146
 
 # Paths
 ## Front End Web Development Path
@@ -254,6 +254,7 @@
 -------
 ## JavaScript
 - Introducing Arrow Function Syntax => VIEWED | 18/12/2016
+- Defining Variables with let and const => VIEWED | 21/12/2016
 
 # Courses
 ## Development Tools
