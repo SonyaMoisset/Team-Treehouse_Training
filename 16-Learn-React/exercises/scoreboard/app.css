@@ -1,0 +1,251 @@
+body {
+  background: #d5d5d5; 
+  font-family: arial;
+  color: #FAFAFA;
+  text-transform: uppercase;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: .65em 0;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.scoreboard {
+  background: #333;
+  width: 700px;
+  margin: 70px auto;
+  box-shadow: 0 4px 0px #333;
+  border-radius: 15px;
+
+}
+
+.header {
+  padding: 5px 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  background-color: #222;
+  border-radius: 15px 15px 0 0;
+  border-bottom: solid 2px #444;
+}
+
+.header h1 {
+  flex-grow: 1;
+  font-size: 1.5em;
+  letter-spacing: 3px;
+  font-weight: normal;
+}
+
+.header .stats,
+.header .stopwatch {
+  width: 170px;
+}
+
+.stats {
+  margin-top: 0;
+  font-weight: normal;
+}
+
+  .stats td:first-child {
+    text-align: right;
+    font-weight: normal;
+    letter-spacing: 2px;
+    color: #666;
+    font-size: .7em;
+  }
+
+  .stats td:last-child {
+    text-align: left;
+  }
+
+.stopwatch {
+  padding: 15px 10px 5px 10px;
+  margin: -5px -10px -5px 10px;
+  background: #2f2f2f;
+  border-radius: 0 15px 0 0;
+}
+
+  .stopwatch-time {
+    font-family: monospace;
+    font-size: 2em;
+  }
+
+  .stopwatch button {
+    margin: 8px 5px;
+    background-color: #222;
+    border-radius: 5px;
+    padding: 7px 8px;
+    border: none;
+    color: #999;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-shadow: none;
+    text-transform: uppercase;
+  }
+
+  .stopwatch button:hover {
+    background: #4b71b5;
+    color: #fafafa;
+    cursor: pointer;
+  }
+
+  .stopwatch h2 {
+    font-size: .6em;
+    margin: 0;
+    font-weight: normal;
+    letter-spacing: 2px;
+    color: #666;
+  }
+
+.player {
+  display: flex;
+  font-size: 1.2em;
+  border-bottom: solid 2px #444;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+
+  .remove-player {
+    visibility: hidden;
+    margin-right: 10px;
+    color: #e57373;
+    cursor: pointer;
+  }
+
+  .player-name:hover .remove-player {
+    visibility: visible;
+  }
+
+  .player-name {
+    flex-grow: 1;
+    padding: 20px 10px 10px 10px;
+  }
+
+  .player-score {
+    width: 190px;
+    background: blue;
+  }
+
+  .counter {
+    display: flex;
+  }
+
+  .counter-action {
+    border: none;
+    font-weight: bold;
+    color: #FAFAFA;
+    display: block;
+    padding: 20px 20px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .counter-action.increment {
+    background: #66BB6A;
+  }
+
+  .counter-action.increment:hover {
+    background: #549d59;
+    cursor: pointer;
+  }
+
+  .counter-action.decrement {
+    background: #ef5350;
+  }
+
+  .counter-action.decrement:hover {
+    background: #c44442;
+    cursor: pointer;
+  }
+
+  .counter-score {
+    flex-grow: 1;
+    background: #2b2b2b;
+    color: #FAFAFA;
+    text-align: center;
+    font-family: monospace;
+    padding: 10px;
+    font-size: 2em;
+  }
+
+
+.add-player-form form {
+  display: flex;
+  background-color: #222;
+}
+
+  .add-player-form input[type=text] {
+    flex-grow: 1;
+    border-width: 0 0 1px 0;
+    margin: 15px 10px 15px 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #333;
+    border-style: none;
+    text-shadow: none;
+    text-transform: uppercase;
+    color: #999;
+    letter-spacing: 2px;
+    outline: none;
+  }
+
+  .add-player-form input[type=text]::-webkit-input-placeholder{
+    color: #666;
+    letter-spacing: 2px;
+  }
+
+  .add-player-form input[type=text]:focus{
+    background-color: #444;
+  }
+
+  .add-player-form input[type=submit] {
+    display: block;
+    font-size: .6em;
+    margin: 15px 15px 15px 0; 
+    padding: 10px;
+    background-color: #333;
+    border-radius: 5px;
+    border: none;
+    color: #999;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-shadow: none;
+    text-transform: uppercase;
+  }
+
+  .add-player-form input[type=submit]:hover{
+    background: #4b71b5;
+    color: #fafafa;
+    cursor: pointer;
+  }
+  
+.player-detail {
+  font-size: 1.1em;
+  padding: 1.65em 0 1.4em 1.65em;
+}
+  .player-detail p {
+    margin: 0;
+    color: rgba(255,255,255, .75);
+  }
+  
+  .player-detail ul {
+    padding: 0;
+    text-transform: initial;
+  }
+  
+  .player-detail ul span {
+    color: rgba(255, 255, 255, .43);
+    display: inline-block;
+    padding-right: .6em;
+    width: 3.8em;
+  }
