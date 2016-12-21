@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 
-const Counter = props => 
+const Counter = props => {
   return (
     <div ClassName="counter">
       <button
@@ -16,6 +16,7 @@ const Counter = props =>
       </button>
     </div>
   );
+};
 
 Counter.propTypes = {
   updatePlayerScore: PropTypes.func.isRequired,
