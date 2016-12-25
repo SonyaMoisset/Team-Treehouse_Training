@@ -7,11 +7,12 @@
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
+### Java | 275 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 41,506 <=> Total Achievements | 476 badges <=> Courses Completed | 148
+### Total Points | 41,781 <=> Total Achievements | 479 badges <=> Courses Completed | 149
 
 # Paths
 ## Front End Web Development Path
@@ -248,6 +249,10 @@
 - React Router Basics => COMPLETED | 20/12/2016 | 196 points
 - Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
 
+## Learn Java
+### Points |
+- Java Basics => COMPLETED | 25/12/2016 | 275 points
+
 # Workshops
 ## CSS
 - Introduction to postCSS => COMPLETED | 9 points
@@ -267,6 +272,6 @@
 - CSS Layout Techniques => COMPLETED | 15/12/2016 | 300 points  
 - Framework Basics => COMPLETED | 19/12/2016 | 462 points 
 -------
-## JS
+## JavaScript
 - JavaScript and the DOM => COMPLETED | 22/12/2016 | 424 points 
 - Introducing ES2015 => COMPLETED | 23/12/2016 | 244 points 
