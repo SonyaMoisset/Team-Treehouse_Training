@@ -4,5 +4,5 @@
 - Creating the MVP 
 - Delivering the MVP 
 
-# COMPLETED | 26/12/2016
+# COMPLETED | 27/12/2016
 # 444 points
