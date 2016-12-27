@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Prompter {
+public class Prompter {
   private Game game;
   
   public Prompter(Game game) {
@@ -9,18 +9,37 @@ class Prompter {
   
   public boolean promptForGuess() {
     Scanner scanner = new Scanner(System.in);
+    boolean isHit = false;
+    boolean isAcceptable = false;
     
-    System.out.print("Enter a letter: ");
-    
-    String guessInput = scanner.nextLine();
-    
-    char guess = guessInput.charAt(0);
-    return game.applyGuess(guess);
+    do {
+      System.out.print("Enter a letter: ");   
+      String guessInput = scanner.nextLine();  
+      
+      try {
+        isHit = game.applyGuess(guessInput);
+        isAcceptable = true;
+      } catch (IllegalArgumentException iae) {
+        System.out.printf("%s. Please try again. %n",
+                          iae.getMessage());
+      }
+    } while (!isAcceptable);
+    return isHit;
   }
   
   public void displayProgress() {
     System.out.printf("You have %d tries left to solve: %s%n",
                       game.getRemainingTries(),
                       game.getCurrentProgress());
+  }
+  
+  public void displayOutcome() {
+    if (game.isWon()) {
+      System.out.printf("Congratulations you won with %d tries remaining.%n",
+                        game.getRemainingTries());
+    } else {
+      System.out.printf("Bummer the word was %s.%n",
+                        game.getAnswer());
+    }
   }
 }
