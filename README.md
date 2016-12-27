@@ -12,7 +12,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 42,659 <=> Total Achievements | 487 badges <=> Courses Completed | 151
+### Total Points | 42,660 <=> Total Achievements | 487 badges <=> Courses Completed | 152
 
 # Paths
 ## Front End Web Development Path
@@ -254,6 +254,7 @@
 - Java Basics => COMPLETED | 25/12/2016 | 275 points
 - Java Objects (retired) => COMPLETED | 26/12/2016 | 434 points
 - Java Objects => COMPLETED | 27/12/2016 | 444 points
+- The Thing About Strings => VIEWED | 27/12/2016
 
 # Workshops
 ## CSS
