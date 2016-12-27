@@ -7,12 +7,12 @@
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
-### Java | 710 points
+### Java | 1,153 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 42,216 <=> Total Achievements | 483 badges <=> Courses Completed | 150
+### Total Points | 42,659 <=> Total Achievements | 487 badges <=> Courses Completed | 151
 
 # Paths
 ## Front End Web Development Path
@@ -253,6 +253,7 @@
 ### Points |
 - Java Basics => COMPLETED | 25/12/2016 | 275 points
 - Java Objects (retired) => COMPLETED | 26/12/2016 | 434 points
+- Java Objects => COMPLETED | 27/12/2016 | 444 points
 
 # Workshops
 ## CSS
