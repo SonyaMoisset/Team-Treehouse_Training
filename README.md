@@ -12,7 +12,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1411 points
-### Total Points | 43,304 <=> Total Achievements | 494 badges <=> Courses Completed | 155
+### Total Points | 43,307 <=> Total Achievements | 494 badges <=> Courses Completed | 156
 
 # Paths
 ## Front End Web Development Path
@@ -258,6 +258,7 @@
 - Java Data Structures => COMPLETED | 30/12/2016 | 389 points
 - Regular Expressions in Java => VIEWED | 01/10/2017
 - Local Development Environments => COMPLETED | 01/10/2017 | 254 points
+- Java Lambdas => VIEWED | 03/10/2017
 
 # Workshops
 ## CSS
