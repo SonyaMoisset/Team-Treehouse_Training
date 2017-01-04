@@ -7,16 +7,16 @@
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
-### Java | 1,796 points
+### Java | 2,129 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
-### Design | 1411 points
-### Total Points | 43,307 <=> Total Achievements | 494 badges <=> Courses Completed | 156
+### Design | 1,411 points
+### Total Points | 43,790 <=> Total Achievements | 498 badges <=> Courses Completed | 157
 
 # Paths
 ## Front End Web Development Path
-### Points | 6,050
+### Points | 6,050 points
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - CSS Basics => COMPLETED | 15/08/2016 | 540 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
@@ -40,7 +40,7 @@
 - Font End Performance Optimization => COMPLETED | 31/08/2016 | 250 points
 
 ## Web Design Path
-### Points | 3,921
+### Points | 3,921 points
  - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
  - CSS Basics => COMPLETED | 15/08/2016 | 540 points
  - CSS Selectors => COMPLETED | 23/08/2016 | 269 points
@@ -60,7 +60,7 @@
  - CSS to Sass => COMPLETED | 05/09/2016 | 186 points
  
 ## Full Stack JavaScript Path
-### Points | 5,028
+### Points | 5,028 points
  - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
  - JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
  - jQuery Basics => COMPLETED | 25/08/2016 | 555 points
@@ -82,7 +82,7 @@
  - JavaScript Unit Testing => COMPLETED | 14/09/2016 | 312 points
  
 ## PHP Development
-### Points | 3,237
+### Points | 3,237 points
 - Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
 - PHP Basics => COMPLETED | 15/09/2016 | 332 points
 - PHP Arrays and Control Structures => COMPLETED | 17/09/2016 | 287 points
@@ -100,7 +100,7 @@
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
 ## Learn WordPress
-### Points | 474
+### Points | 474 points
 - Getting Started with WordPress => COMPLETED | 22/09/2016 | 101 points
 - How to Install WordPress on Your Computer => COMPLETED | 23/09/2016 | 102 points
 - WordPress Basics => COMPLETED | 23/09/2016 | 288 points
@@ -108,7 +108,7 @@
 - WordPress Admin Settings => COMPLETED | 24/09/2016 | 118 points 
 
 ## WordPress Development
-### Points | 2,607
+### Points | 2,607 points
 - How to Make a Website with WordPress => COMPLETED | 25/09/2016 | 303 points 
 - Local WordPress Development => COMPLETED | 25/09/2016 | 102 points
 - PHP for WordPress => COMPLETED | 26/09/2016 | 185 points
@@ -133,7 +133,7 @@
 - Treehouse Club - MASH => COMPLETED | 10/10/2016 | 337 points
 
 ## Learn Python
-### Points | 2,204
+### Points | 2,204 points
 - Python Basics => COMPLETED | 11/10/2016 | 656 points
 - Python Collections => COMPLETED | 13/10/2016 | 423 points
 - Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
@@ -144,7 +144,7 @@
 - Python Testing => COMPLETED | 19/10/2016 | 224 points
 
 ## Learn Flask
-### Points | 2,504
+### Points | 2,504 points
 - Python Basics => COMPLETED | 11/10/2016 | 656 points
 - Python Collections => COMPLETED | 13/10/2016 | 423 points
 - Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
@@ -156,7 +156,7 @@
 - Flask REST API => COMPLETED | 26/10/2016 | 222 points
 
 ## Learn Django
-### Points | 3,924
+### Points | 3,924 points
 - Python Basics => COMPLETED | 11/10/2016 | 656 points
 - Python Collections => COMPLETED | 13/10/2016 | 423 points
 - Object-Oriented Python => COMPLETED | 15/10/2016 | 290 points
@@ -175,7 +175,7 @@
 - Django Social Authentication => VIEWED | 13/11/2016
 
 ## Learn Ruby
-### Points | 2,704
+### Points | 2,704 points
 - Ruby Basics => COMPLETED | 13/11/2016 | 351 points
 - Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
 - Ruby Collections => COMPLETED | 14/11/2016 | 312 points
@@ -190,7 +190,7 @@
 - Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
 
 ## Rails Development
-### Points | 4,822 
+### Points | 4,822 points
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - Ruby Basics => COMPLETED | 13/11/2016 | 351 points
 - Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
@@ -208,14 +208,14 @@
 - Troubleshooting a Rails Application => VIEWED | 26/11/2016
 
 ## Learn SQL
-### Points | 1,181
+### Points | 1,181 points
 - SQL Basics => COMPLETED | 19/09/2016 | 319 points
 - Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
 - Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
 - Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
 
 ## Learn CSharp
-### Points | 2,094
+### Points | 2,094 points
 - C# Basics => COMPLETED | 03/12/2016 | 413 points
 - C# Objects => COMPLETED | 06/12/2016 | 617 points
 - Intermediate C# => COMPLETED | 06/12/2016 | 303 points
@@ -227,7 +227,7 @@
 - Package Management with Nuget => VIEWED | 12/12/2016
 
 ## ASP NET Web Development
-### Points | 2,635
+### Points | 2,635 points
 - C# Basics => COMPLETED | 03/12/2016 | 413 points
 - C# Objects => COMPLETED | 06/12/2016 | 617 points
 - Introduction to Visual Studio => VIEWED | 07/12/2016
@@ -242,7 +242,7 @@
 - Package Management with Nuget => VIEWED | 12/12/2016
 
 ## Learn React
-### Points | 610
+### Points | 610 points
 - React Basics => COMPLETED | 19/12/2016 | 292 points
 - Getting Started with Webpack => VIEWED | 19/12/2016
 - Setting up Webpack for React => VIEWED | 20/12/2016
@@ -250,35 +250,28 @@
 - Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
 
 ## Learn Java
-### Points |
+### Points | 1,455 points
 - Java Basics => COMPLETED | 25/12/2016 | 275 points
 - Java Objects (retired) => COMPLETED | 26/12/2016 | 434 points
 - Java Objects => COMPLETED | 27/12/2016 | 444 points
 - The Thing About Strings => VIEWED | 27/12/2016
 - Java Data Structures => COMPLETED | 30/12/2016 | 389 points
 - Regular Expressions in Java => VIEWED | 01/10/2017
-- Local Development Environments => COMPLETED | 01/10/2017 | 254 points
+- Local Development Environments => COMPLETED | 03/10/2017 | 254 points
 - Java Lambdas => VIEWED | 03/10/2017
+- Build a JavaFX Application => COMPLETED | 04/10/2017 | 333 points
 
 # Workshops
-## CSS
 - Introduction to postCSS => COMPLETED | 9 points
--------
-## JavaScript
 - Introducing Arrow Function Syntax => VIEWED | 18/12/2016
 - Defining Variables with let and const => VIEWED | 21/12/2016
 
 # Courses
-## Development Tools
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
 - Technology Foundations => COMPLETED | 15/12/2016 | 149 points 
 - MailChimp API => COMPLETED | 15/12/2016 | 112 points
--------
-## CSS
 - Responsive Images => COMPLETED | 15/12/2016 | 174 points
 - CSS Layout Techniques => COMPLETED | 15/12/2016 | 300 points  
 - Framework Basics => COMPLETED | 19/12/2016 | 462 points 
--------
-## JavaScript
 - JavaScript and the DOM => COMPLETED | 22/12/2016 | 424 points 
 - Introducing ES2015 => COMPLETED | 23/12/2016 | 244 points 
