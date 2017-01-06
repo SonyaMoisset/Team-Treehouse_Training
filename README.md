@@ -7,12 +7,12 @@
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
-### Java | 2,129 points
+### Java | 2,402 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 43,790 <=> Total Achievements | 498 badges <=> Courses Completed | 157
+### Total Points | 44,063 <=> Total Achievements | 501 badges <=> Courses Completed | 158
 
 # Paths
 ## Front End Web Development Path
@@ -260,6 +260,10 @@
 - Local Development Environments => COMPLETED | 03/10/2017 | 254 points
 - Java Lambdas => VIEWED | 03/10/2017
 - Build a JavaFX Application => COMPLETED | 04/10/2017 | 333 points
+
+## Java Web Development
+### Points |
+- Unit Testing in Java => COMPLETED | 06/10/2017 | 273 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
