@@ -12,7 +12,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 44,063 <=> Total Achievements | 501 badges <=> Courses Completed | 158
+### Total Points | 44,068 <=> Total Achievements | 501 badges <=> Courses Completed | 159
 
 # Paths
 ## Front End Web Development Path
