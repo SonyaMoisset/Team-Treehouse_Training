@@ -7,12 +7,12 @@
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
-### Java | 2,402 points
+### Java | 2,578 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 44,068 <=> Total Achievements | 501 badges <=> Courses Completed | 159
+### Total Points | 44,274 <=> Total Achievements | 503 badges <=> Courses Completed | 160
 
 # Paths
 ## Front End Web Development Path
@@ -268,6 +268,7 @@
 - Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
 - HTTP Basics => COMPLETED | 24/10/2016 | 188 points
 - Java Lambdas => VIEWED | 03/10/2017
+- Intro to Java Web Development with Spark => COMPLETED | 08/10/2017 | 206 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
