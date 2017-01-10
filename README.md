@@ -256,20 +256,20 @@
 - Java Objects => COMPLETED | 27/12/2016 | 444 points
 - The Thing About Strings => VIEWED | 27/12/2016
 - Java Data Structures => COMPLETED | 30/12/2016 | 389 points
-- Regular Expressions in Java => VIEWED | 01/10/2017
-- Local Development Environments => COMPLETED | 03/10/2017 | 254 points
-- Java Lambdas => VIEWED | 03/10/2017
-- Build a JavaFX Application => COMPLETED | 04/10/2017 | 333 points
+- Regular Expressions in Java => VIEWED | 01/01/2017
+- Local Development Environments => COMPLETED | 03/01/2017 | 254 points
+- Java Lambdas => VIEWED | 03/01/2017
+- Build a JavaFX Application => COMPLETED | 04/01/2017 | 333 points
 
 ## Java Web Development
 ### Points |
-- Unit Testing in Java => COMPLETED | 06/10/2017 | 273 points
+- Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
 - Dependency Management with Gradle => VIEWED | 06/01/2017
 - Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
 - HTTP Basics => COMPLETED | 24/10/2016 | 188 points
-- Java Lambdas => VIEWED | 03/10/2017
-- Intro to Java Web Development with Spark => COMPLETED | 08/10/2017 | 206 points
-- Java Annotations => COMPLETED | 09/10/2017 | 289 points
+- Java Lambdas => VIEWED | 03/01/2017
+- Intro to Java Web Development with Spark => COMPLETED | 08/01/2017 | 206 points
+- Java Annotations => COMPLETED | 09/01/2017 | 289 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
