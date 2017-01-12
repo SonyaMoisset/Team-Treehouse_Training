@@ -271,6 +271,8 @@
 - Intro to Java Web Development with Spark => COMPLETED | 08/01/2017 | 206 points
 - Java Annotations => COMPLETED | 09/01/2017 | 289 points
 - Spring Basics => COMPLETED | 12/01/2017 | 431 points
+- SQL Basics => COMPLETED | 19/09/2016 | 319 points
+- Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
