@@ -7,12 +7,12 @@
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
-### Java | 3,298 points
+### Java | 3,541 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 44,994 <=> Total Achievements | 510 badges <=> Courses Completed | 162
+### Total Points | 45,267 <=> Total Achievements | 513 badges <=> Courses Completed | 163
 
 # Paths
 ## Front End Web Development Path
@@ -273,6 +273,7 @@
 - Spring Basics => COMPLETED | 12/01/2017 | 431 points
 - SQL Basics => COMPLETED | 19/09/2016 | 319 points
 - Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
+- Hibernate Basics => COMPLETED | 14/01/2017 | 273 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
