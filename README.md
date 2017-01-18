@@ -12,7 +12,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 45,646 <=> Total Achievements | 518 badges <=> Courses Completed | 165
+### Total Points | 45,654 <=> Total Achievements | 518 badges <=> Courses Completed | 166
 
 # Paths
 ## Front End Web Development Path
@@ -276,6 +276,7 @@
 - Hibernate Basics => COMPLETED | 14/01/2017 | 273 points
 - Spring with Hibernate => COMPLETED | 16/01/2017 | 371 points
 - Debugging an Existing Java Application => VIEWED | 17/01/2017
+- User Authentication in Spring => VIEWED | 18/01/2017
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
