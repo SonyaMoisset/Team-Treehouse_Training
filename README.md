@@ -12,7 +12,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 45,676 <=> Total Achievements | 518 badges <=> Courses Completed | 168
+### Total Points | 45,691 <=> Total Achievements | 518 badges <=> Courses Completed | 169
 
 # Paths
 ## Front End Web Development Path
@@ -280,6 +280,7 @@
 - Unit Testing a Spring Application => VIEWED | 18/01/2017
 - Rest API Basics => COMPLETED | 24/10/2016 | 101 points
 - Build a REST API in Spark => VIEWED | 18/01/2017
+- Build a REST API in Spring => VIEWED | 18/01/2017
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
