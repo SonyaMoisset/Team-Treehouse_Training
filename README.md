@@ -277,6 +277,7 @@
 - Spring with Hibernate => COMPLETED | 16/01/2017 | 371 points
 - Debugging an Existing Java Application => VIEWED | 17/01/2017
 - User Authentication in Spring => VIEWED | 18/01/2017
+- Unit Testing a Spring Application => VIEWED | 18/01/2017
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
