@@ -12,7 +12,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 45,691 <=> Total Achievements | 518 badges <=> Courses Completed | 169
+### Total Points | 45,841 <=> Total Achievements | 518 badges <=> Courses Completed | 169
 
 # Paths
 ## Front End Web Development Path
@@ -262,7 +262,7 @@
 - Build a JavaFX Application => COMPLETED | 04/01/2017 | 333 points
 
 ## Java Web Development
-### Points |
+### Points | 2,419 points
 - Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
 - Dependency Management with Gradle => VIEWED | 06/01/2017
 - Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
