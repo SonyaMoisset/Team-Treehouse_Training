@@ -8,11 +8,12 @@
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Java | 3,882 points
+### Android | 424 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 45,841 <=> Total Achievements | 518 badges <=> Courses Completed | 169
+### Total Points | 46,265 <=> Total Achievements | 523 badges <=> Courses Completed | 170
 
 # Paths
 ## Front End Web Development Path
@@ -281,6 +282,10 @@
 - Rest API Basics => COMPLETED | 24/10/2016 | 101 points
 - Build a REST API in Spark => VIEWED | 18/01/2017
 - Build a REST API in Spring => VIEWED | 18/01/2017
+
+## Beginner Android Development
+### Points
+- Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
