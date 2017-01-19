@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 46,265 <=> Total Achievements | 523 badges <=> Courses Completed | 170
+### Total Points | 46,267 <=> Total Achievements | 523 badges <=> Courses Completed | 171
 
 # Paths
 ## Front End Web Development Path
@@ -286,6 +286,7 @@
 ## Beginner Android Development
 ### Points
 - Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
+- Getting Started with the Android Emulator => VIEWED | 19/01/2017
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
