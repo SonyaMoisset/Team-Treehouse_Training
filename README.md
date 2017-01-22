@@ -288,6 +288,7 @@
 - Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
 - Getting Started with the Android Emulator => VIEWED | 19/01/2017
 - Build an Interactive Story App => COMPLETED | 22/01/2017 | 378 points
+- Github and Android Studio => VIEWED | 22/01/2017
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
