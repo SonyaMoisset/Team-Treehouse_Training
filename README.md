@@ -8,12 +8,12 @@
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Java | 3,882 points
-### Android | 802 points
+### Android | 1,300 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 46,645 <=> Total Achievements | 527 badges <=> Courses Completed | 172
+### Total Points | 47,146 <=> Total Achievements | 533 badges <=> Courses Completed | 173
 
 # Paths
 ## Front End Web Development Path
@@ -289,6 +289,7 @@
 - Getting Started with the Android Emulator => VIEWED | 19/01/2017
 - Build an Interactive Story App => COMPLETED | 22/01/2017 | 378 points
 - Github and Android Studio => VIEWED | 22/01/2017
+- Build a Weather App => COMPLETED | 24/01/2017 | 498 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
