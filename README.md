@@ -290,6 +290,7 @@
 - Build an Interactive Story App => COMPLETED | 22/01/2017 | 378 points
 - Github and Android Studio => VIEWED | 22/01/2017
 - Build a Weather App => COMPLETED | 24/01/2017 | 498 points
+- Dependency Management with Gradle => VIEWED | 06/01/2017
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
