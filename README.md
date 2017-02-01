@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 1,989 points
 ### CSS | 3,579 points
-### JavaScript | 6,935 points
+### JavaScript | 7,170 points
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
 ### Python | 6,176 points
@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 48,266 <=> Total Achievements | 546 badges <=> Courses Completed | 180
+### Total Points | 48,501 <=> Total Achievements | 549 badges <=> Courses Completed | 181
 
 # Paths
 ## Front End Web Development Path
@@ -313,3 +313,4 @@
 - Framework Basics => COMPLETED | 19/12/2016 | 462 points 
 - JavaScript and the DOM => COMPLETED | 22/12/2016 | 424 points 
 - Introducing ES2015 => COMPLETED | 23/12/2016 | 244 points 
+- DOM Scripting By Example => COMPLETED | 01/02/2017 | 235 points
