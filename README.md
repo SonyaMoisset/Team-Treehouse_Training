@@ -8,12 +8,12 @@
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Java | 3,882 points
-### Android | 1,902 points
+### Android | 2,081 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 47,808 <=> Total Achievements | 542 badges <=> Courses Completed | 175
+### Total Points | 48,257 <=> Total Achievements | 546 badges <=> Courses Completed | 176
 
 # Paths
 ## Front End Web Development Path
@@ -284,7 +284,7 @@
 - Build a REST API in Spring => VIEWED | 18/01/2017
 
 ## Beginner Android Development
-### Points
+### Points | 1,961 points
 - Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
 - Getting Started with the Android Emulator => VIEWED | 19/01/2017
 - Build an Interactive Story App => COMPLETED | 22/01/2017 | 378 points
@@ -293,6 +293,7 @@
 - Dependency Management with Gradle => VIEWED | 06/01/2017
 - Android Lists and Adapters => COMPLETED | 30/01/2017 | 433 points
 - Android Activity Lifecycle => COMPLETED | 31/01/2017 | 229 points
+- Android Fragments => COMPLETED | 01/02/2017 | 299 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
