@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 48,259 <=> Total Achievements | 546 badges <=> Courses Completed | 178
+### Total Points | 48,261 <=> Total Achievements | 546 badges <=> Courses Completed | 179
 
 # Paths
 ## Front End Web Development Path
@@ -301,6 +301,7 @@
 - Defining Variables with let and const => VIEWED | 21/12/2016
 - Creating a jQuery Plugin => VIEWED | 01/02/2017
 - The JavaScript 'use strict' Statement => VIEWED | 01/02/2017
+- Introducing Template Literals => VIEWED | 01/02/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
