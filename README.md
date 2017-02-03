@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 1,989 points
 ### CSS | 3,579 points
-### JavaScript | 7,441 points
+### JavaScript | 7,684 points
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
 ### Python | 6,176 points
@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 48,802 <=> Total Achievements | 553 badges <=> Courses Completed | 182
+### Total Points | 49,045 <=> Total Achievements | 557 badges <=> Courses Completed | 183
 
 # Paths
 ## Front End Web Development Path
@@ -302,7 +302,7 @@
 - Creating a jQuery Plugin => VIEWED | 01/02/2017
 - The JavaScript 'use strict' Statement => VIEWED | 01/02/2017
 - Introducing Template Literals => VIEWED | 01/02/2017
-- `debugging Node Applications with Google Chrome => VIEWED | 01/02/2017
+- Debugging Node Applications with Google Chrome => VIEWED | 01/02/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
@@ -315,3 +315,4 @@
 - Introducing ES2015 => COMPLETED | 23/12/2016 | 244 points 
 - DOM Scripting By Example => COMPLETED | 01/02/2017 | 235 points
 - Node.js Basics => COMPLETED | 03/02/2017 | 301 points
+- Introduction to jQuery => COMPLETED | 03/02/2017 | 243 points
