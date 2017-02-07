@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 1,989 points
 ### CSS | 3,579 points
-### JavaScript | 7,684 points
+### JavaScript | 7,982 points
 ### PHP | 2,462 points
 ### WordPress | 3,981 points
 ### Python | 6,176 points
@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 49,045 <=> Total Achievements | 557 badges <=> Courses Completed | 183
+### Total Points | 49,343 <=> Total Achievements | 562 badges <=> Courses Completed | 184
 
 # Paths
 ## Front End Web Development Path
@@ -316,3 +316,4 @@
 - DOM Scripting By Example => COMPLETED | 01/02/2017 | 235 points
 - Node.js Basics => COMPLETED | 03/02/2017 | 301 points
 - Introduction to jQuery => COMPLETED | 03/02/2017 | 243 points
+- Build a REST API With Express => COMPLETED | 07/02/2017 | 298 points
