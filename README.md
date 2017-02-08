@@ -295,6 +295,9 @@
 - Android Activity Lifecycle => COMPLETED | 31/01/2017 | 229 points
 - Android Fragments => COMPLETED | 01/02/2017 | 299 points
 
+## Intermediate Android Development
+### Points |
+
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
 - Introducing Arrow Function Syntax => VIEWED | 18/12/2016
