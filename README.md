@@ -60,6 +60,18 @@
  - Brand Identity Basics => COMPLETED | 05/09/2016 | 222 points
  - CSS to Sass => COMPLETED | 05/09/2016 | 186 points
  
+## Beginner JavaScript 
+### Points | 1,893 points
+- JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
+- JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
+- Defining Variables with let and const => VIEWED | 21/12/2016
+- Introducing Arrow Function Syntax => VIEWED | 18/12/2016
+- Introducing Template Literals => VIEWED | 01/02/2017
+- JavaScript and the DOM => COMPLETED | 22/12/2016 | 424 points 
+- DOM Scripting By Example => COMPLETED | 01/02/2017 | 235 points
+- Introduction to jQuery => COMPLETED | 03/02/2017 | 243 points
+- Using jQuery Plugins => COMPLETED | 06/09/2016 | 185 points
+ 
 ## Full Stack JavaScript Path
 ### Points | 5,028 points
  - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
