@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 50,089 <=> Total Achievements | 570 badges <=> Courses Completed | 185
+### Total Points | 50,094 <=> Total Achievements | 570 badges <=> Courses Completed | 186
 
 # Paths
 ## Front End Web Development Path
@@ -320,6 +320,7 @@
 - Introducing Template Literals => VIEWED | 01/02/2017
 - Debugging Node Applications with Google Chrome => VIEWED | 01/02/2017
 - Understanding Express Middleware => VIEWED | 10/02/2017
+- Data Fetching in React => VIEWED | 10/02/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
