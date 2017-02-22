@@ -8,12 +8,12 @@
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Java | 3,882 points
-### Android | 3,177 points
+### Android | 3,528 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 50,860 <=> Total Achievements | 580 badges <=> Courses Completed | 188
+### Total Points | 51,211 <=> Total Achievements | 584 badges <=> Courses Completed | 189
 
 # Paths
 ## Front End Web Development Path
@@ -312,6 +312,7 @@
 - Animations and Transitions => COMPLETED | 08/02/2017 | 330 points
 - Android Data Persistence => COMPLETED | 16/02/2017 | 495 points
 - Google Play Services => COMPLETED | 20/02/2017 | 271 points
+- Threads and Services => COMPLETED | 22/02/2017 | 351 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
