@@ -1,5 +1,5 @@
 # Treehouse
-### HTML | 1,989 points
+### HTML | 2,243 points
 ### CSS | 3,579 points
 ### JavaScript | 8,242 points
 ### PHP | 2,462 points
