@@ -316,6 +316,7 @@
 - Intents and Broadcast Receivers => COMPLETED | 24/02/2017 | 298 points
 - Kotlin for Java Developers => COMPLETED | 27/02/2017 | 275 points
 - Kotlin and Anko => COMPLETED | 27/02/2017 | 159 points
+- Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
