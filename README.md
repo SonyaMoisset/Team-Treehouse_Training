@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 52,160 <=> Total Achievements | 597 badges <=> Courses Completed | 193
+### Total Points | 52,319 <=> Total Achievements | 597 badges <=> Courses Completed | 195
 
 # Paths
 ## Front End Web Development Path
@@ -308,7 +308,7 @@
 - Android Fragments => COMPLETED | 01/02/2017 | 299 points
 
 ## Intermediate Android Development
-### Points |
+### Points | 2,189 points
 - Animations and Transitions => COMPLETED | 08/02/2017 | 330 points
 - Android Data Persistence => COMPLETED | 16/02/2017 | 495 points
 - Google Play Services => COMPLETED | 20/02/2017 | 271 points
@@ -318,6 +318,7 @@
 - Kotlin and Anko => COMPLETED | 27/02/2017 | 159 points
 - Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
 - Testing in Android => COMPLETED | 28/02/2017 | 217 points
+- Using the Camera in Android => VIEWED | 28/01/2017
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
