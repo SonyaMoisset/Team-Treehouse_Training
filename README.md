@@ -8,12 +8,12 @@
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Java | 3,882 points
-### Android | 4,080 points
+### Android | 4,297 points
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 51,943 <=> Total Achievements | 594 badges <=> Courses Completed | 192
+### Total Points | 52,160 <=> Total Achievements | 597 badges <=> Courses Completed | 193
 
 # Paths
 ## Front End Web Development Path
@@ -317,6 +317,7 @@
 - Kotlin for Java Developers => COMPLETED | 27/02/2017 | 275 points
 - Kotlin and Anko => COMPLETED | 27/02/2017 | 159 points
 - Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
+- Testing in Android => COMPLETED | 28/02/2017 | 217 points
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
