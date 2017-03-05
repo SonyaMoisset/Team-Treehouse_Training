@@ -330,6 +330,7 @@
 - Debugging Node Applications with Google Chrome => VIEWED | 01/02/2017
 - Understanding Express Middleware => VIEWED | 10/02/2017
 - Data Fetching in React => VIEWED | 10/02/2017
+- Practice CSS Selectors => VIEWED | 05/03/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
