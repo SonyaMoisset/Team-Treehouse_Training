@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,411 points
-### Total Points | 52,319 <=> Total Achievements | 597 badges <=> Courses Completed | 195
+### Total Points | 52,323 <=> Total Achievements | 597 badges <=> Courses Completed | 197
 
 # Paths
 ## Front End Web Development Path
@@ -331,6 +331,7 @@
 - Understanding Express Middleware => VIEWED | 10/02/2017
 - Data Fetching in React => VIEWED | 10/02/2017
 - Practice CSS Selectors => VIEWED | 05/03/2017
+- Practice Media Queries => VIEWED | 05/03/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
