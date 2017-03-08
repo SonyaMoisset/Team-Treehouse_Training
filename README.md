@@ -12,8 +12,8 @@
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
-### Design | 1,411 points
-### Total Points | 53,038 <=> Total Achievements | 606 badges <=> Courses Completed | 200
+### Design | 1,589 points
+### Total Points | 53,216 <=> Total Achievements | 609 badges <=> Courses Completed | 201
 
 # Paths
 ## Front End Web Development Path
@@ -350,3 +350,4 @@
 - User Authentication With Express and Mongo => COMPLETED | 08/02/2017 | 260 points
 - Sass Basics  => COMPLETED | 06/03/2017 | 371 points
 - Modular CSS with Sass => COMPLETED | 07/03/2017 | 338 points
+- Aesthetic Foundations => COMPLETED | 08/03/2017 | 178 points
