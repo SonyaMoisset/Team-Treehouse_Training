@@ -3,7 +3,7 @@
 ### CSS | 4,288 points
 ### JavaScript | 8,242 points
 ### PHP | 2,462 points
-### WordPress | 3,981 points
+### WordPress | 4,245 points
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
@@ -13,7 +13,7 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,589 points
-### Total Points | 53,216 <=> Total Achievements | 609 badges <=> Courses Completed | 201
+### Total Points | 53,480 <=> Total Achievements | 614 badges <=> Courses Completed | 202
 
 # Paths
 ## Front End Web Development Path
@@ -351,3 +351,4 @@
 - Sass Basics  => COMPLETED | 06/03/2017 | 371 points
 - Modular CSS with Sass => COMPLETED | 07/03/2017 | 338 points
 - Aesthetic Foundations => COMPLETED | 08/03/2017 | 178 points
+- Build a Website with WordPress => COMPLETED | 09/03/2017 | 264 points
