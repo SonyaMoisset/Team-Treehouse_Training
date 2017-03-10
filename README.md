@@ -13,8 +13,8 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,589 points
-### Business | 397 points
-### Total Points | 53,877 <=> Total Achievements | 622 badges <=> Courses Completed | 203
+### Business | 644 points
+### Total Points | 54,124 <=> Total Achievements | 626 badges <=> Courses Completed | 204
 
 # Paths
 ## Front End Web Development Path
@@ -354,3 +354,4 @@
 - Aesthetic Foundations => COMPLETED | 08/03/2017 | 178 points
 - Build a Website with WordPress => COMPLETED | 09/03/2017 | 264 points
 - Careers Foundations => COMPLETED | 09/03/2017 | 397 points
+- Copyright Basics => COMPLETED | 10/03/2017 | 247 points
