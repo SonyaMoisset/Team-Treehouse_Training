@@ -2,7 +2,7 @@
 ### HTML | 2,243 points
 ### CSS | 4,288 points
 ### JavaScript | 8,242 points
-### PHP | 2,462 points
+### PHP | 2,736 points
 ### WordPress | 4,245 points
 ### Python | 6,176 points
 ### Ruby | 4,166 points
@@ -14,7 +14,7 @@
 ### Databases | 1,455 points
 ### Design | 1,589 points
 ### Business | 644 points
-### Total Points | 54,124 <=> Total Achievements | 626 badges <=> Courses Completed | 204
+### Total Points | 54,398 <=> Total Achievements | 630 badges <=> Courses Completed | 205
 
 # Paths
 ## Front End Web Development Path
@@ -355,3 +355,4 @@
 - Build a Website with WordPress => COMPLETED | 09/03/2017 | 264 points
 - Careers Foundations => COMPLETED | 09/03/2017 | 397 points
 - Copyright Basics => COMPLETED | 10/03/2017 | 247 points
+- Drupal Basics => COMPLETED | 13/03/2017 | 274 points
