@@ -13,8 +13,8 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 1,589 points
-### Business | 1,047 points
-### Total Points | 54,801 <=> Total Achievements | 636 badges <=> Courses Completed | 206
+### Business | 1,270 points
+### Total Points | 55,024 <=> Total Achievements | 640 badges <=> Courses Completed | 207
 
 # Paths
 ## Front End Web Development Path
@@ -357,3 +357,4 @@
 - Copyright Basics => COMPLETED | 10/03/2017 | 247 points
 - Drupal Basics => COMPLETED | 13/03/2017 | 274 points
 - How to Market Your Business => COMPLETED | 14/03/2017 | 403 points
+- How to Build Your Business Through Blogging => COMPLETED | 14/03/2017 | 223 points
