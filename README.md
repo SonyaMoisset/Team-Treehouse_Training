@@ -15,6 +15,7 @@
 ### Design | 1,636 points
 ### Business | 1,270 points
 ### Total Points | 55,071 <=> Total Achievements | 641 badges <=> Courses Completed | 207
+----------
 
 # Paths
 ## Front End Web Development Path
