@@ -12,9 +12,9 @@
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
-### Design | 1,731 points
+### Design | 1,838 points
 ### Business | 1,270 points
-### Total Points | 55,166 <=> Total Achievements | 643 badges <=> Courses Completed | 207
+### Total Points | 55,273 <=> Total Achievements | 644 badges <=> Courses Completed | 208
 ----------
 
 # Paths
@@ -359,3 +359,4 @@
 - Drupal Basics => COMPLETED | 13/03/2017 | 274 points
 - How to Market Your Business => COMPLETED | 14/03/2017 | 403 points
 - How to Build Your Business Through Blogging => COMPLETED | 14/03/2017 | 223 points
+- Usability Foundations => COMPLETED | 20/03/2017 | 249 points
