@@ -13,8 +13,8 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,054 points
-### Business | 1,494 points
-### Total Points | 55,713 <=> Total Achievements | 653 badges <=> Courses Completed | 209
+### Business | 1,594 points
+### Total Points | 55,813 <=> Total Achievements | 654 badges <=> Courses Completed | 210
 ----------
 
 # Paths
@@ -361,3 +361,4 @@
 - How to Build Your Business Through Blogging => COMPLETED | 14/03/2017 | 223 points
 - Usability Foundations => COMPLETED | 20/03/2017 | 249 points
 - HTML Email Design => COMPLETED | 20/03/2017 | 216 points
+- How to Freelance => COMPLETED | 22/03/2017 | 324 points
