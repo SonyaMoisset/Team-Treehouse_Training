@@ -3,7 +3,7 @@
 ### CSS | 4,288 points
 ### JavaScript | 8,242 points
 ### PHP | 2,736 points
-### WordPress | 4,245 points
+### WordPress | 4,346 points
 ### Python | 6,176 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
@@ -14,7 +14,7 @@
 ### Databases | 1,455 points
 ### Design | 2,054 points
 ### Business | 1,594 points
-### Total Points | 55,813 <=> Total Achievements | 654 badges <=> Courses Completed | 210
+### Total Points | 55,914 <=> Total Achievements | 655 badges <=> Courses Completed | 211
 ----------
 
 # Paths
@@ -362,3 +362,4 @@
 - Usability Foundations => COMPLETED | 20/03/2017 | 249 points
 - HTML Email Design => COMPLETED | 20/03/2017 | 216 points
 - How to Freelance => COMPLETED | 22/03/2017 | 324 points
+- The WordPress Codex => COMPLETED | 22/03/2017 | 101 points
