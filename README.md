@@ -13,8 +13,8 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,054 points
-### Business | 1,594 points
-### Total Points | 55,914 <=> Total Achievements | 655 badges <=> Courses Completed | 211
+### Business | 1,649 points
+### Total Points | 55,969 <=> Total Achievements | 656 badges <=> Courses Completed | 211
 ----------
 
 # Paths
