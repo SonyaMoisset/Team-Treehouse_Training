@@ -13,8 +13,8 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,054 points
-### Business | 1,649 points
-### Total Points | 55,969 <=> Total Achievements | 656 badges <=> Courses Completed | 211
+### Business | 1,750 points
+### Total Points | 56,070 <=> Total Achievements | 657 badges <=> Courses Completed | 212
 ----------
 
 # Paths
@@ -363,3 +363,4 @@
 - HTML Email Design => COMPLETED | 20/03/2017 | 216 points
 - How to Freelance => COMPLETED | 22/03/2017 | 324 points
 - The WordPress Codex => COMPLETED | 22/03/2017 | 101 points
+- How to Write a Business Plan => COMPLETED | 23/03/2017 | 156 points
