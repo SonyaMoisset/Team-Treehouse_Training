@@ -12,9 +12,9 @@
 ### Development Tools | 2,433 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
-### Design | 2,242 points
+### Design | 2,349 points
 ### Business | 1,750 points
-### Total Points | 56,258 <=> Total Achievements | 661 badges <=> Courses Completed | 212
+### Total Points | 56,365 <=> Total Achievements | 662 badges <=> Courses Completed | 213
 ----------
 
 # Paths
@@ -364,3 +364,4 @@
 - How to Freelance => COMPLETED | 22/03/2017 | 324 points
 - The WordPress Codex => COMPLETED | 22/03/2017 | 101 points
 - How to Write a Business Plan => COMPLETED | 23/03/2017 | 156 points
+- UX Basics => COMPLETED | 26/03/2017 | 295 points
