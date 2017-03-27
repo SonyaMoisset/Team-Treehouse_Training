@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 2,243 points
 ### CSS | 4,288 points
-### JavaScript | 8,423 points
+### JavaScript | 8,528 points
 ### PHP | 2,736 points
 ### WordPress | 4,346 points
 ### Python | 6,176 points
@@ -14,7 +14,7 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 1,750 points
-### Total Points | 56,546 <=> Total Achievements | 666 badges <=> Courses Completed | 213
+### Total Points | 56,651 <=> Total Achievements | 667 badges <=> Courses Completed | 214
 ----------
 
 # Paths
@@ -365,3 +365,4 @@
 - The WordPress Codex => COMPLETED | 22/03/2017 | 101 points
 - How to Write a Business Plan => COMPLETED | 23/03/2017 | 156 points
 - UX Basics => COMPLETED | 26/03/2017 | 295 points
+- Angular Basics => COMPLETED | 27/03/2017 | 286 points
