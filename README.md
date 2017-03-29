@@ -9,12 +9,12 @@
 ### C# | 3,247 points
 ### Java | 3,882 points
 ### Android | 4,297 points
-### Development Tools | 2,433 points
+### Development Tools | 2,474 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 1,750 points
-### Total Points | 56,651 <=> Total Achievements | 667 badges <=> Courses Completed | 214
+### Total Points | 56,692 <=> Total Achievements | 668 badges <=> Courses Completed | 214
 ----------
 
 # Paths
