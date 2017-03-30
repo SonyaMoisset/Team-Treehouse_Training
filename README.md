@@ -9,12 +9,12 @@
 ### C# | 3,247 points
 ### Java | 3,882 points
 ### Android | 4,297 points
-### Development Tools | 2,651 points
+### Development Tools | 2,750 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 1,750 points
-### Total Points | 56,869 <=> Total Achievements | 672 badges <=> Courses Completed | 214
+### Total Points | 56,968 <=> Total Achievements | 673 badges <=> Courses Completed | 215
 ----------
 
 # Paths
@@ -366,3 +366,4 @@
 - How to Write a Business Plan => COMPLETED | 23/03/2017 | 156 points
 - UX Basics => COMPLETED | 26/03/2017 | 295 points
 - Angular Basics => COMPLETED | 27/03/2017 | 286 points
+- Web Accessibility Compliance => COMPLETED | 30/03/2017 | 317 points
