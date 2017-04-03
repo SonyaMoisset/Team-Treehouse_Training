@@ -13,8 +13,8 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,349 points
-### Business | 1,937 points
-### Total Points | 57,155 <=> Total Achievements | 676 badges <=> Courses Completed | 215
+### Business | 2,039 points
+### Total Points | 57,257 <=> Total Achievements | 677 badges <=> Courses Completed | 216
 ----------
 
 # Paths
@@ -367,3 +367,4 @@
 - UX Basics => COMPLETED | 26/03/2017 | 295 points
 - Angular Basics => COMPLETED | 27/03/2017 | 286 points
 - Web Accessibility Compliance => COMPLETED | 30/03/2017 | 317 points
+- SEO Basics => COMPLETED | 03/04/2017 | 289 points
