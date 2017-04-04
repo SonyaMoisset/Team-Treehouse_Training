@@ -4,7 +4,7 @@
 ### JavaScript | 8,528 points
 ### PHP | 2,736 points
 ### WordPress | 4,346 points
-### Python | 6,572 points
+### Python | 6,709 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Java | 3,882 points
@@ -14,7 +14,7 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Total Points | 57,653 <=> Total Achievements | 682 badges <=> Courses Completed | 216
+### Total Points | 57,790 <=> Total Achievements | 683 badges <=> Courses Completed | 217
 ----------
 
 # Paths
@@ -368,3 +368,4 @@
 - Angular Basics => COMPLETED | 27/03/2017 | 286 points
 - Web Accessibility Compliance => COMPLETED | 30/03/2017 | 317 points
 - SEO Basics => COMPLETED | 03/04/2017 | 289 points
+- Python Collections => => COMPLETED | 04/04/2017 | 533 points
