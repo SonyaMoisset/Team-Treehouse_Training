@@ -4,7 +4,7 @@
 ### JavaScript | 8,528 points
 ### PHP | 2,736 points
 ### WordPress | 4,346 points
-### Python | 6,434 points
+### Python | 6,509 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Java | 3,882 points
@@ -14,7 +14,7 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Total Points | 57,515 <=> Total Achievements | 680 badges <=> Courses Completed | 216
+### Total Points | 57,590 <=> Total Achievements | 681 badges <=> Courses Completed | 216
 ----------
 
 # Paths
