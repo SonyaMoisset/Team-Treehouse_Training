@@ -2,7 +2,7 @@
 ### HTML | 2,243 points
 ### CSS | 4,288 points
 ### JavaScript | 8,528 points
-### API | 44 points
+### API | 114 points
 ### PHP | 2,736 points
 ### WordPress | 4,346 points
 ### Python | 6,709 points
@@ -15,7 +15,7 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Total Points | 58,194 <=> Total Achievements | 690 badges <=> Courses Completed | 217
+### Total Points | 58,294 <=> Total Achievements | 691 badges <=> Courses Completed | 217
 ----------
 
 # Paths
@@ -371,3 +371,4 @@
 - SEO Basics => COMPLETED | 03/04/2017 | 289 points
 - Python Collections => COMPLETED | 04/04/2017 | 533 points
 - GitHub Basics => COMPLETED | 07/04/2017 | 300 points
+- Build an Alexa Skill => COMPLETED | 07/04/2017 | 204 points
