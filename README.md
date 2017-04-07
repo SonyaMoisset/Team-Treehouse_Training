@@ -9,12 +9,12 @@
 ### C# | 3,247 points
 ### Java | 3,882 points
 ### Android | 4,297 points
-### Development Tools | 2,919 points
+### Development Tools | 3,020 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Total Points | 57,989 <=> Total Achievements | 687 badges <=> Courses Completed | 217
+### Total Points | 58,090 <=> Total Achievements | 688 badges <=> Courses Completed | 217
 ----------
 
 # Paths
@@ -368,4 +368,5 @@
 - Angular Basics => COMPLETED | 27/03/2017 | 286 points
 - Web Accessibility Compliance => COMPLETED | 30/03/2017 | 317 points
 - SEO Basics => COMPLETED | 03/04/2017 | 289 points
-- Python Collections => => COMPLETED | 04/04/2017 | 533 points
+- Python Collections => COMPLETED | 04/04/2017 | 533 points
+- GitHub Basics => COMPLETED | 07/04/2017 | 300 points
