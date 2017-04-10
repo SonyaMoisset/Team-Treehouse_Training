@@ -8,7 +8,7 @@
 ### Python | 6,709 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
-### Game Development | 162 points
+### Game Development | 209 points
 ### Java | 3,882 points
 ### Android | 4,297 points
 ### Development Tools | 3,020 points
@@ -16,7 +16,7 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Total Points | 58,456 <=> Total Achievements | 693 badges <=> Courses Completed | 217
+### Total Points | 58,503 <=> Total Achievements | 694 badges <=> Courses Completed | 217
 ----------
 
 # Paths
