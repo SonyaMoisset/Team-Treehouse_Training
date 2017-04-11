@@ -5,3 +5,7 @@
 - Pickups 
 - Score, Enemies, and Game State 
 - Game Audio 
+- Build and Share a Unity Game 
+
+# COMPLETED | 11/04/2017
+# 408 points
