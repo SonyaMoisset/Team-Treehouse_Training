@@ -16,7 +16,7 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Total Points | 58,751 <=> Total Achievements | 699 badges <=> Courses Completed | 218
+### Total Points | 58,753 <=> Total Achievements | 700 badges <=> Courses Completed | 219
 ----------
 
 # Paths
@@ -342,6 +342,7 @@
 - Practice Media Queries => VIEWED | 05/03/2017
 - Debugging JavaScript in the Browser => VIEWED | 05/03/2017
 - Practice The CSS Box Model => VIEWED | 13/04/2017
+- Practice CSS Floats => VIEWED | 13/04/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
