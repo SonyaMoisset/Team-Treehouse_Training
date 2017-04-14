@@ -328,6 +328,8 @@
 ### Points |
 - How to Make a Video Game => COMPLETED | 1/04/2017 | 408 points
 
+----------
+
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
 - Introducing Arrow Function Syntax => VIEWED | 18/12/2016
