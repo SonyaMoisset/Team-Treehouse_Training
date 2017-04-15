@@ -16,7 +16,7 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Total Points | 58,756 <=> Total Achievements | 699 badges <=> Courses Completed | 219
+### Total Points | 58,915 <=> Total Achievements | 699 badges <=> Courses Completed | 221
 ----------
 
 # Paths
@@ -334,6 +334,16 @@
 - Android Fragments => COMPLETED | 01/02/2017 | 299 points
 - Android Data Persistence => COMPLETED | 16/02/2017 | 495 points
 - Google Play Services => COMPLETED | 20/02/2017 | 271 points
+
+## Advanced Android Development
+### Points | 1,273 points
+- Threads and Services => COMPLETED | 22/02/2017 | 351 points
+- Intents and Broadcast Receivers => COMPLETED | 24/02/2017 | 298 points
+- Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
+- Testing in Android => COMPLETED | 28/02/2017 | 217 points
+- Android Widgets => VIEWED | 15/04/2017
+- Kotlin for Java Developers => COMPLETED | 27/02/2017 | 275 points
+- Kotlin and Anko => COMPLETED | 27/02/2017 | 159 points
 
 ## Beginner Game Development with Unity
 ### Points |
