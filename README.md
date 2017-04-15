@@ -16,7 +16,7 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Total Points | 58,753 <=> Total Achievements | 700 badges <=> Courses Completed | 219
+### Total Points | 58,756 <=> Total Achievements | 699 badges <=> Courses Completed | 219
 ----------
 
 # Paths
@@ -311,7 +311,7 @@
 - Android Activity Lifecycle => COMPLETED | 31/01/2017 | 229 points
 - Android Fragments => COMPLETED | 01/02/2017 | 299 points
 
-## Intermediate Android Development
+## Intermediate Android Development | TYPE A
 ### Points | 2,189 points
 - Animations and Transitions => COMPLETED | 08/02/2017 | 330 points
 - Android Data Persistence => COMPLETED | 16/02/2017 | 495 points
@@ -323,6 +323,17 @@
 - Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
 - Testing in Android => COMPLETED | 28/02/2017 | 217 points
 - Using the Camera in Android => VIEWED | 28/01/2017
+
+## Intermediate Android Development | TYPE B
+### Points | 1,757 points
+- Android Lists and Adapters => COMPLETED | 30/01/2017 | 433 points
+- Dependency Management with Gradle => VIEWED | 06/01/2017
+- Android Activity Lifecycle => COMPLETED | 31/01/2017 | 229 points
+- Animations and Transitions => COMPLETED | 08/02/2017 | 330 points
+- Android Permissions => VIEWED | 15/04/2017
+- Android Fragments => COMPLETED | 01/02/2017 | 299 points
+- Android Data Persistence => COMPLETED | 16/02/2017 | 495 points
+- Google Play Services => COMPLETED | 20/02/2017 | 271 points
 
 ## Beginner Game Development with Unity
 ### Points |
