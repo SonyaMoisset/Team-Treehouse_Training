@@ -4,7 +4,7 @@
 ### JavaScript | 8,528 points
 ### API | 114 points
 ### PHP | 2,736 points
-### WordPress | 4,346 points
+### WordPress | 4,448 points
 ### Python | 6,709 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 59,198 <=> Total Achievements | 704 badges <=> Courses Completed | 222
+### Total Points | 59,300 <=> Total Achievements | 705 badges <=> Courses Completed | 223
 ----------
 
 # Paths
@@ -404,3 +404,4 @@
 - GitHub Basics => COMPLETED | 07/04/2017 | 300 points
 - Build an Alexa Skill => COMPLETED | 07/04/2017 | 204 points
 - Spreadsheet Basics => COMPLETED | 17/04/2017 | 283 points
+- Moving from WordPress.com to Self-Hosted WordPress.org => COMPLETED | 17/04/2017 | 102 points
