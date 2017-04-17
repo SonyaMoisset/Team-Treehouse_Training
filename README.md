@@ -16,8 +16,8 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
-### Data Analysis | 183 points
-### Total Points | 59,098 <=> Total Achievements | 703 badges <=> Courses Completed | 221
+### Data Analysis | 283 points
+### Total Points | 59,198 <=> Total Achievements | 704 badges <=> Courses Completed | 222
 ----------
 
 # Paths
@@ -403,3 +403,4 @@
 - Python Collections => COMPLETED | 04/04/2017 | 533 points
 - GitHub Basics => COMPLETED | 07/04/2017 | 300 points
 - Build an Alexa Skill => COMPLETED | 07/04/2017 | 204 points
+- Spreadsheet Basics => COMPLETED | 17/04/2017 | 283 points
