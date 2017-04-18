@@ -5,7 +5,7 @@
 ### API | 114 points
 ### PHP | 2,736 points
 ### WordPress | 4,448 points
-### Python | 6,802 points
+### Python | 6,859 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Game Development | 408 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 59,393 <=> Total Achievements | 707 badges <=> Courses Completed | 223
+### Total Points | 59,450 <=> Total Achievements | 708 badges <=> Courses Completed | 223
 ----------
 
 # Paths
