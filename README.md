@@ -11,13 +11,13 @@
 ### Game Development | 408 points
 ### Java | 3,882 points
 ### Android | 4,297 points
-### Development Tools | 3,123 points
+### Development Tools | 3,241 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 59,775 <=> Total Achievements | 713 badges <=> Courses Completed | 225
+### Total Points | 59,893 <=> Total Achievements | 714 badges <=> Courses Completed | 225
 ----------
 
 # Paths
@@ -407,3 +407,4 @@
 - Spreadsheet Basics => COMPLETED | 17/04/2017 | 283 points
 - Moving from WordPress.com to Self-Hosted WordPress.org => COMPLETED | 17/04/2017 | 102 points
 - Data Science Basics => COMPLETED | 18/04/2017 | 369 points
+- Front End Web Optimization Workflow => COMPLETED | 19/04/2017 | 221 points
