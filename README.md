@@ -117,6 +117,15 @@
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 
+## Beginning PHP
+### Points | 1,306 points
+- Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
+- PHP Basics => COMPLETED | 15/09/2016 | 332 points
+- PHP Arrays and Control Structures => COMPLETED | 17/09/2016 | 287 points
+- PHP Functions => COMPLETED | 17/09/2016 | 287 points
+- Basic Error Handling in PHP => VIEWED | 17/09/2016
+- Build a Basic PHP Website => COMPLETED | 19/09/2016 | 440 points
+
 ## Learn WordPress
 ### Points | 474 points
 - Getting Started with WordPress => COMPLETED | 22/09/2016 | 101 points
