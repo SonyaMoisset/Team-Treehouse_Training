@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,214 <=> Total Achievements | 718 badges <=> Courses Completed | 226
+### Total Points | 60,216 <=> Total Achievements | 718 badges <=> Courses Completed | 227
 ----------
 
 # Paths
@@ -377,6 +377,7 @@
 - Practice The CSS Box Model => VIEWED | 13/04/2017
 - Practice CSS Floats => VIEWED | 13/04/2017
 - What's New in Python 3.6? => VIEWED | 19/04/2017
+- Practice Basic Variables, Input & Output in JavaScript => VIEWED | 24/04/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
