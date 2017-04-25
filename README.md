@@ -1,5 +1,5 @@
 # Treehouse
-### HTML | 2,314 points
+### HTML | 2,424 points
 ### CSS | 4,489 points
 ### JavaScript | 8,528 points
 ### API | 114 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,287 <=> Total Achievements | 719 badges <=> Courses Completed | 227
+### Total Points | 60,397 <=> Total Achievements | 720 badges <=> Courses Completed | 228
 ----------
 
 # Paths
@@ -419,3 +419,4 @@
 - Data Science Basics => COMPLETED | 18/04/2017 | 369 points
 - Front End Web Optimization Workflow => COMPLETED | 19/04/2017 | 221 points
 - Sass Basics => COMPLETED | 24/04/2017 | 321 points
+- HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
