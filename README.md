@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,506 <=> Total Achievements | 721 badges <=> Courses Completed | 228
+### Total Points | 60,510 <=> Total Achievements | 721 badges <=> Courses Completed | 229
 ----------
 
 # Paths
@@ -379,6 +379,7 @@
 - What's New in Python 3.6? => VIEWED | 19/04/2017
 - Practice Basic Variables, Input & Output in JavaScript => VIEWED | 24/04/2017
 - Practice Column Selection and Aliasing with SQL => VIEWED | 27/04/2017
+- Create a Media Player with MediaElement.js => VIEWED | 02/05/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
