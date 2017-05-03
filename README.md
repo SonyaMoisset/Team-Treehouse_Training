@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,512 <=> Total Achievements | 721 badges <=> Courses Completed | 229
+### Total Points | 60,513 <=> Total Achievements | 721 badges <=> Courses Completed | 230
 ----------
 
 # Paths
@@ -360,6 +360,9 @@
 - How to Make a Video Game => COMPLETED | 1/04/2017 | 408 points
 
 ----------
+
+# Bonus Series   
+- How To Learn => VIEWED | 03/05/2017
 
 # Workshops
 - Introduction to postCSS => COMPLETED | 9 points
