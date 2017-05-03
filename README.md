@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,513 <=> Total Achievements | 721 badges <=> Courses Completed | 230
+### Total Points | 60,514 <=> Total Achievements | 721 badges <=> Courses Completed | 231
 ----------
 
 # Paths
@@ -384,6 +384,7 @@
 - Practice Column Selection and Aliasing with SQL => VIEWED | 27/04/2017
 - Create a Media Player with MediaElement.js => VIEWED | 02/05/2017
 - Getting Started with Firebase => VIEWED | 02/05/2017
+- Create a Jekyll Site on GitHub => VIEWED | 03/05/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
