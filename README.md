@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,515 <=> Total Achievements | 721 badges <=> Courses Completed | 232
+### Total Points | 60,517 <=> Total Achievements | 721 badges <=> Courses Completed | 233
 ----------
 
 # Paths
@@ -386,6 +386,7 @@
 - Getting Started with Firebase => VIEWED | 02/05/2017
 - Create a Jekyll Site on GitHub => VIEWED | 03/05/2017
 - CSS Masks => VIEWED | 03/05/2017
+- Practice Simple WHERE Clauses with SQL => VIEWED | 03/05/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
