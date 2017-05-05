@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,519 <=> Total Achievements | 721 badges <=> Courses Completed | 234
+### Total Points | 60,521 <=> Total Achievements | 721 badges <=> Courses Completed | 235
 ----------
 
 # Paths
@@ -388,6 +388,7 @@
 - CSS Masks => VIEWED | 03/05/2017
 - Practice Simple WHERE Clauses with SQL => VIEWED | 03/05/2017
 - Practice JavaScript Math Methods => VIEWED | 04/05/2017
+- Practice If and Else Statements in JavaScript => VIEWED | 04/05/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
