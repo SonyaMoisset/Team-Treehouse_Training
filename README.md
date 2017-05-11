@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 2,465 points
 ### CSS | 4,489 points
-### JavaScript | 8,617 points
+### JavaScript | 8,717 points
 ### API | 114 points
 ### PHP | 2,736 points
 ### WordPress | 4,448 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,665 <=> Total Achievements | 721 badges <=> Courses Completed | 236
+### Total Points | 60,765 <=> Total Achievements | 722 badges <=> Courses Completed | 237
 ----------
 
 # Paths
@@ -433,3 +433,4 @@
 - Front End Web Optimization Workflow => COMPLETED | 19/04/2017 | 221 points
 - Sass Basics => COMPLETED | 24/04/2017 | 321 points
 - HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
+- React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
