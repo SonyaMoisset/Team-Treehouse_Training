@@ -9,7 +9,7 @@
 ### Ruby | 4,166 points
 ### C# | 3,247 points
 ### Game Development | 408 points
-### Java | 3,882 points
+### Java | 3,893 points
 ### Android | 4,297 points
 ### Development Tools | 3,241 points
 ### Digital Literacy | 502 points
