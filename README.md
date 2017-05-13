@@ -1,5 +1,5 @@
 # Treehouse
-### HTML | 2,683 points
+### HTML | 2,794 points
 ### CSS | 4,489 points
 ### JavaScript | 8,717 points
 ### API | 114 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,039 points
 ### Data Analysis | 283 points
-### Total Points | 60,983 <=> Total Achievements | 730 badges <=> Courses Completed | 237
+### Total Points | 61,094 <=> Total Achievements | 731 badges <=> Courses Completed | 238
 ----------
 
 # Paths
@@ -434,3 +434,4 @@
 - Sass Basics => COMPLETED | 24/04/2017 | 321 points
 - HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
 - React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
+- HTML => COMPLETED | 13/05/2017 | 370 points
