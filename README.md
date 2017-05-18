@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,136 points
 ### Data Analysis | 283 points
-### Total Points | 61,191 <=> Total Achievements | 733 badges <=> Courses Completed | 238
+### Total Points | 61,191 <=> Total Achievements | 733 badges <=> Courses Completed | 239
 ----------
 
 # Paths
