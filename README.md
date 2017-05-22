@@ -15,9 +15,9 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,349 points
-### Business | 2,243 points
+### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,302 <=> Total Achievements | 735 badges <=> Courses Completed | 240
+### Total Points | 61,409 <=> Total Achievements | 736 badges <=> Courses Completed | 241
 ----------
 
 # Paths
@@ -437,3 +437,4 @@
 - HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
 - React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
 - HTML => COMPLETED | 13/05/2017 | 370 points
+- Soft Skills => COMPLETED | 22/05/2017 | 311 points
