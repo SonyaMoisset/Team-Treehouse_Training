@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,136 points
 ### Data Analysis | 283 points
-### Total Points | 61,191 <=> Total Achievements | 733 badges <=> Courses Completed | 239
+### Total Points | 61,193 <=> Total Achievements | 733 badges <=> Courses Completed | 240
 ----------
 
 # Paths
@@ -391,6 +391,7 @@
 - Practice If and Else Statements in JavaScript => VIEWED | 04/05/2017
 - Practice Basic JavaScript Functions => VIEWED | 08/05/2017
 - Getting Started with Android => VIEWED | 09/05/2017
+- Practice Basic Math Calculation in Python => VIEWED | 22/05/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
