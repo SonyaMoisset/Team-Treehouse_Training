@@ -3,7 +3,7 @@
 ### CSS | 4,489 points
 ### JavaScript | 8,717 points
 ### API | 114 points
-### PHP | 2,736 points
+### PHP | 2,868 points
 ### WordPress | 4,448 points
 ### Python | 7,185 points
 ### Ruby | 4,166 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,409 <=> Total Achievements | 736 badges <=> Courses Completed | 241
+### Total Points | 61,541 <=> Total Achievements | 737 badges <=> Courses Completed | 242
 ----------
 
 # Paths
@@ -438,3 +438,4 @@
 - React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
 - HTML => COMPLETED | 13/05/2017 | 370 points
 - Soft Skills => COMPLETED | 22/05/2017 | 311 points
+- Browser Persistent Data with PHP => COMPLETED | 23/05/2017 | 132 points
