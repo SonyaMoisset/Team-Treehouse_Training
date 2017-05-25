@@ -3,7 +3,7 @@
 ### CSS | 4,489 points
 ### JavaScript | 8,717 points
 ### API | 114 points
-### PHP | 2,975 points
+### PHP | 3,041 points
 ### WordPress | 4,448 points
 ### Python | 7,185 points
 ### Ruby | 4,166 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,648 <=> Total Achievements | 739 badges <=> Courses Completed | 242
+### Total Points | 61,714 <=> Total Achievements | 740 badges <=> Courses Completed | 242
 ----------
 
 # Paths
