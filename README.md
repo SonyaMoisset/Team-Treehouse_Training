@@ -3,7 +3,7 @@
 ### CSS | 4,489 points
 ### JavaScript | 8,717 points
 ### API | 114 points
-### PHP | 3,041 points
+### PHP | 3,154 points
 ### WordPress | 4,448 points
 ### Python | 7,185 points
 ### Ruby | 4,166 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,714 <=> Total Achievements | 740 badges <=> Courses Completed | 242
+### Total Points | 61,827 <=> Total Achievements | 741 badges <=> Courses Completed | 243
 ----------
 
 # Paths
@@ -439,3 +439,4 @@
 - HTML => COMPLETED | 13/05/2017 | 370 points
 - Soft Skills => COMPLETED | 22/05/2017 | 311 points
 - Browser Persistent Data with PHP => COMPLETED | 23/05/2017 | 132 points
+- CRUD Operations with PHP => COMPLETED | 25/05/2017 | 286 points
