@@ -284,7 +284,12 @@
 - Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
 
 ## Learn React | TYPE B
-### Points | 
+### Points | 603 points
+- React Basics => COMPLETED | 19/12/2016 | 292 points
+- Setting up Webpack for React => VIEWED | 20/12/2016
+- React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
+- Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
+- Data Fetching in React => VIEWED | 10/02/2017
 - Animations in React => VIEWED | 26/05/2017
 
 ## Learn Java
@@ -384,7 +389,6 @@
 - Introducing Template Literals => VIEWED | 01/02/2017
 - Debugging Node Applications with Google Chrome => VIEWED | 01/02/2017
 - Understanding Express Middleware => VIEWED | 10/02/2017
-- Data Fetching in React => VIEWED | 10/02/2017
 - Practice CSS Selectors => VIEWED | 05/03/2017
 - Practice Media Queries => VIEWED | 05/03/2017
 - Debugging JavaScript in the Browser => VIEWED | 05/03/2017
@@ -448,7 +452,6 @@
 - Front End Web Optimization Workflow => COMPLETED | 19/04/2017 | 221 points
 - Sass Basics => COMPLETED | 24/04/2017 | 321 points
 - HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
-- React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
 - HTML => COMPLETED | 13/05/2017 | 370 points
 - Soft Skills => COMPLETED | 22/05/2017 | 311 points
 - Browser Persistent Data with PHP => COMPLETED | 23/05/2017 | 132 points
