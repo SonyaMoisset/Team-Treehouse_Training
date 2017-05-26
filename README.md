@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,934 <=> Total Achievements | 742 badges <=> Courses Completed | 247
+### Total Points | 61,938 <=> Total Achievements | 740 badges <=> Courses Completed | 248
 ----------
 
 # Paths
@@ -77,7 +77,7 @@
 - Introduction to jQuery => COMPLETED | 03/02/2017 | 243 points
 - Using jQuery Plugins => COMPLETED | 06/09/2016 | 185 points
  
-## Full Stack JavaScript Path
+## Full Stack JavaScript Path | TYPE A
 ### Points | 5,028 points
  - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
  - JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
@@ -98,6 +98,10 @@
  - Mongo Basics => COMPLETED | 13/09/2016 | 244 points
  - Building a MEAN Application => COMPLETED | 13/09/2016 | 319 points
  - JavaScript Unit Testing => COMPLETED | 14/09/2016 | 312 points
+ 
+## Full Stack JavaScript Path | TYPE B
+### Points | points
+- Exploring JavaScript Conditionals => VIEWED | 26/05/2017
  
 ## PHP Development
 ### Points | 3,237 points
