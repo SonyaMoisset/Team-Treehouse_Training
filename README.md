@@ -135,8 +135,11 @@
 - WordPress Admin Settings => COMPLETED | 24/09/2016 | 118 points 
 
 ## Learn WordPress | TYPE B
-### Points |
+### Points | 463 points
 - What Is WordPress? => COMPLETED | 26/05/2017 | 100 points
+- How to Install WordPress on Your Computer => COMPLETED | 23/09/2016 | 102 points
+- WordPress Basics => COMPLETED | 23/09/2016 | 288 points
+- WordPress User Roles => COMPLETED | 23/09/2016 | 105 points
 
 ## WordPress Development
 ### Points | 2,607 points
