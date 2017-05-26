@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,829 <=> Total Achievements | 741 badges <=> Courses Completed | 244
+### Total Points | 61,830 <=> Total Achievements | 741 badges <=> Courses Completed | 245
 ----------
 
 # Paths
@@ -394,6 +394,7 @@
 - Practice Basic Math Calculation in Python => VIEWED | 22/05/2017
 - Practice Using Strings and Lists in Python => VIEWED | 22/05/2017
 - Practice with Views in Android => VIEWED | 25/05/2017
+- Coding Your First HTML5 Game => VIEWED | 26/05/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
