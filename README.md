@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,930 <=> Total Achievements | 742 badges <=> Courses Completed | 246
+### Total Points | 61,934 <=> Total Achievements | 742 badges <=> Courses Completed | 247
 ----------
 
 # Paths
@@ -275,13 +275,17 @@
 - ASP.NET MVC Forms => COMPLETED | 14/12/2016 | 415 points
 - Package Management with Nuget => VIEWED | 12/12/2016
 
-## Learn React
+## Learn React | TYPE A
 ### Points | 610 points
 - React Basics => COMPLETED | 19/12/2016 | 292 points
 - Getting Started with Webpack => VIEWED | 19/12/2016
 - Setting up Webpack for React => VIEWED | 20/12/2016
 - React Router Basics => COMPLETED | 20/12/2016 | 196 points
 - Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
+
+## Learn React | TYPE B
+### Points | 
+- Animations in React => VIEWED | 26/05/2017
 
 ## Learn Java
 ### Points | 1,455 points
