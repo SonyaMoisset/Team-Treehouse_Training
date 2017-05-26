@@ -4,7 +4,7 @@
 ### JavaScript | 8,717 points
 ### API | 114 points
 ### PHP | 3,154 points
-### WordPress | 4,448 points
+### WordPress | 4,548 points
 ### Python | 7,185 points
 ### Ruby | 4,166 points
 ### C# | 3,247 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,830 <=> Total Achievements | 741 badges <=> Courses Completed | 245
+### Total Points | 61,930 <=> Total Achievements | 742 badges <=> Courses Completed | 246
 ----------
 
 # Paths
@@ -126,13 +126,17 @@
 - Basic Error Handling in PHP => VIEWED | 17/09/2016
 - Build a Basic PHP Website => COMPLETED | 19/09/2016 | 440 points
 
-## Learn WordPress
+## Learn WordPress | TYPE A
 ### Points | 474 points
 - Getting Started with WordPress => COMPLETED | 22/09/2016 | 101 points
 - How to Install WordPress on Your Computer => COMPLETED | 23/09/2016 | 102 points
 - WordPress Basics => COMPLETED | 23/09/2016 | 288 points
 - WordPress User Roles => COMPLETED | 23/09/2016 | 105 points
 - WordPress Admin Settings => COMPLETED | 24/09/2016 | 118 points 
+
+## Learn WordPress | TYPE B
+### Points |
+- What Is WordPress? => COMPLETED | 26/05/2017 | 100 points
 
 ## WordPress Development
 ### Points | 2,607 points
