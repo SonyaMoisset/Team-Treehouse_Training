@@ -100,9 +100,30 @@
  - JavaScript Unit Testing => COMPLETED | 14/09/2016 | 312 points
  
 ## Full Stack JavaScript Path | TYPE B
-### Points | points
+### Points | 4,533 points
+- JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
+- JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
+- Defining Variables with let and const => VIEWED | 21/12/2016
+- Introducing Arrow Function Syntax => VIEWED | 18/12/2016
+- JavaScript and the DOM => COMPLETED | 22/12/2016 | 424 points 
+- Introduction to jQuery => COMPLETED | 03/02/2017 | 243 points
+- AJAX Basics => COMPLETED | 28/08/2016 | 509 points
+- Understanding "this" in JavaScript => VIEWED | 06/09/2016
+- Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
+- The Module Pattern In JavaScript => VIEWED | 06/09/2016
+- Introducing ES2015 => COMPLETED | 23/12/2016 | 244 points 
+- Node.js Basics => COMPLETED | 07/09/2016 | 229 points
 - Exploring JavaScript Conditionals => VIEWED | 26/05/2017
+- Build a Simple Dynamic Site with Node.js => COMPLETED | 07/09/2016 | 241 points
+- npm Basics => COMPLETED | 08/09/2016 | 236 points
+- Using npm as a Task Runner => VIEWED | 08/09/2016
+- Gulp Basics => COMPLETED | 10/09/2016 | 272 points 
+- Express Basics => COMPLETED | 10/09/2016 | 411 points 
+- Mongo Basics => COMPLETED | 13/09/2016 | 244 points
 - Understanding Closures in JavaScript => VIEWED | 28/05/2017
+- User Authentication With Express and Mongo => COMPLETED | 08/02/2017 | 260 points
+- Build a REST API With Express => COMPLETED | 07/02/2017 | 298 points
+- JavaScript Unit Testing => COMPLETED | 14/09/2016 | 312 points 
  
 ## PHP Development
 ### Points | 3,237 points
@@ -424,12 +445,9 @@
 - CSS Layout Techniques => COMPLETED | 15/12/2016 | 300 points  
 - Framework Basics => COMPLETED | 19/12/2016 | 462 points 
 - JavaScript and the DOM => COMPLETED | 22/12/2016 | 424 points 
-- Introducing ES2015 => COMPLETED | 23/12/2016 | 244 points 
 - DOM Scripting By Example => COMPLETED | 01/02/2017 | 235 points
 - Node.js Basics => COMPLETED | 03/02/2017 | 301 points
 - Introduction to jQuery => COMPLETED | 03/02/2017 | 243 points
-- Build a REST API With Express => COMPLETED | 07/02/2017 | 298 points
-- User Authentication With Express and Mongo => COMPLETED | 08/02/2017 | 260 points
 - Sass Basics  => COMPLETED | 06/03/2017 | 371 points
 - Modular CSS with Sass => COMPLETED | 07/03/2017 | 338 points
 - Aesthetic Foundations => COMPLETED | 08/03/2017 | 178 points
