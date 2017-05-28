@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 61,938 <=> Total Achievements | 740 badges <=> Courses Completed | 248
+### Total Points | 61,942 <=> Total Achievements | 740 badges <=> Courses Completed | 249
 ----------
 
 # Paths
@@ -102,6 +102,7 @@
 ## Full Stack JavaScript Path | TYPE B
 ### Points | points
 - Exploring JavaScript Conditionals => VIEWED | 26/05/2017
+- Understanding Closures in JavaScript => VIEWED | 28/05/2017
  
 ## PHP Development
 ### Points | 3,237 points
