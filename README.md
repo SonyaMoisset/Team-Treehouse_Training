@@ -287,7 +287,16 @@
 - Package Management with Nuget => VIEWED | 12/12/2016
 
 ## Learn CSharp | TYPE B
-### Points |  points
+### Points | 2,319 points
+- C# Basics => COMPLETED | 03/12/2016 | 413 points
+- C# Objects => COMPLETED | 06/12/2016 | 617 points
+- Intermediate C# => COMPLETED | 06/12/2016 | 303 points
+- Introduction to Visual Studio => VIEWED | 07/12/2016
+- Using Github with Visual Studio => VIEWED | 07/12/2016
+- C# Streams and Data Processing => COMPLETED | 10/12/2016 | 386 points
+- C# Collections => COMPLETED | 11/12/2016 | 271 points
+- Querying With LINQ => COMPLETED | 12/12/2016 | 404 points
+- Package Management with Nuget => VIEWED | 12/12/2016
 - Unit Testing in C# => COMPLETED | 29/05/2017 | 285 points
 
 ## ASP NET Web Development
