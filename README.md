@@ -7,7 +7,7 @@
 ### WordPress | 4,548 points
 ### Python | 7,185 points
 ### Ruby | 4,166 points
-### C# | 3,425 points
+### C# | 3,532 points
 ### Game Development | 408 points
 ### Java | 3,893 points
 ### Android | 4,297 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 62,120 <=> Total Achievements | 743 badges <=> Courses Completed | 249
+### Total Points | 62,227 <=> Total Achievements | 744 badges <=> Courses Completed | 250
 ----------
 
 # Paths
@@ -274,7 +274,7 @@
 - Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
 - Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
 
-## Learn CSharp
+## Learn CSharp | TYPE A
 ### Points | 2,094 points
 - C# Basics => COMPLETED | 03/12/2016 | 413 points
 - C# Objects => COMPLETED | 06/12/2016 | 617 points
@@ -285,6 +285,10 @@
 - C# Collections => COMPLETED | 11/12/2016 | 271 points
 - Querying With LINQ => COMPLETED | 12/12/2016 | 404 points
 - Package Management with Nuget => VIEWED | 12/12/2016
+
+## Learn CSharp | TYPE B
+### Points |  points
+- Unit Testing in C# => COMPLETED | 29/05/2017 | 285 points
 
 ## ASP NET Web Development
 ### Points | 2,635 points
