@@ -268,8 +268,25 @@
 - Troubleshooting a Rails Application => VIEWED | 26/11/2016
 
 ## Rails Development | TYPE B
-### Points | points
+### Points | 5,045 points
+- Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
+- Ruby Basics => COMPLETED | 13/11/2016 | 351 points
+- Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
+- Ruby Collections => COMPLETED | 14/11/2016 | 312 points
+- Ruby Loops => COMPLETED | 14/11/2016 | 293 points
+- Ruby Objects and Classes => COMPLETED | 14/11/2016 | 320 points
+- Console Foundations => COMPLETED | 30/08/2016 | 336 points
+- Gits Basics => COMPLETED | 31/08/2016 | 411 points
 - Building Web Apps with Sinatra => COMPLETED | 29/05/2017 | 285 points
+- SQL Basics => COMPLETED | 19/09/2016 | 319 points
+- Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
+- Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
+- Ruby on Rails 5 Basics => COMPLETED | 26/11/2016 | 377 points
+- HTML Forms => COMPLETED | 19/08/2016 | 275 points
+- Rails Routes and Resources => COMPLETED | 26/11/2016 | 485 points
+- JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
+- Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
+- Troubleshooting a Rails Application => VIEWED | 26/11/2016
 
 ## Learn SQL
 ### Points | 1,181 points
