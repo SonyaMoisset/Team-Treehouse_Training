@@ -6,7 +6,7 @@
 ### PHP | 3,154 points
 ### WordPress | 4,548 points
 ### Python | 7,185 points
-### Ruby | 4,471 points
+### Ruby | 4,607 points
 ### C# | 3,532 points
 ### Game Development | 408 points
 ### Java | 3,893 points
@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 62,532 <=> Total Achievements | 748 badges <=> Courses Completed | 250
+### Total Points | 62,668 <=> Total Achievements | 749 badges <=> Courses Completed | 251
 ----------
 
 # Paths
@@ -249,7 +249,7 @@
 - Ruby Core and Standard Library => COMPLETED | 22/11/2016 | 301 points
 - Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
 
-## Rails Development
+## Rails Development | TYPE A
 ### Points | 4,822 points
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - Ruby Basics => COMPLETED | 13/11/2016 | 351 points
@@ -266,6 +266,10 @@
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
 - Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
 - Troubleshooting a Rails Application => VIEWED | 26/11/2016
+
+## Rails Development | TYPE B
+### Points | points
+- Building Web Apps with Sinatra => COMPLETED | 29/05/2017 | 285 points
 
 ## Learn SQL
 ### Points | 1,181 points
