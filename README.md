@@ -445,6 +445,10 @@
 ### Points |
 - How to Make a Video Game => COMPLETED | 1/04/2017 | 408 points
 
+## Starting a Business
+### Points |
+- How to Market Your Business => COMPLETED | 14/03/2017 | 403 points
+
 ----------
 
 # Bonus Series   
@@ -499,7 +503,6 @@
 - Careers Foundations => COMPLETED | 09/03/2017 | 397 points
 - Copyright Basics => COMPLETED | 10/03/2017 | 247 points
 - Drupal Basics => COMPLETED | 13/03/2017 | 274 points
-- How to Market Your Business => COMPLETED | 14/03/2017 | 403 points
 - How to Build Your Business Through Blogging => COMPLETED | 14/03/2017 | 223 points
 - Usability Foundations => COMPLETED | 20/03/2017 | 249 points
 - HTML Email Design => COMPLETED | 20/03/2017 | 216 points
