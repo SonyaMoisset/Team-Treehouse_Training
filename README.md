@@ -153,8 +153,14 @@
 - Build a Basic PHP Website => COMPLETED | 19/09/2016 | 440 points
 
 ## Intermediate PHP
-###
-- File Handling with PHPFile Handling with PHP => COMPLETED | 30/05/2017 | 169 points
+### points | 1.656 points
+- SQL Basics => COMPLETED | 19/09/2016 | 319 points
+- Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
+- Integrating PHP with Databases => COMPLETED | 21/09/2016 | 419 points
+- Browser Persistent Data with PHP => COMPLETED | 23/05/2017 | 132 points
+- Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
+- CRUD Operations with PHP => COMPLETED | 25/05/2017 | 286 points
+- File Handling with PHP => COMPLETED | 30/05/2017 | 169 points
 
 ## Learn WordPress | TYPE A
 ### Points | 474 points
@@ -515,5 +521,3 @@
 - HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
 - HTML => COMPLETED | 13/05/2017 | 370 points
 - Soft Skills => COMPLETED | 22/05/2017 | 311 points
-- Browser Persistent Data with PHP => COMPLETED | 23/05/2017 | 132 points
-- CRUD Operations with PHP => COMPLETED | 25/05/2017 | 286 points
