@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,349 points
 ### Data Analysis | 283 points
-### Total Points | 62,721 <=> Total Achievements | 750 badges <=> Courses Completed | 251
+### Total Points | 62,987 <=> Total Achievements | 751 badges <=> Courses Completed | 252
 ----------
 
 # Paths
@@ -151,6 +151,10 @@
 - PHP Functions => COMPLETED | 17/09/2016 | 287 points
 - Basic Error Handling in PHP => VIEWED | 17/09/2016
 - Build a Basic PHP Website => COMPLETED | 19/09/2016 | 440 points
+
+## Intermediate PHP
+###
+- File Handling with PHPFile Handling with PHP => COMPLETED | 30/05/2017 | 169 points
 
 ## Learn WordPress | TYPE A
 ### Points | 474 points
