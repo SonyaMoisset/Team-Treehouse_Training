@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,408 points
 ### Data Analysis | 283 points
-### Total Points | 63,043 <=> Total Achievements | 752 badges <=> Courses Completed | 253
+### Total Points | 63,050 <=> Total Achievements | 752 badges <=> Courses Completed | 254
 ----------
 
 # Paths
@@ -485,6 +485,7 @@
 - Practice with Views in Android => VIEWED | 25/05/2017
 - Coding Your First HTML5 Game => VIEWED | 26/05/2017
 - Practice Strings in Ruby => VIEWED | 02/06/2017
+- Practice Input and Output in Java => VIEWED | 02/06/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
