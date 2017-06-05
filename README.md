@@ -17,7 +17,7 @@
 ### Design | 2,349 points
 ### Business | 2,408 points
 ### Data Analysis | 283 points
-### Total Points | 63,052 <=> Total Achievements | 752 badges <=> Courses Completed | 255
+### Total Points | 63,057 <=> Total Achievements | 752 badges <=> Courses Completed | 256
 ----------
 
 # Paths
@@ -487,6 +487,7 @@
 - Practice Strings in Ruby => VIEWED | 02/06/2017
 - Practice Input and Output in Java => VIEWED | 02/06/2017
 - Practice Input and Output in Ruby => VIEWED | 02/06/2017
+- Create an Options Menu => VIEWED | 05/06/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
