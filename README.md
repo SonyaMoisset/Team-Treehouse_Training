@@ -10,14 +10,14 @@
 ### C# | 3,532 points
 ### Game Development | 408 points
 ### Java | 3,893 points
-### Android | 4,361 points
+### Android | 4,475 points
 ### Development Tools | 3,241 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,408 points
 ### Data Analysis | 283 points
-### Total Points | 63,121 <=> Total Achievements | 753 badges <=> Courses Completed | 256
+### Total Points | 63,235 <=> Total Achievements | 756 badges <=> Courses Completed | 257
 ----------
 
 # Paths
@@ -395,7 +395,7 @@
 - Build a REST API in Spark => VIEWED | 18/01/2017
 - Build a REST API in Spring => VIEWED | 18/01/2017
 
-## Beginner Android Development
+## Beginner Android Development | TYPE A
 ### Points | 1,961 points
 - Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
 - Getting Started with the Android Emulator => VIEWED | 19/01/2017
@@ -406,6 +406,15 @@
 - Android Lists and Adapters => COMPLETED | 30/01/2017 | 433 points
 - Android Activity Lifecycle => COMPLETED | 31/01/2017 | 229 points
 - Android Fragments => COMPLETED | 01/02/2017 | 299 points
+
+## beginner Android Development | TYPE B
+### Points |
+- Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
+- Getting Started with the Android Emulator => VIEWED | 19/01/2017
+- Create an Options Menu => VIEWED | 05/06/2017
+- Github and Android Studio => VIEWED | 22/01/2017
+- Styles and Themes in Android => COMPLETED | 06/06/2017 | 178 points
+- Build a Weather App => COMPLETED | 24/01/2017 | 498 points
 
 ## Intermediate Android Development | TYPE A
 ### Points | 2,189 points
@@ -487,7 +496,6 @@
 - Practice Strings in Ruby => VIEWED | 02/06/2017
 - Practice Input and Output in Java => VIEWED | 02/06/2017
 - Practice Input and Output in Ruby => VIEWED | 02/06/2017
-- Create an Options Menu => VIEWED | 05/06/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
