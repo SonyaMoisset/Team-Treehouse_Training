@@ -17,8 +17,8 @@
 ### Design | 2,349 points
 ### Business | 2,408 points
 ### Data Analysis | 283 points
-### Security | 40 points
-### Total Points | 63,280 <=> Total Achievements | 757 badges <=> Courses Completed | 259
+### Security | 154 points
+### Total Points | 63,394 <=> Total Achievements | 758 badges <=> Courses Completed | 260
 ----------
 
 # Paths
@@ -539,3 +539,4 @@
 - HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
 - HTML => COMPLETED | 13/05/2017 | 370 points
 - Soft Skills => COMPLETED | 22/05/2017 | 311 points
+- Introduction to Data Security => COMPLETED | 08/06/2017 | 154 points
