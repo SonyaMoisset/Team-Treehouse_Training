@@ -18,7 +18,7 @@
 ### Business | 2,408 points
 ### Data Analysis | 283 points
 ### Security | 154 points
-### Total Points | 63,396 <=> Total Achievements | 758 badges <=> Courses Completed | 261
+### Total Points | 63,398 <=> Total Achievements | 758 badges <=> Courses Completed | 262
 ----------
 
 # Paths
@@ -500,6 +500,7 @@
 - Practice Ruby Methods => VIEWED | 08/06/2017
 - Introducing Microsoft Excel => VIEWED | 08/06/2017
 - Practice Ruby Numeric Types => VIEWED | 16/06/2017
+- Practice PHP Number Variables => VIEWED | 16/06/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
