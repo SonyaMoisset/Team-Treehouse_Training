@@ -18,7 +18,7 @@
 ### Business | 2,408 points
 ### Data Analysis | 283 points
 ### Security | 154 points
-### Total Points | 63,409 <=> Total Achievements | 758 badges <=> Courses Completed | 267
+### Total Points | 63,410 <=> Total Achievements | 758 badges <=> Courses Completed | 268
 ----------
 
 # Paths
@@ -506,6 +506,7 @@
 - Practice Including PHP with HTML => VIEWED | 16/06/2017
 - The CSS calc() Function => VIEWED | 17/06/2017
 - Create a Modal Window with CSS => VIEWED | 18/06/2017
+- Create an Accordion Menu with CSS => VIEWED | 18/06/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
