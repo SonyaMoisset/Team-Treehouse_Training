@@ -408,10 +408,11 @@
 - Android Activity Lifecycle => COMPLETED | 31/01/2017 | 229 points
 - Android Fragments => COMPLETED | 01/02/2017 | 299 points
 
-## beginner Android Development | TYPE B
-### Points |
+## Beginner Android Development | TYPE B
+### Points | 1,387 points
 - Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
 - Getting Started with the Android Emulator => VIEWED | 19/01/2017
+- Build an Interactive Story App => COMPLETED | 20/06/2017 | 466 points
 - Create an Options Menu => VIEWED | 05/06/2017
 - Github and Android Studio => VIEWED | 22/01/2017
 - Styles and Themes in Android => COMPLETED | 06/06/2017 | 178 points
