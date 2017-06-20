@@ -9,7 +9,7 @@
 ### Ruby | 4,607 points
 ### C# | 3,532 points
 ### Game Development | 408 points
-### Java | 3,893 points
+### Java | 3,940 points
 ### Android | 4,941 points
 ### Development Tools | 3,241 points
 ### Digital Literacy | 502 points
@@ -18,7 +18,7 @@
 ### Business | 2,408 points
 ### Data Analysis | 283 points
 ### Security | 154 points
-### Total Points | 63,880 <=> Total Achievements | 764 badges <=> Courses Completed | 271
+### Total Points | 63,927 <=> Total Achievements | 765 badges <=> Courses Completed | 271
 ----------
 
 # Paths
