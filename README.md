@@ -18,7 +18,7 @@
 ### Business | 2,408 points
 ### Data Analysis | 283 points
 ### Security | 154 points
-### Total Points | 64,415 <=> Total Achievements | 772 badges <=> Courses Completed | 272
+### Total Points | 64,416 <=> Total Achievements | 772 badges <=> Courses Completed | 273
 ----------
 
 # Paths
@@ -510,6 +510,7 @@
 - Create an Accordion Menu with CSS => VIEWED | 18/06/2017
 - CSS Clipping Paths => VIEWED | 18/06/2017
 - Using Local Storage with JavaScript => VIEWED | 18/06/2017
+- Build a Learning Mindset => VIEWED | 24/06/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
