@@ -553,3 +553,4 @@
 - Soft Skills => COMPLETED | 22/05/2017 | 311 points
 - Introduction to Data Security => COMPLETED | 08/06/2017 | 154 points
 - Introduction to Scala => COMPLETED | 21/06/2017 | 201 points
+- Express Basics => COMPLETED | 24/06/2017 | 417 points
