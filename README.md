@@ -11,7 +11,7 @@
 ### Game Development | 408 points
 ### Java | 4,094 points
 ### Android | 4,941 points
-### iOS | 140 points
+### iOS | 271 points
 ### Development Tools | 3,241 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
@@ -19,7 +19,7 @@
 ### Business | 2,408 points
 ### Data Analysis | 283 points
 ### Security | 154 points
-### Total Points | 64,709 <=> Total Achievements | 776 badges <=> Courses Completed | 274
+### Total Points | 64,840 <=> Total Achievements | 777 badges <=> Courses Completed | 275
 ----------
 
 # Paths
@@ -452,6 +452,9 @@
 - Android Widgets => VIEWED | 15/04/2017
 - Kotlin for Java Developers => COMPLETED | 27/02/2017 | 275 points
 - Kotlin and Anko => COMPLETED | 27/02/2017 | 159 points
+
+## Beginner iOS Development 
+- Swift 3 Basics => COMPLETED | 24/06/2017 | 271 points
 
 ## Beginner Game Development with Unity
 ### Points |
