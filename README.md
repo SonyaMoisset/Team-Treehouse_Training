@@ -5,7 +5,7 @@
 ### API | 114 points
 ### PHP | 3,207 points
 ### WordPress | 4,548 points
-### Python | 7,387 points
+### Python | 7,548 points
 ### Ruby | 4,607 points
 ### C# | 3,532 points
 ### Game Development | 408 points
@@ -19,7 +19,7 @@
 ### Business | 2,408 points
 ### Data Analysis | 283 points
 ### Security | 154 points
-### Total Points | 65,024 <=> Total Achievements | 779 badges <=> Courses Completed | 275
+### Total Points | 65,185 <=> Total Achievements | 780 badges <=> Courses Completed | 276
 ----------
 
 # Paths
@@ -558,3 +558,4 @@
 - Introduction to Data Security => COMPLETED | 08/06/2017 | 154 points
 - Introduction to Scala => COMPLETED | 21/06/2017 | 201 points
 - Express Basics => COMPLETED | 24/06/2017 | 417 points
+- Object-Oriented Python => COMPLETED | 27/06/2017 | 470 points
