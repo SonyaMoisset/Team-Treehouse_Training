@@ -12,14 +12,14 @@
 ### Java | 4,094 points
 ### Android | 4,941 points
 ### iOS | 431 points
-### Development Tools | 3,279 points
+### Development Tools | 3,386 points
 ### Digital Literacy | 502 points
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,408 points
 ### Data Analysis | 283 points
 ### Security | 154 points
-### Total Points | 65,331 <=> Total Achievements | 783 badges <=> Courses Completed | 276
+### Total Points | 65,438 <=> Total Achievements | 784 badges <=> Courses Completed | 277
 ----------
 
 # Paths
@@ -559,3 +559,4 @@
 - Introduction to Scala => COMPLETED | 21/06/2017 | 201 points
 - Express Basics => COMPLETED | 24/06/2017 | 417 points
 - Object-Oriented Python => COMPLETED | 27/06/2017 | 470 points
+- Markdown Basics => COMPLETED | 28/06/2017 | 470 points
