@@ -560,3 +560,4 @@
 - Express Basics => COMPLETED | 24/06/2017 | 417 points
 - Object-Oriented Python => COMPLETED | 27/06/2017 | 470 points
 - Markdown Basics => COMPLETED | 28/06/2017 | 470 points
+- AWS with S3 => COMPLETED | 29/06/2017 | 470 points
