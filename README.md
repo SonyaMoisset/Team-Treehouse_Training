@@ -521,6 +521,7 @@
 - CSS Clipping Paths => VIEWED | 18/06/2017
 - Using Local Storage with JavaScript => VIEWED | 18/06/2017
 - Build a Learning Mindset => VIEWED | 24/06/2017
+- Be a Lifelong Learner => VIEWED | 01/07/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
