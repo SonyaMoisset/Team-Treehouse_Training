@@ -20,7 +20,7 @@
 ### Data Analysis | 283 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 66,167 <=> Total Achievements | 794 badges <=> Courses Completed | 280
+### Total Points | 66,317 <=> Total Achievements | 794 badges <=> Courses Completed | 280
 ----------
 
 # Paths
@@ -467,7 +467,8 @@
 - How to Make a Video Game => COMPLETED | 1/04/2017 | 408 points
 
 ## Starting a Business
-### Points |
+### Points | 884 points
+- How to Start a Business => COMPLETED | 02/07/2017 | 331 points
 - How to Market Your Business => COMPLETED | 14/03/2017 | 403 points
 
 ----------
