@@ -572,3 +572,4 @@
 - Markdown Basics => COMPLETED | 28/06/2017 | 470 points
 - AWS with S3 => COMPLETED | 29/06/2017 | 470 points
 - Using the GitHub API with PHP => COMPLETED | 05/07/2017 | 170 points
+- Build a Rails API => COMPLETED | 09/07/2017 | 345 points
