@@ -458,11 +458,13 @@
 - Swift 3 Basics => COMPLETED | 24/06/2017 | 271 points
 - Swift 3 Collections and Control Flow => COMPLETED | 29/06/2017 | 298 points
 - Functions in Swift 3 => COMPLETED | 03/07/2017 | 183 points
+- Object-Oriented Swift 3 => COMPLETED | 12/07/2017 | 303 points
 
 ## Beginner iOS Development 
 - Swift 3 Basics => COMPLETED | 24/06/2017 | 271 points
 - Swift 3 Collections and Control Flow => COMPLETED | 29/06/2017 | 298 points
 - Functions in Swift 3 => COMPLETED | 03/07/2017 | 183 points
+- Object-Oriented Swift 3 => COMPLETED | 12/07/2017 | 303 points
 
 ## Beginner Game Development with Unity
 ### Points |
