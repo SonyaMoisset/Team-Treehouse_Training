@@ -24,7 +24,7 @@
 ----------
 
 # Paths
-## Front End Web Development Path
+## Front End Web Development Path | TYPE A
 ### Points | 6,050 points
 - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
 - CSS Basics => COMPLETED | 15/08/2016 | 540 points
@@ -47,6 +47,31 @@
 - Console Foundations => COMPLETED | 30/08/2016 | 336 points
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 - Font End Performance Optimization => COMPLETED | 31/08/2016 | 250 points
+
+## Front End Web Development Path | TYPE B
+### Points | 7,304 points
+- Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
+- HTML Basics => COMPLETED | 16/07/2017 | 316 points
+- CSS Basics => COMPLETED | 15/08/2016 | 540 points
+- JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
+- CSS Layout Basics => COMPLETED | 18/08/2016 | 315 points
+- Responsive Layouts => COMPLETED | 18/08/2016 | 188 points
+- CSS Flexbox Layout => COMPLETED | 19/08/2016 | 232 points
+- HTML Forms => COMPLETED | 19/08/2016 | 275 points
+- JavaScript Loops, Arrays and Objects => COMPLETED | 22/08/2016 | 451 points
+- CSS Selectors => COMPLETED | 23/08/2016 | 269 points
+- jQuery Basics => COMPLETED | 25/08/2016 | 555 points
+- Bootstrap 4 Basics => COMPLETED | 25/08/2016 | 228 points
+- HTML Tables => COMPLETED | 26/08/2016 | 193 points
+- HTML Video and Audio => COMPLETED | 27/08/2016 | 228 points
+- Create a Media Player with MediaElement.js => VIEWED | 02/05/2017
+- AJAX Basics => COMPLETED | 28/08/2016 | 509 points
+- Object-Oriented JavaScript => COMPLETED | 28/08/2016 | 332 points
+- Accessibility => COMPLETED | 29/08/2016 | 184 points
+- Website Optimization => COMPLETED | 29/08/2016 | 167 points 
+- Console Foundations => COMPLETED | 30/08/2016 | 336 points
+- Gits Basics => COMPLETED | 31/08/2016 | 411 points
+- Introduction to Font End Performance Optimization => COMPLETED | 31/08/2016 | 250 points
 
 ## Web Design Path
 ### Points | 3,921 points
@@ -497,7 +522,6 @@
 - What's New in Python 3.6? => VIEWED | 19/04/2017
 - Practice Basic Variables, Input & Output in JavaScript => VIEWED | 24/04/2017
 - Practice Column Selection and Aliasing with SQL => VIEWED | 27/04/2017
-- Create a Media Player with MediaElement.js => VIEWED | 02/05/2017
 - Getting Started with Firebase => VIEWED | 02/05/2017
 - Create a Jekyll Site on GitHub => VIEWED | 03/05/2017
 - CSS Masks => VIEWED | 03/05/2017
