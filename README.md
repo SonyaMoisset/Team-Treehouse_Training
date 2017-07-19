@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,489 points
-### JavaScript | 9,526 points
+### JavaScript | 9,608 points
 ### API | 114 points
 ### PHP | 3,493 points
 ### WordPress | 4,548 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 283 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 68,295 <=> Total Achievements | 814 badges <=> Courses Completed | 287
+### Total Points | 68,407 <=> Total Achievements | 815 badges <=> Courses Completed | 288
 ----------
 
 # Paths
@@ -606,3 +606,4 @@
 - Using the GitHub API with PHP => COMPLETED | 05/07/2017 | 170 points
 - Build a Rails API => COMPLETED | 09/07/2017 | 345 points
 - D3.js => COMPLETED | 10/07/2017 | 275 points
+- Callback Functions in JavaScript => COMPLETED | 19/07/2017 | 229 points
