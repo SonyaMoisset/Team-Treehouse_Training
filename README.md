@@ -17,10 +17,10 @@
 ### Databases | 1,455 points
 ### Design | 2,349 points
 ### Business | 2,681 points
-### Data Analysis | 316 points
+### Data Analysis | 391 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 68,500 <=> Total Achievements | 822 badges <=> Courses Completed | 288
+### Total Points | 68,508 <=> Total Achievements | 823 badges <=> Courses Completed | 289
 ----------
 
 # Paths
@@ -607,3 +607,4 @@
 - Build a Rails API => COMPLETED | 09/07/2017 | 345 points
 - D3.js => COMPLETED | 10/07/2017 | 275 points
 - Callback Functions in JavaScript => COMPLETED | 19/07/2017 | 229 points
+- Introduction to Big Data => COMPLETED | 19/07/2017 | 198 points
