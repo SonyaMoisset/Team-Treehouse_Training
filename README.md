@@ -14,13 +14,13 @@
 ### iOS | 1,177 points
 ### Development Tools | 3,537 points
 ### Digital Literacy | 502 points
-### Databases | 1,498 points
+### Databases | 1,540 points
 ### Design | 2,349 points
 ### Business | 2,681 points
 ### Data Analysis | 391 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 68,776 <=> Total Achievements | 827 badges <=> Courses Completed | 289
+### Total Points | 68,818 <=> Total Achievements | 828 badges <=> Courses Completed | 289
 ----------
 
 # Paths
