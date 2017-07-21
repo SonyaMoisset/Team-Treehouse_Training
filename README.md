@@ -20,7 +20,7 @@
 ### Data Analysis | 391 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 68,859 <=> Total Achievements | 829 badges <=> Courses Completed | 289
+### Total Points | 68,962 <=> Total Achievements | 830 badges <=> Courses Completed | 290
 ----------
 
 # Paths
@@ -608,3 +608,4 @@
 - D3.js => COMPLETED | 10/07/2017 | 275 points
 - Callback Functions in JavaScript => COMPLETED | 19/07/2017 | 229 points
 - Introduction to Big Data => COMPLETED | 19/07/2017 | 198 points
+- SQL Reporting by Example => COMPLETED | 21/07/2017 | 229 points
