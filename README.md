@@ -3,7 +3,7 @@
 ### CSS | 4,489 points
 ### JavaScript | 9,608 points
 ### API | 114 points
-### PHP | 3,835 points
+### PHP | 3,933 points
 ### WordPress | 4,548 points
 ### Python | 7,548 points
 ### Ruby | 5,074 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 391 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 69,151 <=> Total Achievements | 834 badges <=> Courses Completed | 290
+### Total Points | 69,249 <=> Total Achievements | 835 badges <=> Courses Completed | 291
 ----------
 
 # Paths
@@ -609,3 +609,4 @@
 - Callback Functions in JavaScript => COMPLETED | 19/07/2017 | 229 points
 - Introduction to Big Data => COMPLETED | 19/07/2017 | 198 points
 - SQL Reporting by Example => COMPLETED | 21/07/2017 | 229 points
+- Laravel 4 Basics => COMPLETED | 22/07/2017 | 440 points
