@@ -2,8 +2,7 @@
 ### HTML | 3,110 points
 ### CSS | 4,489 points
 ### JavaScript | 9,608 points
-### API | 114 points
-### PHP | 4,147 points
+### PHP | 4,265 points
 ### WordPress | 4,548 points
 ### Python | 7,548 points
 ### Ruby | 5,074 points
@@ -15,12 +14,13 @@
 ### Development Tools | 3,537 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
+### API | 114 points
 ### Design | 2,349 points
 ### Business | 2,681 points
 ### Data Analysis | 391 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 69,463 <=> Total Achievements | 839 badges <=> Courses Completed | 291
+### Total Points | 69,581 <=> Total Achievements | 840 badges <=> Courses Completed | 292
 ----------
 
 # Paths
@@ -610,3 +610,4 @@
 - Introduction to Big Data => COMPLETED | 19/07/2017 | 198 points
 - SQL Reporting by Example => COMPLETED | 21/07/2017 | 229 points
 - Laravel 4 Basics => COMPLETED | 22/07/2017 | 440 points
+- PHP Standards and Best Practices => COMPLETED | 23/07/2017 | 440 points
