@@ -610,4 +610,4 @@
 - Introduction to Big Data => COMPLETED | 19/07/2017 | 198 points
 - SQL Reporting by Example => COMPLETED | 21/07/2017 | 229 points
 - Laravel 4 Basics => COMPLETED | 22/07/2017 | 440 points
-- PHP Standards and Best Practices => COMPLETED | 23/07/2017 | 440 points
+- PHP Standards and Best Practices => COMPLETED | 23/07/2017 | 332 points
