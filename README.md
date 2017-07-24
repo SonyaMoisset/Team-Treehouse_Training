@@ -2,7 +2,7 @@
 ### HTML | 3,110 points
 ### CSS | 4,489 points
 ### JavaScript | 9,608 points
-### PHP | 4,534 points
+### PHP | 4,645 points
 ### WordPress | 4,548 points
 ### Python | 7,548 points
 ### Ruby | 5,074 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 391 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 70,128 <=> Total Achievements | 849 badges <=> Courses Completed | 294
+### Total Points | 70,239 <=> Total Achievements | 850 badges <=> Courses Completed | 295
 ----------
 
 # Paths
@@ -613,3 +613,4 @@
 - PHP Standards and Best Practices => COMPLETED | 23/07/2017 | 332 points
 - Nested CRUD with Laravel 4 => COMPLETED | 23/07/2017 | 178 points
 - Scrum Basics 4 => COMPLETED | 23/07/2017 | 278 points
+- PHP & Databases with PDO => COMPLETED | 24/07/2017 | 202 points
