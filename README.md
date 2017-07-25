@@ -20,7 +20,7 @@
 ### Data Analysis | 391 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 70,352 <=> Total Achievements | 852 badges <=> Courses Completed | 295
+### Total Points | 70,361 <=> Total Achievements | 852 badges <=> Courses Completed | 296
 ----------
 
 # Paths
@@ -557,6 +557,7 @@
 - Using Local Storage with JavaScript => VIEWED | 18/06/2017
 - Build a Learning Mindset => VIEWED | 24/06/2017
 - Be a Lifelong Learner => VIEWED | 01/07/2017
+- Debugging CSS with Chrome DevTools => VIEWED | 25/07/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
