@@ -20,7 +20,7 @@
 ### Data Analysis | 391 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 70,363 <=> Total Achievements | 852 badges <=> Courses Completed | 297
+### Total Points | 70,368 <=> Total Achievements | 852 badges <=> Courses Completed | 297
 ----------
 
 # Paths
@@ -559,6 +559,7 @@
 - Be a Lifelong Learner => VIEWED | 01/07/2017
 - Debugging CSS with Chrome DevTools => VIEWED | 25/07/2017
 - Practice JavaScript Loops => VIEWED | 25/07/2017
+- Introducing Text Editors => VIEWED | 25/07/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
