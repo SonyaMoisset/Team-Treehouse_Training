@@ -17,10 +17,10 @@
 ### API | 114 points
 ### Design | 2,349 points
 ### Business | 2,681 points
-### Data Analysis | 523 points
+### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 70,574 <=> Total Achievements | 856 badges <=> Courses Completed | 300
+### Total Points | 70,676 <=> Total Achievements | 857 badges <=> Courses Completed | 301
 ----------
 
 # Paths
@@ -619,3 +619,4 @@
 - Nested CRUD with Laravel 4 => COMPLETED | 23/07/2017 | 178 points
 - Scrum Basics 4 => COMPLETED | 23/07/2017 | 278 points
 - PHP & Databases with PDO => COMPLETED | 24/07/2017 | 202 points
+- Data Visualization with Excel => COMPLETED | 27/07/2017 | 234 points
