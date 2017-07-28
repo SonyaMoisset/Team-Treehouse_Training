@@ -10,7 +10,7 @@
 ### Game Development | 408 points
 ### Java | 4,094 points
 ### Android | 4,941 points
-### iOS | 1,177 points
+### iOS | 1,260 points
 ### Development Tools | 3,875 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 107 points
-### Total Points | 70,676 <=> Total Achievements | 857 badges <=> Courses Completed | 301
+### Total Points | 70,759 <=> Total Achievements | 858 badges <=> Courses Completed | 301
 ----------
 
 # Paths
