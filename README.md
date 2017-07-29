@@ -485,6 +485,7 @@
 - Swift 3 Collections and Control Flow => COMPLETED | 29/06/2017 | 298 points
 - Functions in Swift 3 => COMPLETED | 03/07/2017 | 183 points
 - Object-Oriented Swift 3 => COMPLETED | 12/07/2017 | 303 points
+- Enumerations and Optionals in Swift 3 => COMPLETED | 29/07/2017 | 269 points
 
 ## Beginner iOS Development 
 ### Points
@@ -492,6 +493,7 @@
 - Swift 3 Collections and Control Flow => COMPLETED | 29/06/2017 | 298 points
 - Functions in Swift 3 => COMPLETED | 03/07/2017 | 183 points
 - Object-Oriented Swift 3 => COMPLETED | 12/07/2017 | 303 points
+- Enumerations and Optionals in Swift 3 => COMPLETED | 29/07/2017 | 269 points
 
 ## Intermediate Swift
 ### Points
