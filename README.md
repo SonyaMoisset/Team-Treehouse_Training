@@ -486,6 +486,7 @@
 - Functions in Swift 3 => COMPLETED | 03/07/2017 | 183 points
 - Object-Oriented Swift 3 => COMPLETED | 12/07/2017 | 303 points
 - Enumerations and Optionals in Swift 3 => COMPLETED | 29/07/2017 | 269 points
+- Protocols in Swift 3 => COMPLETED | 30/07/2017 | 190 points
 
 ## Beginner iOS Development 
 ### Points
