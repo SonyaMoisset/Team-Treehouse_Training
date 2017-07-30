@@ -73,7 +73,7 @@
 - Gits Basics => COMPLETED | 31/08/2016 | 411 points
 - Introduction to Font End Performance Optimization => COMPLETED | 31/08/2016 | 250 points
 
-## Web Design Path
+## Web Design Path | TYPE A
 ### Points | 3,921 points
  - How to Make a Website => COMPLETED | 14/08/2016 | 658 points
  - CSS Basics => COMPLETED | 15/08/2016 | 540 points
@@ -93,6 +93,27 @@
  - Brand Identity Basics => COMPLETED | 05/09/2016 | 222 points
  - CSS to Sass => COMPLETED | 05/09/2016 | 186 points
  
+## Web Design Path | TYPE B
+### Points | 5,133 points
+- Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
+- HTML Basics => COMPLETED | 16/07/2017 | 316 points 
+- CSS Basics => COMPLETED | 15/08/2016 | 540 points
+- CSS Selectors => COMPLETED | 23/08/2016 | 269 points
+- HTML Forms => COMPLETED | 19/08/2016 | 275 points
+- HTML Tables => COMPLETED | 26/08/2016 | 193 points
+- CSS Layout Basics => COMPLETED | 18/08/2016 | 315 points
+- Responsive Layouts => COMPLETED | 18/08/2016 | 188 points
+- CSS Flexbox Layout => COMPLETED | 19/08/2016 | 232 points
+- Design Foundations => COMPLETED | 01/09/2016 | 294 points
+- Photoshop Foundations => COMPLETED | 03/09/2016 | 446 points
+- Adobe Illustrator for Web Design => COMPLETED | 03/09/2016 | 306 points
+- CSS Transitions and Transforms => COMPLETED | 04/09/2016 | 290 points
+- SVG Basics => COMPLETED | 04/09/2016 | 167 points
+- Animating SVG with CSS => COMPLETED | 04/09/2016 | 157 points
+- Logo Design Basics => COMPLETED | 04/09/2016 | 143 points
+- Brand Identity Basics => COMPLETED | 05/09/2016 | 222 points
+- Sass Basics => COMPLETED | 24/04/2017 | 321 points
+
 ## Beginner JavaScript 
 ### Points | 1,893 points
 - JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
@@ -605,7 +626,6 @@
 - Moving from WordPress.com to Self-Hosted WordPress.org => COMPLETED | 17/04/2017 | 102 points
 - Data Science Basics => COMPLETED | 18/04/2017 | 369 points
 - Front End Web Optimization Workflow => COMPLETED | 19/04/2017 | 221 points
-- Sass Basics => COMPLETED | 24/04/2017 | 321 points
 - HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
 - HTML => COMPLETED | 13/05/2017 | 370 points
 - Soft Skills => COMPLETED | 22/05/2017 | 311 points
