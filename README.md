@@ -497,6 +497,8 @@
 - Object-Oriented Swift 3 => COMPLETED | 12/07/2017 | 303 points
 - Build a Simple iPhone App with Swift 3 => COMPLETED | 29/07/2017 | 330 points
 - Enumerations and Optionals in Swift 3 => COMPLETED | 29/07/2017 | 269 points
+- Protocols in Swift 3 => COMPLETED | 30/07/2017 | 190 points
+- Error Handling in Swift 3 => COMPLETED | 30/07/2017 | 143 points
 
 ## Intermediate Swift
 ### Points
