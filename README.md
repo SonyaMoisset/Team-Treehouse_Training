@@ -420,6 +420,15 @@
 - Data Fetching in React => VIEWED | 10/02/2017
 - Animations in React => VIEWED | 26/05/2017
 
+## Learn React | TYPE C
+### Points | 873 points
+- React Basics => COMPLETED | 19/12/2016 | 292 points
+- Using Create React App => VIEWED | 26/07/2017
+- React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
+- Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
+- Data Fetching in React => VIEWED | 10/02/2017
+- Animations in React => VIEWED | 26/05/2017
+
 ## Learn Java
 ### Points | 1,455 points
 - Java Basics => COMPLETED | 25/12/2016 | 275 points
@@ -598,7 +607,6 @@
 - Practice JavaScript Loops => VIEWED | 25/07/2017
 - Introducing Text Editors => VIEWED | 25/07/2017
 - Build a Realtime Database App with Firebase => VIEWED | 25/07/2017
-- Using Create React App => VIEWED | 26/07/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
