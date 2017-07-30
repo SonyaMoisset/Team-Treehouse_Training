@@ -354,6 +354,15 @@
 - Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
 - Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
 
+## Beginner SQL
+### Points | 1,740 points
+- SQL Basics => COMPLETED | 19/09/2016 | 319 points
+- Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
+- Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
+- Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
+- SQL Reporting by Example => COMPLETED | 21/07/2017 | 229 points
+
+
 ## Learn CSharp | TYPE A
 ### Points | 2,094 points
 - C# Basics => COMPLETED | 03/12/2016 | 413 points
@@ -640,7 +649,6 @@
 - D3.js => COMPLETED | 10/07/2017 | 275 points
 - Callback Functions in JavaScript => COMPLETED | 19/07/2017 | 229 points
 - Introduction to Big Data => COMPLETED | 19/07/2017 | 198 points
-- SQL Reporting by Example => COMPLETED | 21/07/2017 | 229 points
 - Laravel 4 Basics => COMPLETED | 22/07/2017 | 440 points
 - PHP Standards and Best Practices => COMPLETED | 23/07/2017 | 332 points
 - Nested CRUD with Laravel 4 => COMPLETED | 23/07/2017 | 178 points
