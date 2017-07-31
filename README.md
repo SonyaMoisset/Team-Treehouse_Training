@@ -663,3 +663,4 @@
 - Scrum Basics 4 => COMPLETED | 23/07/2017 | 278 points
 - PHP & Databases with PDO => COMPLETED | 24/07/2017 | 202 points
 - Data Visualization with Excel => COMPLETED | 27/07/2017 | 234 points
+- PHP User Authentication => COMPLETED | 31/07/2017 | 290 points
