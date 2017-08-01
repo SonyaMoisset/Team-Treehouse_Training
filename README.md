@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,203 <=> Total Achievements | 874 badges <=> Courses Completed | 307
+### Total Points | 72,212 <=> Total Achievements | 874 badges <=> Courses Completed | 308
 ----------
 
 # Paths
@@ -607,6 +607,7 @@
 - Practice JavaScript Loops => VIEWED | 25/07/2017
 - Introducing Text Editors => VIEWED | 25/07/2017
 - Build a Realtime Database App with Firebase => VIEWED | 25/07/2017
+- Creating Your First ASP.NET MVC Website => VIEWED | 01/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
