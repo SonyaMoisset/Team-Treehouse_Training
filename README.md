@@ -15,12 +15,12 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
 ### API | 114 points
-### Design | 2,388 points
+### Design | 2,488 points
 ### Business | 2,681 points
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,581 <=> Total Achievements | 879 badges <=> Courses Completed | 310
+### Total Points | 72,681 <=> Total Achievements | 880 badges <=> Courses Completed | 311
 ----------
 
 # Paths
@@ -668,3 +668,4 @@
 - PHP User Authentication => COMPLETED | 31/07/2017 | 290 points
 - Extending Object-Oriented PHP => COMPLETED | 01/08/2017 | 186 points
 - Introducing JavaScript => COMPLETED | 02/08/2017 | 181 points
+- Web Design Process => COMPLETED | 02/08/2017 | 139 points
