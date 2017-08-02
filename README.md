@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,430 <=> Total Achievements | 877 badges <=> Courses Completed | 309
+### Total Points | 72,542 <=> Total Achievements | 878 badges <=> Courses Completed | 310
 ----------
 
 # Paths
@@ -667,3 +667,4 @@
 - Data Visualization with Excel => COMPLETED | 27/07/2017 | 234 points
 - PHP User Authentication => COMPLETED | 31/07/2017 | 290 points
 - Extending Object-Oriented PHP => COMPLETED | 01/08/2017 | 186 points
+- Introducing JavaScript => COMPLETED | 02/08/2017 | 181 points
