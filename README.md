@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,689 <=> Total Achievements | 880 badges <=> Courses Completed | 313
+### Total Points | 72,694 <=> Total Achievements | 880 badges <=> Courses Completed | 314
 ----------
 
 # Paths
@@ -611,6 +611,7 @@
 - Free Workshop: Creating Your First ASP.NET MVC Website => VIEWED | 01/08/2017
 - Jupyter Notebooks => VIEWED | 03/08/2017
 - Introduction to Babel => VIEWED | 03/08/2017
+- Understanding Promises in JavaScript => VIEWED | 03/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
