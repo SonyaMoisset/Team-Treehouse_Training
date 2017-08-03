@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,681 <=> Total Achievements | 880 badges <=> Courses Completed | 311
+### Total Points | 72,685 <=> Total Achievements | 880 badges <=> Courses Completed | 312
 ----------
 
 # Paths
@@ -609,6 +609,7 @@
 - Build a Realtime Database App with Firebase => VIEWED | 25/07/2017
 - Creating Your First ASP.NET MVC Website => VIEWED | 01/08/2017
 - Free Workshop: Creating Your First ASP.NET MVC Website => VIEWED | 01/08/2017
+- Jupyter Notebooks => VIEWED | 03/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
