@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,696 <=> Total Achievements | 880 badges <=> Courses Completed | 315
+### Total Points | 72,697 <=> Total Achievements | 880 badges <=> Courses Completed | 315
 ----------
 
 # Paths
@@ -614,6 +614,7 @@
 - Understanding Promises in JavaScript => VIEWED | 03/08/2017
 - How to Create and Distribute an npm Package => VIEWED | 03/08/2017
 - Using the Geolocation API in JavaScript => VIEWED | 03/08/2017
+- JavaScript Booleans => VIEWED | 04/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
