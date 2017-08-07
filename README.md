@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,701 <=> Total Achievements | 880 badges <=> Courses Completed | 319
+### Total Points | 72,703 <=> Total Achievements | 880 badges <=> Courses Completed | 320
 ----------
 
 # Paths
@@ -618,6 +618,7 @@
 - Deploy your App to GitHub Pages with Gulp => VIEWED | 04/08/2017
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline => VIEWED | 07/08/2017
 - CSV and JSON in Python => VIEWED | 07/08/2017
+- Python File I/O => VIEWED | 07/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
