@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,698 <=> Total Achievements | 880 badges <=> Courses Completed | 317
+### Total Points | 72,699 <=> Total Achievements | 880 badges <=> Courses Completed | 318
 ----------
 
 # Paths
@@ -616,6 +616,7 @@
 - Using the Geolocation API in JavaScript => VIEWED | 03/08/2017
 - JavaScript Booleans => VIEWED | 04/08/2017
 - Deploy your App to GitHub Pages with Gulp => VIEWED | 04/08/2017
+- Using Gulp's 'gulp-useref' For a Full Build Pipeline => VIEWED | 07/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
