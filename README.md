@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,818 <=> Total Achievements | 882 badges <=> Courses Completed | 320
+### Total Points | 72,819 <=> Total Achievements | 882 badges <=> Courses Completed | 321
 ----------
 
 # Paths
@@ -619,6 +619,7 @@
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline => VIEWED | 07/08/2017
 - CSV and JSON in Python => VIEWED | 07/08/2017
 - Python File I/O => VIEWED | 07/08/2017
+- What's New in Swift 2.0 => VIEWED | 07/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
