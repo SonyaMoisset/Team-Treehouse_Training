@@ -5,7 +5,7 @@
 ### PHP | 5,121 points
 ### WordPress | 4,548 points
 ### Python | 7,548 points
-### Ruby | 5,149 points
+### Ruby | 5,213 points
 ### C# | 3,605 points
 ### Game Development | 408 points
 ### Java | 4,094 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 72,703 <=> Total Achievements | 880 badges <=> Courses Completed | 320
+### Total Points | 72,767 <=> Total Achievements | 881 badges <=> Courses Completed | 320
 ----------
 
 # Paths
