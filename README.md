@@ -10,7 +10,7 @@
 ### Game Development | 408 points
 ### Java | 4,094 points
 ### Android | 4,941 points
-### iOS | 3,178 points
+### iOS | 3,287 points
 ### Development Tools | 3,875 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 73,851 <=> Total Achievements | 898 badges <=> Courses Completed | 324
+### Total Points | 73,960 <=> Total Achievements | 899 badges <=> Courses Completed | 325
 ----------
 
 # Paths
@@ -538,6 +538,7 @@
 - Enumerations and Optionals in Swift 3 => COMPLETED | 29/07/2017 | 269 points
 - Protocols in Swift 3 => COMPLETED | 30/07/2017 | 190 points
 - Error Handling in Swift 3 => COMPLETED | 30/07/2017 | 143 points
+- Build a Vending Machine App in Swift 3 => COMPLETED | 08/08/2017 | 246 points
 
 ## Intermediate Swift
 ### Points
