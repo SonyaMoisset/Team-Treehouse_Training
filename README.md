@@ -5,7 +5,7 @@
 ### PHP | 5,121 points
 ### WordPress | 4,548 points
 ### Python | 7,548 points
-### Ruby | 5,264 points
+### Ruby | 5,364 points
 ### C# | 3,605 points
 ### Game Development | 408 points
 ### Java | 4,094 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 73,586 <=> Total Achievements | 894 badges <=> Courses Completed | 323
+### Total Points | 73,687 <=> Total Achievements | 895 badges <=> Courses Completed | 324
 ----------
 
 # Paths
@@ -682,3 +682,4 @@
 - Web Design Process => COMPLETED | 02/08/2017 | 139 points
 - Objective-C Basics => COMPLETED | 08/08/2017 | 420 points
 - Build a Simple iPhone App with Objective-C => COMPLETED | 08/08/2017 | 347 points
+- ActiveRecord Basics => COMPLETED | 08/08/2017 | 412 points
