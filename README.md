@@ -10,7 +10,7 @@
 ### Game Development | 408 points
 ### Java | 4,094 points
 ### Android | 4,941 points
-### iOS | 2,555 points
+### iOS | 2,666 points
 ### Development Tools | 3,875 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 73,128 <=> Total Achievements | 887 badges <=> Courses Completed | 321
+### Total Points | 73,239 <=> Total Achievements | 888 badges <=> Courses Completed | 322
 ----------
 
 # Paths
@@ -680,3 +680,4 @@
 - Extending Object-Oriented PHP => COMPLETED | 01/08/2017 | 186 points
 - Introducing JavaScript => COMPLETED | 02/08/2017 | 181 points
 - Web Design Process => COMPLETED | 02/08/2017 | 139 points
+- Objective-C Basics => COMPLETED | 08/08/2017 | 420 points
