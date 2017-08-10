@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 74,456 <=> Total Achievements | 906 badges <=> Courses Completed | 327
+### Total Points | 74,459 <=> Total Achievements | 906 badges <=> Courses Completed | 328
 ----------
 
 # Paths
@@ -621,6 +621,7 @@
 - CSV and JSON in Python => VIEWED | 07/08/2017
 - Python File I/O => VIEWED | 07/08/2017
 - What's New in Swift 2.0 => VIEWED | 07/08/2017
+- iOS Improving Interaction with Animation => VIEWED | 10/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
