@@ -10,7 +10,7 @@
 ### Game Development | 408 points
 ### Java | 4,094 points
 ### Android | 4,941 points
-### iOS | 3,653 points
+### iOS | 3,753 points
 ### Development Tools | 3,875 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 74,356 <=> Total Achievements | 905 badges <=> Courses Completed | 326
+### Total Points | 74,456 <=> Total Achievements | 906 badges <=> Courses Completed | 327
 ----------
 
 # Paths
@@ -685,3 +685,4 @@
 - Build a Simple iPhone App with Objective-C => COMPLETED | 08/08/2017 | 347 points
 - ActiveRecord Basics => COMPLETED | 08/08/2017 | 412 points
 - Delegates in Swift 2 => COMPLETED | 08/08/2017 | 140 points
+- Intermediate Swift 2 => COMPLETED | 10/08/2017 | 356 points
