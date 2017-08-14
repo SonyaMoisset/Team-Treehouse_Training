@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 74,831 <=> Total Achievements | 911 badges <=> Courses Completed | 334
+### Total Points | 74,832 <=> Total Achievements | 911 badges <=> Courses Completed | 335
 ----------
 
 # Paths
@@ -626,6 +626,7 @@
 - Create Tooltips with CSS => VIEWED | 11/08/2017
 - Installing a Ruby on Rails Development Environment in OS X => VIEWED | 14/08/2017
 - Installing a Ruby on Rails Development Environment in Windows => VIEWED | 14/08/2017
+- Installing a Ruby on Rails Development Environment in Ubuntu => VIEWED | 14/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
