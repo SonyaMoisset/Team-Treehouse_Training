@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 74,829 <=> Total Achievements | 911 badges <=> Courses Completed | 332
+### Total Points | 74,830 <=> Total Achievements | 911 badges <=> Courses Completed | 333
 ----------
 
 # Paths
@@ -624,6 +624,7 @@
 - iOS Improving Interaction with Animation => VIEWED | 10/08/2017
 - Comparing Code: Swift and Objective-C => VIEWED | 10/08/2017
 - Create Tooltips with CSS => VIEWED | 11/08/2017
+- Installing a Ruby on Rails Development Environment in OS X => VIEWED | 14/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
