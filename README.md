@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 74,836 <=> Total Achievements | 911 badges <=> Courses Completed | 339
+### Total Points | 74,837 <=> Total Achievements | 911 badges <=> Courses Completed | 340
 ----------
 
 # Paths
@@ -631,6 +631,7 @@
 - Ruby 2.0 Walkthrough => VIEWED | 15/08/2017
 - Rails Application Walkthrough => VIEWED | 15/08/2017
 - Creating Static Pages in Rails => VIEWED | 15/08/2017
+- Introduction to Bundler => VIEWED | 15/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
