@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 74,834 <=> Total Achievements | 911 badges <=> Courses Completed | 337
+### Total Points | 74,835 <=> Total Achievements | 911 badges <=> Courses Completed | 338
 ----------
 
 # Paths
@@ -629,6 +629,7 @@
 - Installing a Ruby on Rails Development Environment in Ubuntu => VIEWED | 14/08/2017
 - Ruby on Rails Scaffolding => VIEWED | 14/08/2017
 - Ruby 2.0 Walkthrough => VIEWED | 15/08/2017
+- Rails Application Walkthrough => VIEWED | 15/08/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
