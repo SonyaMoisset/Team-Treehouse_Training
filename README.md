@@ -10,7 +10,7 @@
 ### Game Development | 408 points
 ### Java | 4,094 points
 ### Android | 4,941 points
-### iOS | 4,160 points
+### iOS | 4,259 points
 ### Development Tools | 3,875 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 74,877 <=> Total Achievements | 912 badges <=> Courses Completed | 340
+### Total Points | 74,976 <=> Total Achievements | 912 badges <=> Courses Completed | 341
 ----------
 
 # Paths
@@ -699,3 +699,4 @@
 - Intermediate Swift 2 => COMPLETED | 10/08/2017 | 356 points
 - Build a Playlist Browser with Objective-C => COMPLETED | 14/08/2017 | 307 points
 - Unit Testing in iOS => COMPLETED | 14/08/2017 | 139 points
+- Generics in Swift 2 => COMPLETED | 16/08/2017 | 139 points
