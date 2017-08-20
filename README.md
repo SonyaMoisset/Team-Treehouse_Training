@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,489 points
-### JavaScript | 9,921 points
+### JavaScript | 10,020 points
 ### PHP | 5,121 points
 ### WordPress | 4,548 points
 ### Python | 7,548 points
@@ -20,7 +20,7 @@
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 75,108 <=> Total Achievements | 915 badges <=> Courses Completed | 341
+### Total Points | 75,207 <=> Total Achievements | 916 badges <=> Courses Completed | 3412
 ----------
 
 # Paths
@@ -700,3 +700,4 @@
 - Build a Playlist Browser with Objective-C => COMPLETED | 14/08/2017 | 307 points
 - Unit Testing in iOS => COMPLETED | 14/08/2017 | 139 points
 - Generics in Swift 2 => COMPLETED | 16/08/2017 | 139 points
+- Introduction to React Native => COMPLETED | 20/08/2017 | 231 points
