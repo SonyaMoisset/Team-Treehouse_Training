@@ -16,11 +16,11 @@
 ### Databases | 1,581 points
 ### API | 114 points
 ### Design | 2,488 points
-### Business | 2,681 points
+### Business | 2,721 points
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 75,207 <=> Total Achievements | 916 badges <=> Courses Completed | 342
+### Total Points | 75,247 <=> Total Achievements | 917 badges <=> Courses Completed | 342
 ----------
 
 # Paths
