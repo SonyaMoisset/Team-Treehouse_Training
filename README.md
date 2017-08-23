@@ -16,11 +16,11 @@
 ### Databases | 1,581 points
 ### API | 114 points
 ### Design | 2,488 points
-### Business | 2,759 points
+### Business | 2,858 points
 ### Data Analysis | 625 points
 ### Security | 154 points
 ### Go | 116 points
-### Total Points | 75,285 <=> Total Achievements | 918 badges <=> Courses Completed | 342
+### Total Points | 75,384 <=> Total Achievements | 919 badges <=> Courses Completed | 343
 ----------
 
 # Paths
@@ -701,3 +701,4 @@
 - Unit Testing in iOS => COMPLETED | 14/08/2017 | 139 points
 - Generics in Swift 2 => COMPLETED | 16/08/2017 | 139 points
 - Introduction to React Native => COMPLETED | 20/08/2017 | 231 points
+- Presentation Skills => COMPLETED | 23/08/2017 | 177 points
