@@ -18,9 +18,9 @@
 ### Design | 2,488 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
-### Security | 248 points
+### Security | 353 points
 ### Go | 116 points
-### Total Points | 75,478 <=> Total Achievements | 921 badges <=> Courses Completed | 343
+### Total Points | 75,583 <=> Total Achievements | 922 badges <=> Courses Completed | 344
 ----------
 
 # Paths
@@ -702,3 +702,4 @@
 - Generics in Swift 2 => COMPLETED | 16/08/2017 | 139 points
 - Introduction to React Native => COMPLETED | 20/08/2017 | 231 points
 - Presentation Skills => COMPLETED | 23/08/2017 | 177 points
+- Security Literacy => COMPLETED | 23/08/2017 | 199 points
