@@ -20,8 +20,8 @@
 ### Data Analysis | 625 points
 ### Security | 353 points
 ### Go | 116 points
-### VR | 43 points
-### Total Points | 75,746 <=> Total Achievements | 926 badges <=> Courses Completed | 344
+### VR | 115 points
+### Total Points | 75,848 <=> Total Achievements | 927 badges <=> Courses Completed | 345
 ----------
 
 # Paths
@@ -548,6 +548,10 @@
 ## Beginner Game Development with Unity
 ### Points |
 - How to Make a Video Game => COMPLETED | 1/04/2017 | 408 points
+
+## Beginner VR
+### Points
+- VR in Unity => COMPLETED | 27/08/2017 | 265 points
 
 ## Starting a Business
 ### Points | 884 points
