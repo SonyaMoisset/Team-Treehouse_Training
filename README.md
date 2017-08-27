@@ -20,7 +20,8 @@
 ### Data Analysis | 625 points
 ### Security | 353 points
 ### Go | 116 points
-### Total Points | 75,583 <=> Total Achievements | 922 badges <=> Courses Completed | 344
+### VR | 10 points
+### Total Points | 75,623 <=> Total Achievements | 923 badges <=> Courses Completed | 344
 ----------
 
 # Paths
