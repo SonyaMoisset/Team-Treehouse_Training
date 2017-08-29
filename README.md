@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,489 points
-### JavaScript | 10,126 points
+### JavaScript | 10,237 points
 ### PHP | 5,121 points
 ### WordPress | 4,548 points
 ### Python | 7,548 points
@@ -21,7 +21,7 @@
 ### Security | 353 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 75,954 <=> Total Achievements | 931 badges <=> Courses Completed | 345
+### Total Points | 76,065 <=> Total Achievements | 932 badges <=> Courses Completed | 346
 ----------
 
 # Paths
@@ -708,3 +708,4 @@
 - Introduction to React Native => COMPLETED | 20/08/2017 | 231 points
 - Presentation Skills => COMPLETED | 23/08/2017 | 177 points
 - Security Literacy => COMPLETED | 23/08/2017 | 199 points
+- Regular Expressions in JavaScript => COMPLETED | 29/08/2017 | 217 points
