@@ -15,13 +15,13 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
 ### API | 114 points
-### Design | 2,488 points
+### Design | 2,528 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
 ### Security | 353 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 76,065 <=> Total Achievements | 932 badges <=> Courses Completed | 346
+### Total Points | 76,105 <=> Total Achievements | 933 badges <=> Courses Completed | 346
 ----------
 
 # Paths
