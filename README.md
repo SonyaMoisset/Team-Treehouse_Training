@@ -3,7 +3,7 @@
 ### CSS | 4,489 points
 ### JavaScript | 10,237 points
 ### PHP | 5,121 points
-### WordPress | 4,548 points
+### WordPress | 4,648 points
 ### Python | 7,548 points
 ### Ruby | 5,364 points
 ### C# | 3,605 points
@@ -21,7 +21,7 @@
 ### Security | 353 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 76,144 <=> Total Achievements | 934 badges <=> Courses Completed | 346
+### Total Points | 76,256 <=> Total Achievements | 935 badges <=> Courses Completed | 347
 ----------
 
 # Paths
@@ -709,3 +709,4 @@
 - Presentation Skills => COMPLETED | 23/08/2017 | 177 points
 - Security Literacy => COMPLETED | 23/08/2017 | 199 points
 - Regular Expressions in JavaScript => COMPLETED | 29/08/2017 | 217 points
+- Installing WordPress Locally => COMPLETED | 30/08/2017 | 100 points
