@@ -21,7 +21,7 @@
 ### Security | 353 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 76,334 <=> Total Achievements | 936 badges <=> Courses Completed | 348
+### Total Points | 76,335 <=> Total Achievements | 936 badges <=> Courses Completed | 348
 ----------
 
 # Paths
