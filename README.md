@@ -15,13 +15,13 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
 ### API | 114 points
-### Design | 2,797 points
+### Design | 2,898 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
 ### Security | 353 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 76,474 <=> Total Achievements | 939 badges <=> Courses Completed | 348
+### Total Points | 76,575 <=> Total Achievements | 940 badges <=> Courses Completed | 349
 ----------
 
 # Paths
@@ -711,3 +711,4 @@
 - Regular Expressions in JavaScript => COMPLETED | 29/08/2017 | 217 points
 - Installing WordPress Locally => COMPLETED | 30/08/2017 | 100 points
 - Prototyping in the Browser => COMPLETED | 03/09/2017 | 140 points
+- Mobile App Design for iOS => COMPLETED | 05/09/2017 | 270 points
