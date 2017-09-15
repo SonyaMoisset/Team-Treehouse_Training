@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,489 points
-### JavaScript | 10,237 points
+### JavaScript | 10,277 points
 ### PHP | 5,121 points
 ### WordPress | 4,648 points
 ### Python | 7,548 points
@@ -21,7 +21,7 @@
 ### Security | 353 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 76,635 <=> Total Achievements | 941 badges <=> Courses Completed | 349
+### Total Points | 76,675 <=> Total Achievements | 942 badges <=> Courses Completed | 349
 ----------
 
 # Paths
