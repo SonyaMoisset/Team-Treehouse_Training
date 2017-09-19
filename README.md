@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,489 points
-### JavaScript | 10,335 points
+### JavaScript | 10,405 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,548 points
@@ -21,7 +21,7 @@
 ### Security | 353 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 76,733 <=> Total Achievements | 943 badges <=> Courses Completed | 349
+### Total Points | 76,833 <=> Total Achievements | 944 badges <=> Courses Completed | 350
 ----------
 
 # Paths
@@ -712,3 +712,4 @@
 - Installing WordPress Locally => COMPLETED | 30/08/2017 | 100 points
 - Prototyping in the Browser => COMPLETED | 03/09/2017 | 140 points
 - Mobile App Design for iOS => COMPLETED | 05/09/2017 | 270 points
+- React by Example => COMPLETED | 19/09/2017 | 198 points
