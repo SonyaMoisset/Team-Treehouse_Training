@@ -19,10 +19,10 @@
 ### Business | 2,858 points
 ### Data Analysis | 625 points
 ### Security | 353 points
-### QA | 92 points
+### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 76,925 <=> Total Achievements | 946 badges <=> Courses Completed | 350
+### Total Points | 77,040 <=> Total Achievements | 947 badges <=> Courses Completed | 351
 ----------
 
 # Paths
@@ -714,3 +714,4 @@
 - Prototyping in the Browser => COMPLETED | 03/09/2017 | 140 points
 - Mobile App Design for iOS => COMPLETED | 05/09/2017 | 270 points
 - React by Example => COMPLETED | 19/09/2017 | 198 points
+- Introduction to Selenium => COMPLETED | 21/09/2017 | 207 points
