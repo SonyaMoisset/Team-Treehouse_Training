@@ -11,7 +11,7 @@
 ### Java | 4,094 points
 ### Android | 4,941 points
 ### iOS | 4,259 points
-### Development Tools | 4,037 points
+### Development Tools | 4,136 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
 ### API | 114 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 77,204 <=> Total Achievements | 951 badges <=> Courses Completed | 351
+### Total Points | 77,303 <=> Total Achievements | 952 badges <=> Courses Completed | 352
 ----------
 
 # Paths
@@ -715,3 +715,4 @@
 - Mobile App Design for iOS => COMPLETED | 05/09/2017 | 270 points
 - React by Example => COMPLETED | 19/09/2017 | 198 points
 - Introduction to Selenium => COMPLETED | 21/09/2017 | 207 points
+- Introduction to Docker => COMPLETED | 25/09/2017 | 261 points
