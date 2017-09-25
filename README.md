@@ -4,7 +4,7 @@
 ### JavaScript | 10,405 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
-### Python | 7,548 points
+### Python | 7,687 points
 ### Ruby | 5,364 points
 ### C# | 3,605 points
 ### Game Development | 408 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 77,303 <=> Total Achievements | 952 badges <=> Courses Completed | 352
+### Total Points | 77,442 <=> Total Achievements | 954 badges <=> Courses Completed | 353
 ----------
 
 # Paths
@@ -716,3 +716,4 @@
 - React by Example => COMPLETED | 19/09/2017 | 198 points
 - Introduction to Selenium => COMPLETED | 21/09/2017 | 207 points
 - Introduction to Docker => COMPLETED | 25/09/2017 | 261 points
+- Data Visualization with Bokeh => COMPLETED | 25/09/2017 | 139 points
