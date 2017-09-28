@@ -1,6 +1,6 @@
 # Treehouse
 ### HTML | 3,110 points
-### CSS | 4,489 points
+### CSS | 4,542 points
 ### JavaScript | 10,405 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 77,442 <=> Total Achievements | 954 badges <=> Courses Completed | 353
+### Total Points | 77,495 <=> Total Achievements | 955 badges <=> Courses Completed | 353
 ----------
 
 # Paths
@@ -684,36 +684,4 @@
 - Markdown Basics => COMPLETED | 28/06/2017 | 470 points
 - AWS with S3 => COMPLETED | 29/06/2017 | 470 points
 - Using the GitHub API with PHP => COMPLETED | 05/07/2017 | 170 points
-- Build a Rails API => COMPLETED | 09/07/2017 | 345 points
-- D3.js => COMPLETED | 10/07/2017 | 275 points
-- Callback Functions in JavaScript => COMPLETED | 19/07/2017 | 229 points
-- Introduction to Big Data => COMPLETED | 19/07/2017 | 198 points
-- Laravel 4 Basics => COMPLETED | 22/07/2017 | 440 points
-- PHP Standards and Best Practices => COMPLETED | 23/07/2017 | 332 points
-- Nested CRUD with Laravel 4 => COMPLETED | 23/07/2017 | 178 points
-- Scrum Basics 4 => COMPLETED | 23/07/2017 | 278 points
-- PHP & Databases with PDO => COMPLETED | 24/07/2017 | 202 points
-- Data Visualization with Excel => COMPLETED | 27/07/2017 | 234 points
-- PHP User Authentication => COMPLETED | 31/07/2017 | 290 points
-- Extending Object-Oriented PHP => COMPLETED | 01/08/2017 | 186 points
-- Introducing JavaScript => COMPLETED | 02/08/2017 | 181 points
-- Web Design Process => COMPLETED | 02/08/2017 | 139 points
-- Objective-C Basics => COMPLETED | 08/08/2017 | 420 points
-- Build a Simple iPhone App with Objective-C => COMPLETED | 08/08/2017 | 347 points
-- ActiveRecord Basics => COMPLETED | 08/08/2017 | 412 points
-- Delegates in Swift 2 => COMPLETED | 08/08/2017 | 140 points
-- Intermediate Swift 2 => COMPLETED | 10/08/2017 | 356 points
-- Build a Playlist Browser with Objective-C => COMPLETED | 14/08/2017 | 307 points
-- Unit Testing in iOS => COMPLETED | 14/08/2017 | 139 points
-- Generics in Swift 2 => COMPLETED | 16/08/2017 | 139 points
-- Introduction to React Native => COMPLETED | 20/08/2017 | 231 points
-- Presentation Skills => COMPLETED | 23/08/2017 | 177 points
-- Security Literacy => COMPLETED | 23/08/2017 | 199 points
-- Regular Expressions in JavaScript => COMPLETED | 29/08/2017 | 217 points
-- Installing WordPress Locally => COMPLETED | 30/08/2017 | 100 points
-- Prototyping in the Browser => COMPLETED | 03/09/2017 | 140 points
-- Mobile App Design for iOS => COMPLETED | 05/09/2017 | 270 points
-- React by Example => COMPLETED | 19/09/2017 | 198 points
-- Introduction to Selenium => COMPLETED | 21/09/2017 | 207 points
-- Introduction to Docker => COMPLETED | 25/09/2017 | 261 points
-- Data Visualization with Bokeh => COMPLETED | 25/09/2017 | 139 points
+- Build a R
