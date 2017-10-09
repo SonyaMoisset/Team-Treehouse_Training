@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 77,890 <=> Total Achievements | 960 badges <=> Courses Completed | 355
+### Total Points | 77,892 <=> Total Achievements | 960 badges <=> Courses Completed | 356
 ----------
 
 # Paths
@@ -638,6 +638,7 @@
 - Rails Application Walkthrough => VIEWED | 15/08/2017
 - Creating Static Pages in Rails => VIEWED | 15/08/2017
 - Introduction to Bundler => VIEWED | 15/08/2017
+- Practice CSS Grid: Columns, Rows and Gaps => VIEWED | 09/10/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
