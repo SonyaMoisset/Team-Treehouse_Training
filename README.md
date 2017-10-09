@@ -6,7 +6,7 @@
 ### WordPress | 4,648 points
 ### Python | 7,687 points
 ### Ruby | 5,364 points
-### C# | 3,710 points
+### C# | 3,819 points
 ### Game Development | 408 points
 ### Java | 4,094 points
 ### Android | 4,941 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 77,781 <=> Total Achievements | 959 badges <=> Courses Completed | 354
+### Total Points | 77,890 <=> Total Achievements | 960 badges <=> Courses Completed | 355
 ----------
 
 # Paths
@@ -718,3 +718,4 @@
 - Introduction to Docker => COMPLETED | 25/09/2017 | 261 points
 - Data Visualization with Bokeh => COMPLETED | 25/09/2017 | 139 points
 - CSS Grid Layout => COMPLETED | 28/09/2017 | 233 points
+- Introduction to Xamarin => COMPLETED | 09/10/2017 | 214 points
