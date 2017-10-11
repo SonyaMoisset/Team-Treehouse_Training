@@ -15,14 +15,14 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
 ### API | 114 points
-### Design | 3,153 points
+### Design | 3,251 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
 ### Security | 353 points
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 78,094 <=> Total Achievements | 966 badges <=> Courses Completed | 357
+### Total Points | 78,192 <=> Total Achievements | 967 badges <=> Courses Completed | 358
 ----------
 
 # Paths
@@ -723,3 +723,4 @@
 - Data Visualization with Bokeh => COMPLETED | 25/09/2017 | 139 points
 - CSS Grid Layout => COMPLETED | 28/09/2017 | 233 points
 - Introduction to Xamarin => COMPLETED | 09/10/2017 | 214 points
+- Mobile Game Design => COMPLETED | 11/10/2017 | 288 points
