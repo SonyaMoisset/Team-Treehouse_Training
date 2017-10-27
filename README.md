@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 78,869 <=> Total Achievements | 974 badges <=> Courses Completed | 360
+### Total Points | 78,872 <=> Total Achievements | 974 badges <=> Courses Completed | 361
 ----------
 
 # Paths
@@ -642,6 +642,7 @@
 - Practice Flexible CSS Grid Layout => VIEWED | 09/10/2017
 - Practice Grid Template Areas => VIEWED | 09/10/2017
 - Practice First-Class Functions in Python => VIEWED | 09/10/2017
+- Migrating WordPress => VIEWED | 27/10/2017
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
