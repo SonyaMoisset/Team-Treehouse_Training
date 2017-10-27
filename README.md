@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,692 points
-### JavaScript | 10,454 points
+### JavaScript | 10,591 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,687 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 78,770 <=> Total Achievements | 973 badges <=> Courses Completed | 359
+### Total Points | 78,869 <=> Total Achievements | 974 badges <=> Courses Completed | 360
 ----------
 
 # Paths
@@ -725,3 +725,4 @@
 - Introduction to Xamarin => COMPLETED | 09/10/2017 | 214 points
 - Mobile Game Design => COMPLETED | 11/10/2017 | 288 points
 - Ruby Basics => COMPLETED | 16/10/2017 | 434 points
+- Getting Started With ES2015 => COMPLETED | 16/10/2017 | 186 points
