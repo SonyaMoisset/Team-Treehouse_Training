@@ -727,4 +727,4 @@
 - Mobile Game Design => COMPLETED | 11/10/2017 | 288 points
 - Ruby Basics => COMPLETED | 16/10/2017 | 434 points
 - Getting Started With ES2015 => COMPLETED | 16/10/2017 | 186 points
-- Bootstrap 4 Basics => COMPLETED | 02/11/2017 | 186 points
+- Bootstrap 4 Basics => COMPLETED | 02/11/2017 | 228 points
