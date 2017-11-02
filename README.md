@@ -1,6 +1,6 @@
 # Treehouse
 ### HTML | 3,110 points
-### CSS | 4,789 points
+### CSS | 4,890 points
 ### JavaScript | 10,643 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 79,065 <=> Total Achievements | 978 badges <=> Courses Completed | 361
+### Total Points | 79,166 <=> Total Achievements | 979 badges <=> Courses Completed | 362
 ----------
 
 # Paths
@@ -727,3 +727,4 @@
 - Mobile Game Design => COMPLETED | 11/10/2017 | 288 points
 - Ruby Basics => COMPLETED | 16/10/2017 | 434 points
 - Getting Started With ES2015 => COMPLETED | 16/10/2017 | 186 points
+- Bootstrap 4 Basics => COMPLETED | 02/11/2017 | 186 points
