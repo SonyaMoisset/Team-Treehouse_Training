@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 79,168 <=> Total Achievements | 979 badges <=> Courses Completed | 362
+### Total Points | 79,170 <=> Total Achievements | 979 badges <=> Courses Completed | 362
 ----------
 
 # Paths
