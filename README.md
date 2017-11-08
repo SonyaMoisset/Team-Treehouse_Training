@@ -5,7 +5,7 @@
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,687 points
-### Ruby | 5,943 points
+### Ruby | 6,072 points
 ### C# | 3,867 points
 ### Game Development | 408 points
 ### Java | 4,094 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 79,311 <=> Total Achievements | 981 badges <=> Courses Completed | 362
+### Total Points | 79,440 <=> Total Achievements | 982 badges <=> Courses Completed | 363
 ----------
 
 # Paths
@@ -728,3 +728,4 @@
 - Ruby Basics => COMPLETED | 16/10/2017 | 434 points
 - Getting Started With ES2015 => COMPLETED | 16/10/2017 | 186 points
 - Bootstrap 4 Basics => COMPLETED | 02/11/2017 | 228 points
+- Active Record Associations in Rails => COMPLETED | 08/11/2017 | 274 points
