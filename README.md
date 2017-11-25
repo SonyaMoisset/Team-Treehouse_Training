@@ -9,7 +9,7 @@
 ### C# | 3,867 points
 ### Game Development | 408 points
 ### Java | 4,094 points
-### Android | 5,156 points
+### Android | 5,240 points
 ### iOS | 4,259 points
 ### Development Tools | 4,136 points
 ### Digital Literacy | 502 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 79,710 <=> Total Achievements | 986 badges <=> Courses Completed | 363
+### Total Points | 79,794 <=> Total Achievements | 987 badges <=> Courses Completed | 363
 ----------
 
 # Paths
