@@ -9,7 +9,7 @@
 ### C# | 3,867 points
 ### Game Development | 408 points
 ### Java | 4,094 points
-### Android | 5,240 points
+### Android | 5,365 points
 ### iOS | 4,259 points
 ### Development Tools | 4,136 points
 ### Digital Literacy | 502 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 79,794 <=> Total Achievements | 987 badges <=> Courses Completed | 363
+### Total Points | 79,919 <=> Total Achievements | 988 badges <=> Courses Completed | 364
 ----------
 
 # Paths
@@ -729,3 +729,4 @@
 - Getting Started With ES2015 => COMPLETED | 16/10/2017 | 186 points
 - Bootstrap 4 Basics => COMPLETED | 02/11/2017 | 228 points
 - Active Record Associations in Rails => COMPLETED | 08/11/2017 | 274 points
+- Build a Simple Android App with Java => COMPLETED | 25/11/2017 | 424 points
