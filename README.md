@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,890 points
-### JavaScript | 10,712 points
+### JavaScript | 10,879 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,687 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 79,925 <=> Total Achievements | 988 badges <=> Courses Completed | 364
+### Total Points | 80,086 <=> Total Achievements | 989 badges <=> Courses Completed | 365
 ----------
 
 # Paths
@@ -730,3 +730,4 @@
 - Bootstrap 4 Basics => COMPLETED | 02/11/2017 | 228 points
 - Active Record Associations in Rails => COMPLETED | 08/11/2017 | 274 points
 - Build a Simple Android App with Java => COMPLETED | 25/11/2017 | 424 points
+- JavaScript Array Iteration Methods => COMPLETED | 04/12/2017 | 288 points
