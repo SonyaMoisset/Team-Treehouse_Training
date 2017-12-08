@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,890 points
-### JavaScript | 10,879 points
+### JavaScript | 10,880 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,687 points
@@ -14,7 +14,7 @@
 ### Development Tools | 4,136 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
-### API | 114 points
+### API | 316 points
 ### Design | 3,251 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 80,101 <=> Total Achievements | 989 badges <=> Courses Completed | 367
+### Total Points | 80,303 <=> Total Achievements | 992 badges <=> Courses Completed | 368
 ----------
 
 # Paths
@@ -733,3 +733,4 @@
 - Active Record Associations in Rails => COMPLETED | 08/11/2017 | 274 points
 - Build a Simple Android App with Java => COMPLETED | 25/11/2017 | 424 points
 - JavaScript Array Iteration Methods => COMPLETED | 04/12/2017 | 288 points
+- Build a Chatbot with Watson APIs => COMPLETED | 08/12/2017 | 202 points
