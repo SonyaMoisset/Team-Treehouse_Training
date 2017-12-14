@@ -14,7 +14,7 @@
 ### Development Tools | 4,136 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
-### API | 316 points
+### API | 547 points
 ### Design | 3,251 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 80,306 <=> Total Achievements | 992 badges <=> Courses Completed | 368
+### Total Points | 80,534 <=> Total Achievements | 996 badges <=> Courses Completed | 369
 ----------
 
 # Paths
@@ -734,3 +734,4 @@
 - Build a Simple Android App with Java => COMPLETED | 25/11/2017 | 424 points
 - JavaScript Array Iteration Methods => COMPLETED | 04/12/2017 | 288 points
 - Build a Chatbot with Watson APIs => COMPLETED | 08/12/2017 | 202 points
+- Introduction to GraphQL => COMPLETED | 14/12/2017 | 231 points
