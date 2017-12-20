@@ -18,11 +18,11 @@
 ### Design | 3,251 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
-### Security | 353 points
+### Security | 540 points
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 80,539 <=> Total Achievements | 996 badges <=> Courses Completed | 369
+### Total Points | 80,721 <=> Total Achievements | 999 badges <=> Courses Completed | 370
 ----------
 
 # Paths
@@ -735,3 +735,4 @@
 - JavaScript Array Iteration Methods => COMPLETED | 04/12/2017 | 288 points
 - Build a Chatbot with Watson APIs => COMPLETED | 08/12/2017 | 202 points
 - Introduction to GraphQL => COMPLETED | 14/12/2017 | 231 points
+- Introduction to Application Security => COMPLETED | 20/12/2017 | 187 points
