@@ -9,7 +9,7 @@
 ### C# | 3,867 points
 ### Game Development | 408 points
 ### Java | 4,094 points
-### Android | 5,663 points
+### Android | 5,788 points
 ### iOS | 4,259 points
 ### Development Tools | 4,136 points
 ### Digital Literacy | 502 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 81,020 <=> Total Achievements | 1003 badges <=> Courses Completed | 370
+### Total Points | 81,145 <=> Total Achievements | 1004 badges <=> Courses Completed | 371
 ----------
 
 # Paths
@@ -736,3 +736,4 @@
 - Build a Chatbot with Watson APIs => COMPLETED | 08/12/2017 | 202 points
 - Introduction to GraphQL => COMPLETED | 14/12/2017 | 231 points
 - Introduction to Application Security => COMPLETED | 20/12/2017 | 187 points
+- Build a Simple Android App with Kotlin => COMPLETED | 27/12/2017 | 423 points
