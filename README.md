@@ -5,7 +5,7 @@
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,687 points
-### Ruby | 6,072 points
+### Ruby | 6,115 points
 ### C# | 3,867 points
 ### Game Development | 408 points
 ### Java | 4,094 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 81,469 <=> Total Achievements | 1009 badges <=> Courses Completed | 372
+### Total Points | 81,512 <=> Total Achievements | 10010 badges <=> Courses Completed | 372
 ----------
 
 # Paths
