@@ -18,11 +18,11 @@
 ### Design | 3,251 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
-### Security | 670 points
+### Security | 776 points
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 81,363 <=> Total Achievements | 1008 badges <=> Courses Completed | 371
+### Total Points | 81,469 <=> Total Achievements | 1009 badges <=> Courses Completed | 372
 ----------
 
 # Paths
@@ -737,3 +737,4 @@
 - Introduction to GraphQL => COMPLETED | 14/12/2017 | 231 points
 - Introduction to Application Security => COMPLETED | 20/12/2017 | 187 points
 - Build a Simple Android App with Kotlin => COMPLETED | 27/12/2017 | 423 points
+- OWASP Top 10 Vulnerabilities => COMPLETED | 01/02/2018 | 236 points
