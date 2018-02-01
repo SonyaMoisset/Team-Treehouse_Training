@@ -18,11 +18,11 @@
 ### Design | 3,251 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
-### Security | 625 points
+### Security | 670 points
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 81,318 <=> Total Achievements | 1006 badges <=> Courses Completed | 371
+### Total Points | 81,363 <=> Total Achievements | 1008 badges <=> Courses Completed | 371
 ----------
 
 # Paths
