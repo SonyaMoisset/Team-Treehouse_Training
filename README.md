@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 81,525 <=> Total Achievements | 1010 badges <=> Courses Completed | 372
+### Total Points | 81,662 <=> Total Achievements | 1010 badges <=> Courses Completed | 373
 ----------
 
 # Paths
@@ -645,6 +645,7 @@
 - Migrating WordPress => VIEWED | 27/10/2017
 - Using CSS Variables => VIEWED | 08/12/2017
 - What's New in React 16 => VIEWED | 08/12/2017
+- Practice Hashing Passwords in JavaScript => VIEWED | 12/02/2018
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
