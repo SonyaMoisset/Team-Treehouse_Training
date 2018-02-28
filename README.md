@@ -15,14 +15,14 @@
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
 ### API | 547 points
-### Design | 3,251 points
+### Design | 3,467 points
 ### Business | 2,858 points
 ### Data Analysis | 625 points
 ### Security | 776 points
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 81,979 <=> Total Achievements | 1014 badges <=> Courses Completed | 375
+### Total Points | 82,278 <=> Total Achievements | 1019 badges <=> Courses Completed | 376
 ----------
 
 # Paths
@@ -741,3 +741,4 @@
 - Introduction to Application Security => COMPLETED | 20/12/2017 | 187 points
 - Build a Simple Android App with Kotlin => COMPLETED | 27/12/2017 | 423 points
 - OWASP Top 10 Vulnerabilities => COMPLETED | 01/02/2018 | 236 points
+- Introduction to Product Design => COMPLETED | 29/02/2018 | 216 points
