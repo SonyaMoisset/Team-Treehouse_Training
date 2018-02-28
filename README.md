@@ -5,7 +5,7 @@
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,687 points
-### Ruby | 6,115 points
+### Ruby | 6,428 points
 ### C# | 3,867 points
 ### Game Development | 408 points
 ### Java | 4,094 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 81,705 <=> Total Achievements | 1010 badges <=> Courses Completed | 374
+### Total Points | 81,979 <=> Total Achievements | 1014 badges <=> Courses Completed | 375
 ----------
 
 # Paths
@@ -647,6 +647,7 @@
 - What's New in React 16 => VIEWED | 08/12/2017
 - Practice Hashing Passwords in JavaScript => VIEWED | 12/02/2018
 - Practice Hashing Passwords in PHP => VIEWED | 12/02/2018
+- Practice Ruby on Rails Basics => VIEWED | 28/02/2018
 
 # Courses
 - Website Basics => COMPLETED | 14/12/2016 | 101 points
