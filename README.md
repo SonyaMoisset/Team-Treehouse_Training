@@ -11,7 +11,7 @@
 ### Java | 4,094 points
 ### Android | 5,788 points
 ### iOS | 4,259 points
-### Development Tools | 4,136 points
+### Development Tools | 4,460 points
 ### Digital Literacy | 502 points
 ### Databases | 1,581 points
 ### API | 547 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 82,280 <=> Total Achievements | 1019 badges <=> Courses Completed | 376
+### Total Points | 82,602 <=> Total Achievements | 1022 badges <=> Courses Completed | 377
 ----------
 
 # Paths
@@ -742,3 +742,4 @@
 - Build a Simple Android App with Kotlin => COMPLETED | 27/12/2017 | 423 points
 - OWASP Top 10 Vulnerabilities => COMPLETED | 01/02/2018 | 236 points
 - Introduction to Product Design => COMPLETED | 29/02/2018 | 216 points
+- Introduction to Git => COMPLETED | 20/04/2018 | 324 points
