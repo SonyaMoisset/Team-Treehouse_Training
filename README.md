@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,890 points
-### JavaScript | 10,880 points
+### JavaScript | 11,196 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,687 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 82,607 <=> Total Achievements | 1022 badges <=> Courses Completed | 377
+### Total Points | 82,748 <=> Total Achievements | 1024 badges <=> Courses Completed | 378
 ----------
 
 # Paths
@@ -743,3 +743,4 @@
 - OWASP Top 10 Vulnerabilities => COMPLETED | 01/02/2018 | 236 points
 - Introduction to Product Design => COMPLETED | 29/02/2018 | 216 points
 - Introduction to Git => COMPLETED | 20/04/2018 | 324 points
+- The Landscape of JavaScript => COMPLETED | 24/05/2018 | 146 points
