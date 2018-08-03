@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,890 points
-### JavaScript | 11,334 points
+### JavaScript | 11,472 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 7,687 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 82,888 <=> Total Achievements | 1025 badges <=> Courses Completed | 379
+### Total Points | 83,024 <=> Total Achievements | 1027 badges <=> Courses Completed | 380
 ----------
 
 # Paths
@@ -745,3 +745,4 @@
 - Introduction to Git => COMPLETED | 20/04/2018 | 324 points
 - The Landscape of JavaScript => COMPLETED | 24/05/2018 | 146 points
 - jQuery Basics => COMPLETED | 17/06/2018 | 308 points
+- The JavaScript Ecosystem  => COMPLETED | 03/08/2018 | 138 points
