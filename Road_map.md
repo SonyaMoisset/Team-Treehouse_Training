@@ -23,6 +23,7 @@
 - Website Basics
 - Git Basics
 - Console Foundations
+- Introduction to REST APIs
 
 ### Security
 - OWASP Top 10 Vulnerabilities
