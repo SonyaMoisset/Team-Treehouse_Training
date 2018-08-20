@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 83,132 <=> Total Achievements | 1028 badges <=> Courses Completed | 381
+### Total Points | 83,385 <=> Total Achievements | 1032 badges <=> Courses Completed | 382
 ----------
 
 # Paths
@@ -747,3 +747,4 @@
 - jQuery Basics => COMPLETED | 17/06/2018 | 308 points
 - The JavaScript Ecosystem  => COMPLETED | 03/08/2018 | 138 points
 - Introduction to REST APIs => COMPLETED | 20/08/2018 | 108 points
+- Creating User Experiences => COMPLETED | 20/08/2018 | 253 points
