@@ -1,10 +1,10 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,890 points
-### JavaScript | 11,472 points
+### JavaScript | 11,691 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
-### Python | 7,687 points
+### Python | 8,038 points
 ### Ruby | 6,428 points
 ### C# | 3,867 points
 ### Game Development | 408 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 83,888 <=> Total Achievements | 1035 badges <=> Courses Completed | 382
+### Total Points | 84,137 <=> Total Achievements | 1035 badges <=> Courses Completed | 384
 ----------
 
 # Paths
@@ -748,3 +748,4 @@
 - Introduction to REST APIs => COMPLETED | 20/08/2018 | 108 points
 - Creating User Experiences => COMPLETED | 20/08/2018 | 253 points
 - Python Basics => COMPLETED | 10/10/2018 | 342 points
+- React Basics => COMPLETED | 11/02/2018 | 248 points
