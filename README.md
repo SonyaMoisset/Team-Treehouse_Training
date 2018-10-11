@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 83,780 <=> Total Achievements | 1035 badges <=> Courses Completed | 382
+### Total Points | 83,888 <=> Total Achievements | 1035 badges <=> Courses Completed | 382
 ----------
 
 # Paths
@@ -292,3 +292,459 @@
 - Django Class-based Views => COMPLETED | 12/11/2016 | 231 points
 - REST API Basics => COMPLETED | 24/10/2016 | 101 points
 - Django REST Framework => COMPLETED | 13/11/2016 | 3
+- REST API Basics => COMPLETED | 24/10/2016 | 101 points
+- Django REST Framework => COMPLETED | 13/11/2016 | 346 points
+- Django Authentication => COMPLETED | 13/11/2016 | 233 points
+- Django Social Authentication => VIEWED | 13/11/2016
+ 
+ ## Learn Ruby
+### Points | 2,704 points
+- Ruby Basics => COMPLETED | 13/11/2016 | 351 points
+- Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
+- Ruby Collections => COMPLETED | 14/11/2016 | 312 points
+- Ruby Loops => COMPLETED | 14/11/2016 | 293 points
+- Ruby Objects and Classes => COMPLETED | 14/11/2016 | 320 points
+- Ruby Booleans => COMPLETED | 15/11/2016 | 264 points
+- Ruby Blocks => COMPLETED | 16/11/2016 | 306 points
+- Build an Address Book in Ruby => COMPLETED | 17/11/2016 | 290 points
+- Ruby Modules => COMPLETED | 20/11/2016 | 356 points
+- Ruby Enumerable => VIEWED | 20/11/2016
+- Ruby Core and Standard Library => COMPLETED | 22/11/2016 | 301 points
+- Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
+
+ ## Rails Development | TYPE A
+### Points | 4,822 points
+- How to Make a Website => COMPLETED | 14/08/2016 | 658 points
+- Ruby Basics => COMPLETED | 13/11/2016 | 351 points
+- Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
+- Ruby Collections => COMPLETED | 14/11/2016 | 312 points
+- Ruby Loops => COMPLETED | 14/11/2016 | 293 points
+- Ruby Objects and Classes => COMPLETED | 14/11/2016 | 320 points
+- Console Foundations => COMPLETED | 30/08/2016 | 336 points
+- Gits Basics => COMPLETED | 31/08/2016 | 411 points
+- Database Foundations => COMPLETED | 25/11/2016 | 618 points
+- Ruby on Rails 5 Basics => COMPLETED | 26/11/2016 | 377 points
+- HTML Forms => COMPLETED | 19/08/2016 | 275 points
+- Rails Routes and Resources => COMPLETED | 26/11/2016 | 485 points
+- JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
+- Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
+- Troubleshooting a Rails Application => VIEWED | 26/11/2016
+
+ ## Rails Development | TYPE B
+### Points | 5,045 points
+- Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
+- Ruby Basics => COMPLETED | 13/11/2016 | 351 points
+- Ruby Operators and Control Structures => COMPLETED | 14/11/2016 | 318 points
+- Ruby Collections => COMPLETED | 14/11/2016 | 312 points
+- Ruby Loops => COMPLETED | 14/11/2016 | 293 points
+- Ruby Objects and Classes => COMPLETED | 14/11/2016 | 320 points
+- Console Foundations => COMPLETED | 30/08/2016 | 336 points
+- Gits Basics => COMPLETED | 31/08/2016 | 411 points
+- Building Web Apps with Sinatra => COMPLETED | 29/05/2017 | 285 points
+- SQL Basics => COMPLETED | 19/09/2016 | 319 points
+- Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
+- Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
+- Ruby on Rails 5 Basics => COMPLETED | 26/11/2016 | 377 points
+- HTML Forms => COMPLETED | 19/08/2016 | 275 points
+- Rails Routes and Resources => COMPLETED | 26/11/2016 | 485 points
+- JavaScript Basics => COMPLETED | 17/08/2016 | 655 points
+- Ruby Gems  => COMPLETED | 22/11/2016 | 193 points
+- Troubleshooting a Rails Application => VIEWED | 26/11/2016
+
+ ## Learn SQL
+### Points | 1,181 points
+- SQL Basics => COMPLETED | 19/09/2016 | 319 points
+- Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
+- Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
+- Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
+
+ ## Beginner SQL
+### Points | 1,740 points
+- SQL Basics => COMPLETED | 19/09/2016 | 319 points
+- Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
+- Reporting with SQL => COMPLETED | 30/11/2016 | 432 points
+- Querying Relational Databases => COMPLETED | 30/11/2016 | 351 points
+- SQL Reporting by Example => COMPLETED | 21/07/2017 | 229 points
+
+ ## Learn CSharp | TYPE A
+### Points | 2,094 points
+- C# Basics => COMPLETED | 03/12/2016 | 413 points
+- C# Objects => COMPLETED | 06/12/2016 | 617 points
+- Intermediate C# => COMPLETED | 06/12/2016 | 303 points
+- Introduction to Visual Studio => VIEWED | 07/12/2016
+- Using Github with Visual Studio => VIEWED | 07/12/2016
+- C# Streams and Data Processing => COMPLETED | 10/12/2016 | 386 points
+- C# Collections => COMPLETED | 11/12/2016 | 271 points
+- Querying With LINQ => COMPLETED | 12/12/2016 | 404 points
+- Package Management with Nuget => VIEWED | 12/12/2016
+
+ ## Learn CSharp | TYPE B
+### Points | 2,319 points
+- C# Basics => COMPLETED | 03/12/2016 | 413 points
+- C# Objects => COMPLETED | 06/12/2016 | 617 points
+- Intermediate C# => COMPLETED | 06/12/2016 | 303 points
+- Introduction to Visual Studio => VIEWED | 07/12/2016
+- Using Github with Visual Studio => VIEWED | 07/12/2016
+- C# Streams and Data Processing => COMPLETED | 10/12/2016 | 386 points
+- C# Collections => COMPLETED | 11/12/2016 | 271 points
+- Querying With LINQ => COMPLETED | 12/12/2016 | 404 points
+- Package Management with Nuget => VIEWED | 12/12/2016
+- Unit Testing in C# => COMPLETED | 29/05/2017 | 285 points
+
+ ## ASP NET Web Development
+### Points | 2,635 points
+- C# Basics => COMPLETED | 03/12/2016 | 413 points
+- C# Objects => COMPLETED | 06/12/2016 | 617 points
+- Introduction to Visual Studio => VIEWED | 07/12/2016
+- Using Github with Visual Studio => VIEWED | 07/12/2016
+- Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
+- HTTP Basics => COMPLETED | 24/10/2016 | 188 points
+- ASP.NET MVC Basics => COMPLETED | 13/12/2016 | 438 points
+- C# Collections => COMPLETED | 11/12/2016 | 271 points
+- Querying With LINQ => COMPLETED | 12/12/2016 | 404 points
+- Debugging in Visual Studio => VIEWED | 13/12/2016
+- ASP.NET MVC Forms => COMPLETED | 14/12/2016 | 415 points
+- Package Management with Nuget => VIEWED | 12/12/2016
+
+ ## Learn React | TYPE A
+### Points | 610 points
+- React Basics => COMPLETED | 19/12/2016 | 292 points
+- Getting Started with Webpack => VIEWED | 19/12/2016
+- Setting up Webpack for React => VIEWED | 20/12/2016
+- React Router Basics => COMPLETED | 20/12/2016 | 196 points
+- Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
+
+ ## Learn React | TYPE B
+### Points | 603 points
+- React Basics => COMPLETED | 19/12/2016 | 292 points
+- Setting up Webpack for React => VIEWED | 20/12/2016
+- React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
+- Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
+- Data Fetching in React => VIEWED | 10/02/2017
+- Animations in React => VIEWED | 26/05/2017
+
+ ## Learn React | TYPE C
+### Points | 873 points
+- React Basics => COMPLETED | 19/12/2016 | 292 points
+- Using Create React App => VIEWED | 26/07/2017
+- React Router 4 Basics => COMPLETED | 11/05/2017 | 189 points
+- Building Applications with React and Redux => COMPLETED | 20/12/2016 | 242 points
+- Data Fetching in React => VIEWED | 10/02/2017
+- Animations in React => VIEWED | 26/05/2017
+
+ ## Learn Java
+### Points | 1,455 points
+- Java Basics => COMPLETED | 25/12/2016 | 275 points
+- Java Objects (retired) => COMPLETED | 26/12/2016 | 434 points
+- Java Objects => COMPLETED | 27/12/2016 | 444 points
+- The Thing About Strings => VIEWED | 27/12/2016
+- Java Data Structures => COMPLETED | 30/12/2016 | 389 points
+- Regular Expressions in Java => VIEWED | 01/01/2017
+- Local Development Environments => COMPLETED | 03/01/2017 | 254 points
+- Java Lambdas => VIEWED | 03/01/2017
+- Build a JavaFX Application => COMPLETED | 04/01/2017 | 333 points
+
+ ## Java Web Development
+### Points | 2,419 points
+- Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
+- Dependency Management with Gradle => VIEWED | 06/01/2017
+- Introduction to HTML and CSS => COMPLETED | 14/09/2016 | 309 points
+- HTTP Basics => COMPLETED | 24/10/2016 | 188 points
+- Java Lambdas => VIEWED | 03/01/2017
+- Intro to Java Web Development with Spark => COMPLETED | 08/01/2017 | 206 points
+- Java Annotations => COMPLETED | 09/01/2017 | 289 points
+- Spring Basics => COMPLETED | 12/01/2017 | 431 points
+- SQL Basics => COMPLETED | 19/09/2016 | 319 points
+- Modifying Data with SQL => COMPLETED | 27/11/2016 | 259 points
+- Hibernate Basics => COMPLETED | 14/01/2017 | 273 points
+- Spring with Hibernate => COMPLETED | 16/01/2017 | 371 points
+- Debugging an Existing Java Application => VIEWED | 17/01/2017
+- User Authentication in Spring => VIEWED | 18/01/2017
+- Unit Testing a Spring Application => VIEWED | 18/01/2017
+- Rest API Basics => COMPLETED | 24/10/2016 | 101 points
+- Build a REST API in Spark => VIEWED | 18/01/2017
+- Build a REST API in Spring => VIEWED | 18/01/2017
+
+ ## Beginner Android Development | TYPE A
+### Points | 1,961 points
+- Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
+- Getting Started with the Android Emulator => VIEWED | 19/01/2017
+- Build an Interactive Story App => COMPLETED | 22/01/2017 | 378 points
+- Github and Android Studio => VIEWED | 22/01/2017
+- Build a Weather App => COMPLETED | 24/01/2017 | 498 points
+- Dependency Management with Gradle => VIEWED | 06/01/2017
+- Android Lists and Adapters => COMPLETED | 30/01/2017 | 433 points
+- Android Activity Lifecycle => COMPLETED | 31/01/2017 | 229 points
+- Android Fragments => COMPLETED | 01/02/2017 | 299 points
+
+ ## Beginner Android Development | TYPE B
+### Points | 1,387 points
+- Build a Simple Android App => COMPLETED | 19/01/2017 | 424 points
+- Getting Started with the Android Emulator => VIEWED | 19/01/2017
+- Build an Interactive Story App => COMPLETED | 20/06/2017 | 466 points
+- Create an Options Menu => VIEWED | 05/06/2017
+- Github and Android Studio => VIEWED | 22/01/2017
+- Styles and Themes in Android => COMPLETED | 06/06/2017 | 178 points
+- Build a Weather App => COMPLETED | 24/01/2017 | 498 points
+
+ ## Intermediate Android Development | TYPE A
+### Points | 2,189 points
+- Animations and Transitions => COMPLETED | 08/02/2017 | 330 points
+- Android Data Persistence => COMPLETED | 16/02/2017 | 495 points
+- Google Play Services => COMPLETED | 20/02/2017 | 271 points
+- Threads and Services => COMPLETED | 22/02/2017 | 351 points
+- Intents and Broadcast Receivers => COMPLETED | 24/02/2017 | 298 points
+- Kotlin for Java Developers => COMPLETED | 27/02/2017 | 275 points
+- Kotlin and Anko => COMPLETED | 27/02/2017 | 159 points
+- Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
+- Testing in Android => COMPLETED | 28/02/2017 | 217 points
+- Using the Camera in Android => VIEWED | 28/01/2017
+
+ ## Intermediate Android Development | TYPE B
+### Points | 1,757 points
+- Android Lists and Adapters => COMPLETED | 30/01/2017 | 433 points
+- Dependency Management with Gradle => VIEWED | 06/01/2017
+- Android Activity Lifecycle => COMPLETED | 31/01/2017 | 229 points
+- Animations and Transitions => COMPLETED | 08/02/2017 | 330 points
+- Android Permissions => VIEWED | 15/04/2017
+- Android Fragments => COMPLETED | 01/02/2017 | 299 points
+- Android Data Persistence => COMPLETED | 16/02/2017 | 495 points
+- Google Play Services => COMPLETED | 20/02/2017 | 271 points
+
+ ## Advanced Android Development
+### Points | 1,273 points
+- Threads and Services => COMPLETED | 22/02/2017 | 351 points
+- Intents and Broadcast Receivers => COMPLETED | 24/02/2017 | 298 points
+- Unit Testing in Java => COMPLETED | 06/01/2017 | 273 points
+- Testing in Android => COMPLETED | 28/02/2017 | 217 points
+- Android Widgets => VIEWED | 15/04/2017
+- Kotlin for Java Developers => COMPLETED | 27/02/2017 | 275 points
+- Kotlin and Anko => COMPLETED | 27/02/2017 | 159 points
+
+ ## Learn Swift
+### Points | 1,807 points
+- Swift 3 Basics => COMPLETED | 24/06/2017 | 271 points
+- Swift 3 Collections and Control Flow => COMPLETED | 29/06/2017 | 298 points
+- Functions in Swift 3 => COMPLETED | 03/07/2017 | 183 points
+- Object-Oriented Swift 3 => COMPLETED | 12/07/2017 | 303 points
+- Enumerations and Optionals in Swift 3 => COMPLETED | 29/07/2017 | 269 points
+- Protocols in Swift 3 => COMPLETED | 30/07/2017 | 190 points
+- Error Handling in Swift 3 => COMPLETED | 30/07/2017 | 143 points
+
+ ## Beginner iOS Development 
+### Points
+- Swift 3 Basics => COMPLETED | 24/06/2017 | 271 points
+- Swift 3 Collections and Control Flow => COMPLETED | 29/06/2017 | 298 points
+- Functions in Swift 3 => COMPLETED | 03/07/2017 | 183 points
+- Object-Oriented Swift 3 => COMPLETED | 12/07/2017 | 303 points
+- Build a Simple iPhone App with Swift 3 => COMPLETED | 29/07/2017 | 330 points
+- Enumerations and Optionals in Swift 3 => COMPLETED | 29/07/2017 | 269 points
+- Protocols in Swift 3 => COMPLETED | 30/07/2017 | 190 points
+- Error Handling in Swift 3 => COMPLETED | 30/07/2017 | 143 points
+- Build a Vending Machine App in Swift 3 => COMPLETED | 08/08/2017 | 246 points
+
+ ## Intermediate Swift
+### Points
+- API Design Guidelines in Swift 3 => COMPLETED | 18/07/2017 | 122 points
+
+ ## Beginner Game Development with Unity
+### Points |
+- How to Make a Video Game => COMPLETED | 1/04/2017 | 408 points
+
+ ## Beginner VR
+### Points
+- VR in Unity => COMPLETED | 27/08/2017 | 265 points
+
+ ## Starting a Business
+### Points | 884 points
+- How to Start a Business => COMPLETED | 02/07/2017 | 331 points
+- How to Market Your Business => COMPLETED | 14/03/2017 | 403 points
+ ----------
+ # Bonus Series   
+- How To Learn => VIEWED | 03/05/2017
+
+ # Workshops
+- Introduction to postCSS => COMPLETED | 9 points
+- Introducing Arrow Function Syntax => VIEWED | 18/12/2016
+- Defining Variables with let and const => VIEWED | 21/12/2016
+- Creating a jQuery Plugin => VIEWED | 01/02/2017
+- The JavaScript 'use strict' Statement => VIEWED | 01/02/2017
+- Introducing Template Literals => VIEWED | 01/02/2017
+- Debugging Node Applications with Google Chrome => VIEWED | 01/02/2017
+- Understanding Express Middleware => VIEWED | 10/02/2017
+- Practice CSS Selectors => VIEWED | 05/03/2017
+- Practice Media Queries => VIEWED | 05/03/2017
+- Debugging JavaScript in the Browser => VIEWED | 05/03/2017
+- Practice The CSS Box Model => VIEWED | 13/04/2017
+- Practice CSS Floats => VIEWED | 13/04/2017
+- What's New in Python 3.6? => VIEWED | 19/04/2017
+- Practice Basic Variables, Input & Output in JavaScript => VIEWED | 24/04/2017
+- Practice Column Selection and Aliasing with SQL => VIEWED | 27/04/2017
+- Getting Started with Firebase => VIEWED | 02/05/2017
+- Create a Jekyll Site on GitHub => VIEWED | 03/05/2017
+- CSS Masks => VIEWED | 03/05/2017
+- Practice Simple WHERE Clauses with SQL => VIEWED | 03/05/2017
+- Practice JavaScript Math Methods => VIEWED | 04/05/2017
+- Practice If and Else Statements in JavaScript => VIEWED | 04/05/2017
+- Practice Basic JavaScript Functions => VIEWED | 08/05/2017
+- Getting Started with Android => VIEWED | 09/05/2017
+- Practice Basic Math Calculation in Python => VIEWED | 22/05/2017
+- Practice Using Strings and Lists in Python => VIEWED | 22/05/2017
+- Practice with Views in Android => VIEWED | 25/05/2017
+- Coding Your First HTML5 Game => VIEWED | 26/05/2017
+- Practice Strings in Ruby => VIEWED | 02/06/2017
+- Practice Input and Output in Java => VIEWED | 02/06/2017
+- Practice Input and Output in Ruby => VIEWED | 02/06/2017
+- Practice Ruby Methods => VIEWED | 08/06/2017
+- Introducing Microsoft Excel => VIEWED | 08/06/2017
+- Practice Ruby Numeric Types => VIEWED | 16/06/2017
+- Practice PHP Number Variables => VIEWED | 16/06/2017
+- Practice PHP String Manipulation => VIEWED | 16/06/2017
+- Practice PHP if/else Statements => VIEWED | 16/06/2017
+- Practice Including PHP with HTML => VIEWED | 16/06/2017
+- The CSS calc() Function => VIEWED | 17/06/2017
+- Create a Modal Window with CSS => VIEWED | 18/06/2017
+- Create an Accordion Menu with CSS => VIEWED | 18/06/2017
+- CSS Clipping Paths => VIEWED | 18/06/2017
+- Using Local Storage with JavaScript => VIEWED | 18/06/2017
+- Build a Learning Mindset => VIEWED | 24/06/2017
+- Be a Lifelong Learner => VIEWED | 01/07/2017
+- Debugging CSS with Chrome DevTools => VIEWED | 25/07/2017
+- Practice JavaScript Loops => VIEWED | 25/07/2017
+- Introducing Text Editors => VIEWED | 25/07/2017
+- Build a Realtime Database App with Firebase => VIEWED | 25/07/2017
+- Creating Your First ASP.NET MVC Website => VIEWED | 01/08/2017
+- Free Workshop: Creating Your First ASP.NET MVC Website => VIEWED | 01/08/2017
+- Jupyter Notebooks => VIEWED | 03/08/2017
+- Introduction to Babel => VIEWED | 03/08/2017
+- Understanding Promises in JavaScript => VIEWED | 03/08/2017
+- How to Create and Distribute an npm Package => VIEWED | 03/08/2017
+- Using the Geolocation API in JavaScript => VIEWED | 03/08/2017
+- JavaScript Booleans => VIEWED | 04/08/2017
+- Deploy your App to GitHub Pages with Gulp => VIEWED | 04/08/2017
+- Using Gulp's 'gulp-useref' For a Full Build Pipeline => VIEWED | 07/08/2017
+- CSV and JSON in Python => VIEWED | 07/08/2017
+- Python File I/O => VIEWED | 07/08/2017
+- What's New in Swift 2.0 => VIEWED | 07/08/2017
+- iOS Improving Interaction with Animation => VIEWED | 10/08/2017
+- Comparing Code: Swift and Objective-C => VIEWED | 10/08/2017
+- Create Tooltips with CSS => VIEWED | 11/08/2017
+- Installing a Ruby on Rails Development Environment in OS X => VIEWED | 14/08/2017
+- Installing a Ruby on Rails Development Environment in Windows => VIEWED | 14/08/2017
+- Installing a Ruby on Rails Development Environment in Ubuntu => VIEWED | 14/08/2017
+- Ruby on Rails Scaffolding => VIEWED | 14/08/2017
+- Ruby 2.0 Walkthrough => VIEWED | 15/08/2017
+- Rails Application Walkthrough => VIEWED | 15/08/2017
+- Creating Static Pages in Rails => VIEWED | 15/08/2017
+- Introduction to Bundler => VIEWED | 15/08/2017
+- Practice CSS Grid: Columns, Rows and Gaps => VIEWED | 09/10/2017
+- Practice Flexible CSS Grid Layout => VIEWED | 09/10/2017
+- Practice Grid Template Areas => VIEWED | 09/10/2017
+- Practice First-Class Functions in Python => VIEWED | 09/10/2017
+- Migrating WordPress => VIEWED | 27/10/2017
+- Using CSS Variables => VIEWED | 08/12/2017
+- What's New in React 16 => VIEWED | 08/12/2017
+- Practice Hashing Passwords in JavaScript => VIEWED | 12/02/2018
+- Practice Hashing Passwords in PHP => VIEWED | 12/02/2018
+- Practice Ruby on Rails Basics => VIEWED | 28/02/2018
+
+ # Courses
+- Website Basics => COMPLETED | 14/12/2016 | 101 points
+- Technology Foundations => COMPLETED | 15/12/2016 | 149 points 
+- MailChimp API => COMPLETED | 15/12/2016 | 112 points
+- Responsive Images => COMPLETED | 15/12/2016 | 174 points
+- CSS Layout Techniques => COMPLETED | 15/12/2016 | 300 points  
+- Framework Basics => COMPLETED | 19/12/2016 | 462 points 
+- JavaScript and the DOM => COMPLETED | 22/12/2016 | 424 points 
+- DOM Scripting By Example => COMPLETED | 01/02/2017 | 235 points
+- Node.js Basics => COMPLETED | 03/02/2017 | 301 points
+- Introduction to jQuery => COMPLETED | 03/02/2017 | 243 points
+- Sass Basics  => COMPLETED | 06/03/2017 | 371 points
+- Modular CSS with Sass => COMPLETED | 07/03/2017 | 338 points
+- Aesthetic Foundations => COMPLETED | 08/03/2017 | 178 points
+- Build a Website with WordPress => COMPLETED | 09/03/2017 | 264 points
+- Careers Foundations => COMPLETED | 09/03/2017 | 397 points
+- Copyright Basics => COMPLETED | 10/03/2017 | 247 points
+- Drupal Basics => COMPLETED | 13/03/2017 | 274 points
+- How to Build Your Business Through Blogging => COMPLETED | 14/03/2017 | 223 points
+- Usability Foundations => COMPLETED | 20/03/2017 | 249 points
+- HTML Email Design => COMPLETED | 20/03/2017 | 216 points
+- How to Freelance => COMPLETED | 22/03/2017 | 324 points
+- The WordPress Codex => COMPLETED | 22/03/2017 | 101 points
+- How to Write a Business Plan => COMPLETED | 23/03/2017 | 156 points
+- UX Basics => COMPLETED | 26/03/2017 | 295 points
+- Angular Basics => COMPLETED | 27/03/2017 | 286 points
+- Web Accessibility Compliance => COMPLETED | 30/03/2017 | 317 points
+- SEO Basics => COMPLETED | 03/04/2017 | 289 points
+- Python Collections => COMPLETED | 04/04/2017 | 533 points
+- GitHub Basics => COMPLETED | 07/04/2017 | 300 points
+- Build an Alexa Skill => COMPLETED | 07/04/2017 | 204 points
+- Spreadsheet Basics => COMPLETED | 17/04/2017 | 283 points
+- Moving from WordPress.com to Self-Hosted WordPress.org => COMPLETED | 17/04/2017 | 102 points
+- Data Science Basics => COMPLETED | 18/04/2017 | 369 points
+- Front End Web Optimization Workflow => COMPLETED | 19/04/2017 | 221 points
+- HTML Video and Audio => COMPLETED | 25/04/2017 | 181 points
+- HTML => COMPLETED | 13/05/2017 | 370 points
+- Soft Skills => COMPLETED | 22/05/2017 | 311 points
+- Introduction to Data Security => COMPLETED | 08/06/2017 | 154 points
+- Introduction to Scala => COMPLETED | 21/06/2017 | 201 points
+- Express Basics => COMPLETED | 24/06/2017 | 417 points
+- Object-Oriented Python => COMPLETED | 27/06/2017 | 470 points
+- Markdown Basics => COMPLETED | 28/06/2017 | 470 points
+- AWS with S3 => COMPLETED | 29/06/2017 | 470 points
+- Using the GitHub API with PHP => COMPLETED | 05/07/2017 | 170 points
+- Build a Rails API => COMPLETED | 09/07/2017 | 345 points
+- D3.js => COMPLETED | 10/07/2017 | 275 points
+- Callback Functions in JavaScript => COMPLETED | 19/07/2017 | 229 points
+- Introduction to Big Data => COMPLETED | 19/07/2017 | 198 points
+- Laravel 4 Basics => COMPLETED | 22/07/2017 | 440 points
+- PHP Standards and Best Practices => COMPLETED | 23/07/2017 | 332 points
+- Nested CRUD with Laravel 4 => COMPLETED | 23/07/2017 | 178 points
+- Scrum Basics 4 => COMPLETED | 23/07/2017 | 278 points
+- PHP & Databases with PDO => COMPLETED | 24/07/2017 | 202 points
+- Data Visualization with Excel => COMPLETED | 27/07/2017 | 234 points
+- PHP User Authentication => COMPLETED | 31/07/2017 | 290 points
+- Extending Object-Oriented PHP => COMPLETED | 01/08/2017 | 186 points
+- Introducing JavaScript => COMPLETED | 02/08/2017 | 181 points
+- Web Design Process => COMPLETED | 02/08/2017 | 139 points
+- Objective-C Basics => COMPLETED | 08/08/2017 | 420 points
+- Build a Simple iPhone App with Objective-C => COMPLETED | 08/08/2017 | 347 points
+- ActiveRecord Basics => COMPLETED | 08/08/2017 | 412 points
+- Delegates in Swift 2 => COMPLETED | 08/08/2017 | 140 points
+- Intermediate Swift 2 => COMPLETED | 10/08/2017 | 356 points
+- Build a Playlist Browser with Objective-C => COMPLETED | 14/08/2017 | 307 points
+- Unit Testing in iOS => COMPLETED | 14/08/2017 | 139 points
+- Generics in Swift 2 => COMPLETED | 16/08/2017 | 139 points
+- Introduction to React Native => COMPLETED | 20/08/2017 | 231 points
+- Presentation Skills => COMPLETED | 23/08/2017 | 177 points
+- Security Literacy => COMPLETED | 23/08/2017 | 199 points
+- Regular Expressions in JavaScript => COMPLETED | 29/08/2017 | 217 points
+- Installing WordPress Locally => COMPLETED | 30/08/2017 | 100 points
+- Prototyping in the Browser => COMPLETED | 03/09/2017 | 140 points
+- Mobile App Design for iOS => COMPLETED | 05/09/2017 | 270 points
+- React by Example => COMPLETED | 19/09/2017 | 198 points
+- Introduction to Selenium => COMPLETED | 21/09/2017 | 207 points
+- Introduction to Docker => COMPLETED | 25/09/2017 | 261 points
+- Data Visualization with Bokeh => COMPLETED | 25/09/2017 | 139 points
+- CSS Grid Layout => COMPLETED | 28/09/2017 | 233 points
+- Introduction to Xamarin => COMPLETED | 09/10/2017 | 214 points
+- Mobile Game Design => COMPLETED | 11/10/2017 | 288 points
+- Ruby Basics => COMPLETED | 16/10/2017 | 434 points
+- Getting Started With ES2015 => COMPLETED | 16/10/2017 | 186 points
+- Bootstrap 4 Basics => COMPLETED | 02/11/2017 | 228 points
+- Active Record Associations in Rails => COMPLETED | 08/11/2017 | 274 points
+- Build a Simple Android App with Java => COMPLETED | 25/11/2017 | 424 points
+- JavaScript Array Iteration Methods => COMPLETED | 04/12/2017 | 288 points
+- Build a Chatbot with Watson APIs => COMPLETED | 08/12/2017 | 202 points
+- Introduction to GraphQL => COMPLETED | 14/12/2017 | 231 points
+- Introduction to Application Security => COMPLETED | 20/12/2017 | 187 points
+- Build a Simple Android App with Kotlin => COMPLETED | 27/12/2017 | 423 points
+- OWASP Top 10 Vulnerabilities => COMPLETED | 01/02/2018 | 236 points
+- Introduction to Product Design => COMPLETED | 29/02/2018 | 216 points
+- Introduction to Git => COMPLETED | 20/04/2018 | 324 points
+- The Landscape of JavaScript => COMPLETED | 24/05/2018 | 146 points
+- jQuery Basics => COMPLETED | 17/06/2018 | 308 points
+- The JavaScript Ecosystem  => COMPLETED | 03/08/2018 | 138 points
+- Introduction to REST APIs => COMPLETED | 20/08/2018 | 108 points
+- Creating User Experiences => COMPLETED | 20/08/2018 | 253 points
+- Python Basics => COMPLETED | 10/10/2018 | 342 points
