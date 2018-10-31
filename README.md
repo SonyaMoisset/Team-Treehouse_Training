@@ -1,7 +1,7 @@
 # Treehouse
 ### HTML | 3,110 points
 ### CSS | 4,890 points
-### JavaScript | 11,961 points
+### JavaScript | 12,160 points
 ### PHP | 5,123 points
 ### WordPress | 4,648 points
 ### Python | 8,038 points
@@ -22,7 +22,7 @@
 ### QA | 207 points
 ### Go | 116 points
 ### VR | 115 points
-### Total Points | 84,407 <=> Total Achievements | 1044 badges <=> Courses Completed | 385
+### Total Points | 84,636 <=> Total Achievements | 1048 badges <=> Courses Completed | 386
 ----------
 
 # Paths
@@ -750,3 +750,4 @@
 - Python Basics => COMPLETED | 10/10/2018 | 342 points
 - React Basics => COMPLETED | 11/02/2018 | 248 points
 - JavaScript Quickstart => COMPLETED | 31/10/2018 | 267 points
+- React Components => COMPLETED | 31/10/2018 | 227 points
