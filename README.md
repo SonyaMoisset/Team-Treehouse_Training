@@ -1,4 +1,7 @@
 # Treehouse
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SonyaMoisset/Team-Treehouse_Training.svg)](https://greenkeeper.io/)
+
 ### HTML | 3,110 points
 ### CSS | 4,890 points
 ### JavaScript | 12,160 points

@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "16-Learn-React/exercises/scoreboard/package.json"
+      ]
+    }
+  }
+}
