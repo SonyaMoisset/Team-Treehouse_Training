@@ -32,7 +32,7 @@
     "eslint": "9.10.0",
     "eslint-plugin-react": "7.37.5",
     "react-hot-loader": "4.8.0",
-    "webpack": "5.94.0",
+    "webpack": "5.104.1",
     "webpack-dev-server": "5.2.2"
   }
 }
